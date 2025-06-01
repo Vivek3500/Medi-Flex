@@ -74,7 +74,7 @@ This project was developed as part of the **EPICS (Engineering Projects in Commu
 
 For more details, see the:
 
-- 📘 [Final Report](https://github.com/Vivek3500/Medi-Flex/blob/eb3c72e7e82f5ba918b56a17695e7b3b3ad8cc68/APP%20FINAL%20PROTOTYPE/EPICs%20Project%20Final%20Research%20Paper.docx)  
+- 📘 [Final Report](https://github.com/Vivek3500/Medi-Flex/blob/06378709417040dccf859a5df551d83032913ae8/APP%20FINAL%20PROTOTYPE/EPICs%20Project%20Report%20Phase%20II.docx)  
 - 📄 [Research Paper](https://github.com/Vivek3500/Medi-Flex/blob/eb3c72e7e82f5ba918b56a17695e7b3b3ad8cc68/APP%20FINAL%20PROTOTYPE/EPICs%20Project%20Final%20Research%20Paper.docx)
 
 
