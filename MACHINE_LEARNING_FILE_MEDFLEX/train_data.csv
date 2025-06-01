@@ -1,0 +1,4001 @@
+Symptom 1,Symptom 2,Symptom 3,Medicine
+heartburn,,,Aciloc
+inflammation,stomach acid,cough,"Azithromycin, Aciloc, Diclofenac"
+joint pain,fever,,"Paracetamol, Diclofenac"
+sore throat,stomach cramps,sneezing,"Cetirizine, Azithromycin, Lomotil"
+stomach acid,,,Aciloc
+stomach cramps,,,Lomotil
+bacterial infection,nausea,pain,"Azithromycin, Aciloc, Diclofenac"
+stomach acid,fever,bacterial infection,"Azithromycin, Aciloc, Paracetamol"
+joint pain,,,Diclofenac
+sneezing,,,Cetirizine
+itchy eyes,bacterial infection,muscle pain,"Cetirizine, Azithromycin, Paracetamol"
+cough,itchy eyes,respiratory infection,"Cetirizine, Azithromycin"
+inflammation,,,Diclofenac
+muscle pain,,,Paracetamol
+nausea,muscle pain,bacterial infection,"Azithromycin, Aciloc, Paracetamol"
+fever,inflammation,muscle pain,"Paracetamol, Diclofenac"
+joint pain,diarrhea,cough,"Azithromycin, Lomotil, Diclofenac"
+itchy eyes,fever,inflammation,"Cetirizine, Paracetamol, Diclofenac"
+diarrhea,fever,,"Lomotil, Paracetamol"
+sneezing,fever,inflammation,"Cetirizine, Paracetamol, Diclofenac"
+heartburn,headache,,"Aciloc, Paracetamol"
+cough,,,Azithromycin
+cough,sore throat,,Azithromycin
+inflammation,stomach cramps,,"Lomotil, Diclofenac"
+skin rash,,,Cetirizine
+sore throat,pain,,"Azithromycin, Diclofenac"
+itchy eyes,fever,skin rash,"Cetirizine, Paracetamol"
+joint pain,,,Diclofenac
+inflammation,,,Diclofenac
+fever,,,Paracetamol
+muscle pain,,,Paracetamol
+sore throat,,,Azithromycin
+headache,fever,,Paracetamol
+diarrhea,respiratory infection,nausea,"Azithromycin, Lomotil, Aciloc"
+diarrhea,cough,nausea,"Azithromycin, Lomotil, Aciloc"
+cough,runny nose,stomach acid,"Cetirizine, Azithromycin, Aciloc"
+fever,,,Paracetamol
+sneezing,pain,bacterial infection,"Cetirizine, Azithromycin, Diclofenac"
+inflammation,pain,,Diclofenac
+itchy eyes,skin rash,fever,"Cetirizine, Paracetamol"
+skin rash,cough,muscle pain,"Cetirizine, Azithromycin, Paracetamol"
+runny nose,,,Cetirizine
+sneezing,,,Cetirizine
+stomach cramps,fungal infection,fever,"Cetirizine, Lomotil, Paracetamol"
+muscle pain,,,Paracetamol
+skin rash,sneezing,,Cetirizine
+muscle pain,,,Paracetamol
+cough,,,Azithromycin
+inflammation,respiratory infection,,"Azithromycin, Diclofenac"
+inflammation,runny nose,bacterial infection,"Cetirizine, Azithromycin, Diclofenac"
+heartburn,joint pain,,"Aciloc, Diclofenac"
+diarrhea,cough,itchy eyes,"Cetirizine, Azithromycin, Lomotil"
+stomach cramps,runny nose,,"Cetirizine, Lomotil"
+pain,heartburn,,"Aciloc, Diclofenac"
+itchy eyes,runny nose,,Cetirizine
+skin rash,,,Cetirizine
+cough,,,Azithromycin
+pain,sore throat,cough,"Azithromycin, Diclofenac"
+skin rash,inflammation,,"Cetirizine, Diclofenac"
+joint pain,,,Diclofenac
+sneezing,runny nose,,Cetirizine
+sneezing,fungal infection,skin rash,Cetirizine
+diarrhea,,,Lomotil
+cough,fever,,"Azithromycin, Paracetamol"
+pain,runny nose,,"Cetirizine, Diclofenac"
+nausea,stomach acid,inflammation,"Aciloc, Diclofenac"
+cough,diarrhea,,"Azithromycin, Lomotil"
+inflammation,,,Diclofenac
+inflammation,fever,pain,"Paracetamol, Diclofenac"
+fever,stomach acid,skin rash,"Cetirizine, Aciloc, Paracetamol"
+joint pain,diarrhea,,"Lomotil, Diclofenac"
+nausea,,,Aciloc
+nausea,cough,itchy eyes,"Azithromycin, Aciloc, Cetirizine"
+skin rash,joint pain,sore throat,"Cetirizine, Azithromycin, Diclofenac"
+heartburn,runny nose,pain,"Cetirizine, Aciloc, Diclofenac"
+stomach cramps,heartburn,inflammation,"Aciloc, Lomotil, Diclofenac"
+sore throat,stomach acid,skin rash,"Cetirizine, Azithromycin, Aciloc"
+sore throat,sneezing,joint pain,"Cetirizine, Azithromycin, Diclofenac"
+sore throat,itchy eyes,,"Cetirizine, Azithromycin"
+nausea,itchy eyes,,"Cetirizine, Aciloc"
+pain,headache,,"Paracetamol, Diclofenac"
+heartburn,stomach acid,joint pain,"Aciloc, Diclofenac"
+sneezing,inflammation,stomach acid,"Cetirizine, Aciloc, Diclofenac"
+heartburn,fungal infection,skin rash,"Cetirizine, Aciloc"
+inflammation,pain,,Diclofenac
+bacterial infection,stomach acid,,"Azithromycin, Aciloc"
+joint pain,respiratory infection,,"Azithromycin, Diclofenac"
+heartburn,pain,sneezing,"Cetirizine, Aciloc, Diclofenac"
+sneezing,joint pain,,"Cetirizine, Diclofenac"
+runny nose,,,Cetirizine
+heartburn,nausea,,Aciloc
+runny nose,sore throat,,"Cetirizine, Azithromycin"
+fever,stomach acid,,"Aciloc, Paracetamol"
+headache,skin rash,cough,"Cetirizine, Azithromycin, Paracetamol"
+cough,,,Azithromycin
+bacterial infection,fever,,"Azithromycin, Paracetamol"
+itchy eyes,,,Cetirizine
+diarrhea,fever,fungal infection,"Cetirizine, Lomotil, Paracetamol"
+diarrhea,skin rash,runny nose,"Cetirizine, Lomotil"
+inflammation,stomach acid,,"Aciloc, Diclofenac"
+heartburn,,,Aciloc
+skin rash,sore throat,,"Cetirizine, Azithromycin"
+pain,fungal infection,sore throat,"Cetirizine, Azithromycin, Diclofenac"
+skin rash,,,Cetirizine
+sneezing,muscle pain,,"Cetirizine, Paracetamol"
+nausea,,,Aciloc
+pain,bacterial infection,,"Azithromycin, Diclofenac"
+heartburn,diarrhea,stomach acid,"Aciloc, Lomotil"
+fever,diarrhea,skin rash,"Cetirizine, Lomotil, Paracetamol"
+headache,itchy eyes,sore throat,"Cetirizine, Azithromycin, Paracetamol"
+sneezing,pain,stomach acid,"Cetirizine, Aciloc, Diclofenac"
+skin rash,fungal infection,cough,"Cetirizine, Azithromycin"
+nausea,pain,fungal infection,"Cetirizine, Aciloc, Diclofenac"
+pain,headache,,"Paracetamol, Diclofenac"
+muscle pain,pain,,"Paracetamol, Diclofenac"
+heartburn,,,Aciloc
+respiratory infection,,,Azithromycin
+sore throat,bacterial infection,headache,"Azithromycin, Paracetamol"
+stomach acid,fungal infection,heartburn,"Cetirizine, Aciloc"
+bacterial infection,sneezing,nausea,"Cetirizine, Azithromycin, Aciloc"
+stomach acid,itchy eyes,heartburn,"Cetirizine, Aciloc"
+fungal infection,,,Cetirizine
+stomach acid,nausea,fever,"Aciloc, Paracetamol"
+joint pain,diarrhea,,"Lomotil, Diclofenac"
+nausea,sore throat,,"Azithromycin, Aciloc"
+fever,,,Paracetamol
+fever,stomach cramps,,"Lomotil, Paracetamol"
+sore throat,stomach cramps,,"Azithromycin, Lomotil"
+inflammation,stomach acid,,"Aciloc, Diclofenac"
+fever,,,Paracetamol
+pain,sneezing,heartburn,"Cetirizine, Aciloc, Diclofenac"
+skin rash,respiratory infection,stomach acid,"Cetirizine, Azithromycin, Aciloc"
+muscle pain,,,Paracetamol
+bacterial infection,stomach cramps,stomach acid,"Azithromycin, Lomotil, Aciloc"
+itchy eyes,,,Cetirizine
+inflammation,itchy eyes,,"Cetirizine, Diclofenac"
+sore throat,fever,itchy eyes,"Cetirizine, Azithromycin, Paracetamol"
+fungal infection,,,Cetirizine
+diarrhea,runny nose,headache,"Cetirizine, Lomotil, Paracetamol"
+stomach acid,nausea,,Aciloc
+diarrhea,fever,,"Lomotil, Paracetamol"
+sneezing,itchy eyes,,Cetirizine
+stomach acid,joint pain,nausea,"Aciloc, Diclofenac"
+joint pain,respiratory infection,diarrhea,"Azithromycin, Lomotil, Diclofenac"
+pain,stomach cramps,,"Lomotil, Diclofenac"
+itchy eyes,fungal infection,runny nose,Cetirizine
+fungal infection,,,Cetirizine
+skin rash,,,Cetirizine
+pain,,,Diclofenac
+sore throat,runny nose,,"Cetirizine, Azithromycin"
+fungal infection,,,Cetirizine
+sore throat,heartburn,,"Azithromycin, Aciloc"
+respiratory infection,,,Azithromycin
+diarrhea,,,Lomotil
+joint pain,sore throat,respiratory infection,"Azithromycin, Diclofenac"
+bacterial infection,,,Azithromycin
+nausea,,,Aciloc
+sneezing,runny nose,,Cetirizine
+respiratory infection,diarrhea,,"Azithromycin, Lomotil"
+fungal infection,fever,,"Cetirizine, Paracetamol"
+bacterial infection,,,Azithromycin
+bacterial infection,runny nose,nausea,"Cetirizine, Azithromycin, Aciloc"
+stomach acid,,,Aciloc
+cough,diarrhea,,"Azithromycin, Lomotil"
+stomach cramps,headache,,"Lomotil, Paracetamol"
+diarrhea,heartburn,,"Aciloc, Lomotil"
+cough,sore throat,,Azithromycin
+joint pain,fungal infection,respiratory infection,"Cetirizine, Azithromycin, Diclofenac"
+nausea,,,Aciloc
+bacterial infection,pain,,"Azithromycin, Diclofenac"
+headache,,,Paracetamol
+diarrhea,,,Lomotil
+muscle pain,,,Paracetamol
+sore throat,cough,fever,"Azithromycin, Paracetamol"
+stomach cramps,pain,bacterial infection,"Azithromycin, Lomotil, Diclofenac"
+pain,skin rash,joint pain,"Cetirizine, Diclofenac"
+sore throat,stomach cramps,joint pain,"Azithromycin, Lomotil, Diclofenac"
+respiratory infection,fungal infection,pain,"Cetirizine, Azithromycin, Diclofenac"
+headache,,,Paracetamol
+fever,muscle pain,stomach cramps,"Lomotil, Paracetamol"
+inflammation,bacterial infection,,"Azithromycin, Diclofenac"
+cough,headache,,"Azithromycin, Paracetamol"
+runny nose,,,Cetirizine
+runny nose,bacterial infection,muscle pain,"Cetirizine, Azithromycin, Paracetamol"
+joint pain,sore throat,stomach cramps,"Azithromycin, Lomotil, Diclofenac"
+headache,inflammation,,"Paracetamol, Diclofenac"
+bacterial infection,pain,diarrhea,"Azithromycin, Lomotil, Diclofenac"
+headache,cough,respiratory infection,"Azithromycin, Paracetamol"
+itchy eyes,,,Cetirizine
+sore throat,runny nose,stomach cramps,"Cetirizine, Azithromycin, Lomotil"
+bacterial infection,,,Azithromycin
+sore throat,fever,,"Azithromycin, Paracetamol"
+muscle pain,bacterial infection,,"Azithromycin, Paracetamol"
+cough,stomach acid,,"Azithromycin, Aciloc"
+respiratory infection,headache,,"Azithromycin, Paracetamol"
+inflammation,skin rash,fever,"Cetirizine, Paracetamol, Diclofenac"
+fungal infection,,,Cetirizine
+respiratory infection,nausea,,"Azithromycin, Aciloc"
+muscle pain,inflammation,,"Paracetamol, Diclofenac"
+heartburn,sore throat,,"Azithromycin, Aciloc"
+nausea,,,Aciloc
+heartburn,sneezing,,"Cetirizine, Aciloc"
+fungal infection,inflammation,,"Cetirizine, Diclofenac"
+pain,,,Diclofenac
+joint pain,runny nose,,"Cetirizine, Diclofenac"
+stomach cramps,fever,,"Lomotil, Paracetamol"
+stomach acid,muscle pain,,"Aciloc, Paracetamol"
+itchy eyes,pain,fungal infection,"Cetirizine, Diclofenac"
+joint pain,stomach cramps,,"Lomotil, Diclofenac"
+respiratory infection,stomach cramps,,"Azithromycin, Lomotil"
+itchy eyes,,,Cetirizine
+skin rash,heartburn,diarrhea,"Cetirizine, Aciloc, Lomotil"
+diarrhea,respiratory infection,,"Azithromycin, Lomotil"
+cough,heartburn,nausea,"Azithromycin, Aciloc"
+heartburn,fever,,"Aciloc, Paracetamol"
+heartburn,,,Aciloc
+sore throat,,,Azithromycin
+runny nose,,,Cetirizine
+runny nose,,,Cetirizine
+stomach cramps,fever,,"Lomotil, Paracetamol"
+muscle pain,inflammation,,"Paracetamol, Diclofenac"
+joint pain,,,Diclofenac
+sore throat,cough,,Azithromycin
+bacterial infection,itchy eyes,,"Cetirizine, Azithromycin"
+itchy eyes,,,Cetirizine
+inflammation,,,Diclofenac
+sore throat,,,Azithromycin
+inflammation,,,Diclofenac
+diarrhea,heartburn,,"Aciloc, Lomotil"
+joint pain,sneezing,bacterial infection,"Cetirizine, Azithromycin, Diclofenac"
+heartburn,sneezing,,"Cetirizine, Aciloc"
+headache,,,Paracetamol
+diarrhea,sore throat,,"Azithromycin, Lomotil"
+bacterial infection,,,Azithromycin
+itchy eyes,cough,runny nose,"Cetirizine, Azithromycin"
+fever,,,Paracetamol
+fever,sore throat,,"Azithromycin, Paracetamol"
+inflammation,sneezing,,"Cetirizine, Diclofenac"
+fever,cough,itchy eyes,"Cetirizine, Azithromycin, Paracetamol"
+diarrhea,fungal infection,,"Cetirizine, Lomotil"
+muscle pain,,,Paracetamol
+respiratory infection,itchy eyes,sore throat,"Cetirizine, Azithromycin"
+cough,sore throat,fungal infection,"Cetirizine, Azithromycin"
+itchy eyes,nausea,runny nose,"Cetirizine, Aciloc"
+respiratory infection,,,Azithromycin
+cough,respiratory infection,sneezing,"Cetirizine, Azithromycin"
+sneezing,sore throat,headache,"Cetirizine, Azithromycin, Paracetamol"
+stomach acid,,,Aciloc
+fungal infection,fever,,"Cetirizine, Paracetamol"
+inflammation,sneezing,nausea,"Cetirizine, Aciloc, Diclofenac"
+runny nose,fungal infection,,Cetirizine
+runny nose,,,Cetirizine
+pain,fever,,"Paracetamol, Diclofenac"
+diarrhea,,,Lomotil
+joint pain,headache,sneezing,"Cetirizine, Paracetamol, Diclofenac"
+diarrhea,bacterial infection,respiratory infection,"Azithromycin, Lomotil"
+sneezing,heartburn,runny nose,"Cetirizine, Aciloc"
+heartburn,sneezing,,"Cetirizine, Aciloc"
+heartburn,,,Aciloc
+fever,bacterial infection,,"Azithromycin, Paracetamol"
+respiratory infection,headache,,"Azithromycin, Paracetamol"
+fever,inflammation,,"Paracetamol, Diclofenac"
+stomach acid,heartburn,nausea,Aciloc
+respiratory infection,,,Azithromycin
+inflammation,,,Diclofenac
+stomach acid,,,Aciloc
+muscle pain,,,Paracetamol
+sneezing,sore throat,,"Cetirizine, Azithromycin"
+fever,,,Paracetamol
+respiratory infection,,,Azithromycin
+pain,respiratory infection,,"Azithromycin, Diclofenac"
+skin rash,diarrhea,respiratory infection,"Cetirizine, Azithromycin, Lomotil"
+fever,stomach acid,,"Aciloc, Paracetamol"
+stomach cramps,skin rash,,"Cetirizine, Lomotil"
+skin rash,,,Cetirizine
+fungal infection,headache,stomach acid,"Cetirizine, Aciloc, Paracetamol"
+skin rash,bacterial infection,sneezing,"Cetirizine, Azithromycin"
+skin rash,headache,,"Cetirizine, Paracetamol"
+fever,,,Paracetamol
+cough,,,Azithromycin
+heartburn,,,Aciloc
+bacterial infection,nausea,joint pain,"Azithromycin, Aciloc, Diclofenac"
+nausea,runny nose,,"Cetirizine, Aciloc"
+runny nose,sore throat,,"Cetirizine, Azithromycin"
+headache,,,Paracetamol
+stomach cramps,,,Lomotil
+fever,cough,,"Azithromycin, Paracetamol"
+pain,stomach acid,cough,"Azithromycin, Aciloc, Diclofenac"
+headache,,,Paracetamol
+muscle pain,,,Paracetamol
+inflammation,pain,nausea,"Aciloc, Diclofenac"
+muscle pain,,,Paracetamol
+bacterial infection,muscle pain,,"Azithromycin, Paracetamol"
+stomach cramps,muscle pain,,"Lomotil, Paracetamol"
+bacterial infection,,,Azithromycin
+itchy eyes,,,Cetirizine
+fungal infection,pain,stomach acid,"Cetirizine, Aciloc, Diclofenac"
+inflammation,muscle pain,joint pain,"Paracetamol, Diclofenac"
+fungal infection,,,Cetirizine
+fungal infection,,,Cetirizine
+fungal infection,runny nose,bacterial infection,"Cetirizine, Azithromycin"
+bacterial infection,itchy eyes,nausea,"Cetirizine, Azithromycin, Aciloc"
+itchy eyes,,,Cetirizine
+muscle pain,headache,sneezing,"Cetirizine, Paracetamol"
+bacterial infection,stomach cramps,sneezing,"Cetirizine, Azithromycin, Lomotil"
+itchy eyes,diarrhea,,"Cetirizine, Lomotil"
+fungal infection,stomach cramps,,"Cetirizine, Lomotil"
+runny nose,joint pain,bacterial infection,"Cetirizine, Azithromycin, Diclofenac"
+headache,,,Paracetamol
+headache,,,Paracetamol
+bacterial infection,headache,,"Azithromycin, Paracetamol"
+nausea,joint pain,pain,"Aciloc, Diclofenac"
+respiratory infection,bacterial infection,,Azithromycin
+sneezing,stomach cramps,,"Cetirizine, Lomotil"
+pain,,,Diclofenac
+nausea,,,Aciloc
+itchy eyes,sore throat,,"Cetirizine, Azithromycin"
+muscle pain,inflammation,,"Paracetamol, Diclofenac"
+joint pain,inflammation,,Diclofenac
+nausea,,,Aciloc
+runny nose,cough,skin rash,"Cetirizine, Azithromycin"
+respiratory infection,skin rash,sore throat,"Cetirizine, Azithromycin"
+headache,runny nose,respiratory infection,"Cetirizine, Azithromycin, Paracetamol"
+muscle pain,sore throat,pain,"Azithromycin, Paracetamol, Diclofenac"
+inflammation,stomach acid,,"Aciloc, Diclofenac"
+sneezing,stomach acid,muscle pain,"Cetirizine, Aciloc, Paracetamol"
+joint pain,,,Diclofenac
+cough,sore throat,pain,"Azithromycin, Diclofenac"
+bacterial infection,heartburn,cough,"Azithromycin, Aciloc"
+muscle pain,respiratory infection,,"Azithromycin, Paracetamol"
+stomach cramps,,,Lomotil
+diarrhea,pain,,"Lomotil, Diclofenac"
+nausea,respiratory infection,headache,"Azithromycin, Aciloc, Paracetamol"
+itchy eyes,headache,fungal infection,"Cetirizine, Paracetamol"
+respiratory infection,,,Azithromycin
+joint pain,,,Diclofenac
+sneezing,fever,,"Cetirizine, Paracetamol"
+stomach acid,,,Aciloc
+heartburn,,,Aciloc
+inflammation,,,Diclofenac
+stomach cramps,cough,,"Azithromycin, Lomotil"
+respiratory infection,pain,muscle pain,"Azithromycin, Paracetamol, Diclofenac"
+diarrhea,bacterial infection,fever,"Azithromycin, Lomotil, Paracetamol"
+diarrhea,pain,sore throat,"Azithromycin, Lomotil, Diclofenac"
+fungal infection,pain,,"Cetirizine, Diclofenac"
+runny nose,sneezing,,Cetirizine
+heartburn,,,Aciloc
+stomach cramps,,,Lomotil
+respiratory infection,nausea,pain,"Azithromycin, Aciloc, Diclofenac"
+fungal infection,heartburn,itchy eyes,"Cetirizine, Aciloc"
+muscle pain,,,Paracetamol
+joint pain,stomach cramps,fungal infection,"Cetirizine, Lomotil, Diclofenac"
+bacterial infection,,,Azithromycin
+sneezing,,,Cetirizine
+bacterial infection,itchy eyes,sneezing,"Cetirizine, Azithromycin"
+fungal infection,,,Cetirizine
+skin rash,,,Cetirizine
+fever,,,Paracetamol
+runny nose,,,Cetirizine
+sneezing,respiratory infection,muscle pain,"Cetirizine, Azithromycin, Paracetamol"
+sore throat,nausea,,"Azithromycin, Aciloc"
+sore throat,itchy eyes,cough,"Cetirizine, Azithromycin"
+stomach acid,stomach cramps,,"Aciloc, Lomotil"
+nausea,joint pain,,"Aciloc, Diclofenac"
+headache,nausea,itchy eyes,"Cetirizine, Aciloc, Paracetamol"
+sneezing,fungal infection,,Cetirizine
+nausea,stomach cramps,sore throat,"Azithromycin, Aciloc, Lomotil"
+stomach acid,,,Aciloc
+itchy eyes,stomach cramps,,"Cetirizine, Lomotil"
+cough,,,Azithromycin
+fungal infection,,,Cetirizine
+fever,stomach cramps,,"Lomotil, Paracetamol"
+diarrhea,,,Lomotil
+respiratory infection,runny nose,,"Cetirizine, Azithromycin"
+skin rash,muscle pain,,"Cetirizine, Paracetamol"
+heartburn,cough,muscle pain,"Azithromycin, Aciloc, Paracetamol"
+sneezing,stomach cramps,,"Cetirizine, Lomotil"
+runny nose,,,Cetirizine
+nausea,,,Aciloc
+heartburn,pain,cough,"Azithromycin, Aciloc, Diclofenac"
+sore throat,runny nose,respiratory infection,"Cetirizine, Azithromycin"
+stomach acid,,,Aciloc
+diarrhea,itchy eyes,,"Cetirizine, Lomotil"
+nausea,itchy eyes,sneezing,"Cetirizine, Aciloc"
+inflammation,,,Diclofenac
+pain,respiratory infection,,"Azithromycin, Diclofenac"
+stomach acid,sore throat,,"Azithromycin, Aciloc"
+stomach cramps,,,Lomotil
+stomach cramps,,,Lomotil
+respiratory infection,bacterial infection,,Azithromycin
+pain,fever,nausea,"Aciloc, Paracetamol, Diclofenac"
+sore throat,cough,skin rash,"Cetirizine, Azithromycin"
+cough,bacterial infection,joint pain,"Azithromycin, Diclofenac"
+fever,,,Paracetamol
+heartburn,,,Aciloc
+fever,fungal infection,,"Cetirizine, Paracetamol"
+runny nose,bacterial infection,,"Cetirizine, Azithromycin"
+inflammation,,,Diclofenac
+cough,itchy eyes,,"Cetirizine, Azithromycin"
+stomach cramps,,,Lomotil
+respiratory infection,sore throat,,Azithromycin
+stomach cramps,sneezing,,"Cetirizine, Lomotil"
+cough,sore throat,muscle pain,"Azithromycin, Paracetamol"
+muscle pain,itchy eyes,stomach acid,"Cetirizine, Aciloc, Paracetamol"
+muscle pain,,,Paracetamol
+respiratory infection,joint pain,stomach acid,"Azithromycin, Aciloc, Diclofenac"
+diarrhea,muscle pain,,"Lomotil, Paracetamol"
+stomach cramps,,,Lomotil
+sore throat,,,Azithromycin
+diarrhea,headache,,"Lomotil, Paracetamol"
+joint pain,respiratory infection,,"Azithromycin, Diclofenac"
+bacterial infection,fever,runny nose,"Cetirizine, Azithromycin, Paracetamol"
+fungal infection,skin rash,,Cetirizine
+sneezing,stomach cramps,,"Cetirizine, Lomotil"
+skin rash,itchy eyes,,Cetirizine
+sore throat,skin rash,,"Cetirizine, Azithromycin"
+headache,,,Paracetamol
+runny nose,,,Cetirizine
+diarrhea,fever,,"Lomotil, Paracetamol"
+headache,inflammation,sore throat,"Azithromycin, Paracetamol, Diclofenac"
+sore throat,muscle pain,,"Azithromycin, Paracetamol"
+joint pain,stomach cramps,,"Lomotil, Diclofenac"
+cough,joint pain,,"Azithromycin, Diclofenac"
+sneezing,nausea,,"Cetirizine, Aciloc"
+runny nose,nausea,,"Cetirizine, Aciloc"
+fungal infection,,,Cetirizine
+nausea,pain,fever,"Aciloc, Paracetamol, Diclofenac"
+sneezing,joint pain,skin rash,"Cetirizine, Diclofenac"
+nausea,fungal infection,,"Cetirizine, Aciloc"
+cough,,,Azithromycin
+skin rash,,,Cetirizine
+sore throat,stomach cramps,bacterial infection,"Azithromycin, Lomotil"
+stomach cramps,stomach acid,nausea,"Aciloc, Lomotil"
+respiratory infection,,,Azithromycin
+stomach acid,respiratory infection,,"Azithromycin, Aciloc"
+joint pain,fungal infection,,"Cetirizine, Diclofenac"
+cough,respiratory infection,,Azithromycin
+inflammation,,,Diclofenac
+itchy eyes,,,Cetirizine
+inflammation,fever,,"Paracetamol, Diclofenac"
+muscle pain,,,Paracetamol
+joint pain,,,Diclofenac
+sneezing,,,Cetirizine
+diarrhea,cough,fever,"Azithromycin, Lomotil, Paracetamol"
+skin rash,runny nose,inflammation,"Cetirizine, Diclofenac"
+stomach acid,joint pain,,"Aciloc, Diclofenac"
+inflammation,respiratory infection,,"Azithromycin, Diclofenac"
+bacterial infection,joint pain,skin rash,"Cetirizine, Azithromycin, Diclofenac"
+headache,itchy eyes,respiratory infection,"Cetirizine, Azithromycin, Paracetamol"
+itchy eyes,,,Cetirizine
+respiratory infection,sore throat,muscle pain,"Azithromycin, Paracetamol"
+stomach acid,joint pain,,"Aciloc, Diclofenac"
+diarrhea,runny nose,,"Cetirizine, Lomotil"
+nausea,,,Aciloc
+stomach cramps,,,Lomotil
+skin rash,inflammation,nausea,"Cetirizine, Aciloc, Diclofenac"
+bacterial infection,inflammation,stomach acid,"Azithromycin, Aciloc, Diclofenac"
+itchy eyes,respiratory infection,,"Cetirizine, Azithromycin"
+joint pain,,,Diclofenac
+inflammation,joint pain,diarrhea,"Lomotil, Diclofenac"
+stomach acid,stomach cramps,,"Aciloc, Lomotil"
+inflammation,,,Diclofenac
+inflammation,stomach cramps,,"Lomotil, Diclofenac"
+stomach cramps,,,Lomotil
+skin rash,itchy eyes,,Cetirizine
+skin rash,fever,,"Cetirizine, Paracetamol"
+stomach acid,respiratory infection,,"Azithromycin, Aciloc"
+runny nose,respiratory infection,,"Cetirizine, Azithromycin"
+skin rash,,,Cetirizine
+bacterial infection,,,Azithromycin
+fever,,,Paracetamol
+cough,inflammation,fungal infection,"Cetirizine, Azithromycin, Diclofenac"
+fungal infection,,,Cetirizine
+sneezing,fever,pain,"Cetirizine, Paracetamol, Diclofenac"
+skin rash,heartburn,headache,"Cetirizine, Aciloc, Paracetamol"
+heartburn,respiratory infection,,"Azithromycin, Aciloc"
+sore throat,fungal infection,,"Cetirizine, Azithromycin"
+diarrhea,,,Lomotil
+sneezing,nausea,,"Cetirizine, Aciloc"
+fever,,,Paracetamol
+respiratory infection,sore throat,bacterial infection,Azithromycin
+pain,fever,,"Paracetamol, Diclofenac"
+diarrhea,skin rash,joint pain,"Cetirizine, Lomotil, Diclofenac"
+muscle pain,,,Paracetamol
+joint pain,sneezing,,"Cetirizine, Diclofenac"
+headache,joint pain,,"Paracetamol, Diclofenac"
+skin rash,,,Cetirizine
+runny nose,inflammation,fever,"Cetirizine, Paracetamol, Diclofenac"
+pain,cough,,"Azithromycin, Diclofenac"
+bacterial infection,cough,,Azithromycin
+fever,sneezing,diarrhea,"Cetirizine, Lomotil, Paracetamol"
+cough,sore throat,joint pain,"Azithromycin, Diclofenac"
+muscle pain,,,Paracetamol
+heartburn,,,Aciloc
+pain,cough,,"Azithromycin, Diclofenac"
+runny nose,diarrhea,pain,"Cetirizine, Lomotil, Diclofenac"
+stomach cramps,sneezing,,"Cetirizine, Lomotil"
+stomach cramps,fungal infection,,"Cetirizine, Lomotil"
+heartburn,,,Aciloc
+itchy eyes,joint pain,sneezing,"Cetirizine, Diclofenac"
+itchy eyes,stomach acid,,"Cetirizine, Aciloc"
+respiratory infection,,,Azithromycin
+skin rash,,,Cetirizine
+headache,muscle pain,inflammation,"Paracetamol, Diclofenac"
+joint pain,stomach acid,,"Aciloc, Diclofenac"
+headache,nausea,itchy eyes,"Cetirizine, Aciloc, Paracetamol"
+pain,runny nose,,"Cetirizine, Diclofenac"
+fever,muscle pain,stomach acid,"Aciloc, Paracetamol"
+sore throat,,,Azithromycin
+headache,cough,sore throat,"Azithromycin, Paracetamol"
+muscle pain,,,Paracetamol
+sore throat,fungal infection,,"Cetirizine, Azithromycin"
+sore throat,,,Azithromycin
+sneezing,,,Cetirizine
+inflammation,,,Diclofenac
+headache,,,Paracetamol
+pain,,,Diclofenac
+joint pain,stomach acid,itchy eyes,"Cetirizine, Aciloc, Diclofenac"
+runny nose,cough,,"Cetirizine, Azithromycin"
+stomach acid,,,Aciloc
+pain,fungal infection,sore throat,"Cetirizine, Azithromycin, Diclofenac"
+pain,joint pain,,Diclofenac
+diarrhea,,,Lomotil
+skin rash,stomach acid,fever,"Cetirizine, Aciloc, Paracetamol"
+fever,,,Paracetamol
+bacterial infection,,,Azithromycin
+pain,sore throat,heartburn,"Azithromycin, Aciloc, Diclofenac"
+nausea,respiratory infection,,"Azithromycin, Aciloc"
+stomach cramps,fungal infection,nausea,"Cetirizine, Aciloc, Lomotil"
+nausea,skin rash,,"Cetirizine, Aciloc"
+respiratory infection,stomach acid,headache,"Azithromycin, Aciloc, Paracetamol"
+bacterial infection,fungal infection,,"Cetirizine, Azithromycin"
+diarrhea,,,Lomotil
+itchy eyes,nausea,,"Cetirizine, Aciloc"
+pain,,,Diclofenac
+inflammation,,,Diclofenac
+sneezing,joint pain,,"Cetirizine, Diclofenac"
+sore throat,stomach cramps,pain,"Azithromycin, Lomotil, Diclofenac"
+sore throat,heartburn,,"Azithromycin, Aciloc"
+runny nose,nausea,,"Cetirizine, Aciloc"
+headache,inflammation,,"Paracetamol, Diclofenac"
+joint pain,runny nose,,"Cetirizine, Diclofenac"
+bacterial infection,heartburn,,"Azithromycin, Aciloc"
+joint pain,runny nose,cough,"Cetirizine, Azithromycin, Diclofenac"
+fever,,,Paracetamol
+fever,nausea,,"Aciloc, Paracetamol"
+fungal infection,,,Cetirizine
+stomach acid,skin rash,,"Cetirizine, Aciloc"
+diarrhea,pain,inflammation,"Lomotil, Diclofenac"
+pain,,,Diclofenac
+headache,itchy eyes,,"Cetirizine, Paracetamol"
+cough,,,Azithromycin
+nausea,sore throat,,"Azithromycin, Aciloc"
+stomach cramps,,,Lomotil
+sneezing,,,Cetirizine
+runny nose,cough,,"Cetirizine, Azithromycin"
+headache,heartburn,,"Aciloc, Paracetamol"
+pain,respiratory infection,,"Azithromycin, Diclofenac"
+itchy eyes,,,Cetirizine
+heartburn,stomach acid,nausea,Aciloc
+stomach acid,,,Aciloc
+respiratory infection,runny nose,,"Cetirizine, Azithromycin"
+sneezing,stomach cramps,itchy eyes,"Cetirizine, Lomotil"
+nausea,inflammation,respiratory infection,"Azithromycin, Aciloc, Diclofenac"
+skin rash,,,Cetirizine
+bacterial infection,runny nose,fever,"Cetirizine, Azithromycin, Paracetamol"
+sneezing,fungal infection,cough,"Cetirizine, Azithromycin"
+bacterial infection,,,Azithromycin
+sneezing,muscle pain,,"Cetirizine, Paracetamol"
+joint pain,inflammation,,Diclofenac
+fungal infection,skin rash,fever,"Cetirizine, Paracetamol"
+runny nose,inflammation,,"Cetirizine, Diclofenac"
+itchy eyes,pain,,"Cetirizine, Diclofenac"
+fungal infection,,,Cetirizine
+cough,muscle pain,headache,"Azithromycin, Paracetamol"
+cough,,,Azithromycin
+sneezing,,,Cetirizine
+fungal infection,sneezing,,Cetirizine
+runny nose,fever,,"Cetirizine, Paracetamol"
+headache,respiratory infection,itchy eyes,"Cetirizine, Azithromycin, Paracetamol"
+fungal infection,,,Cetirizine
+cough,muscle pain,stomach cramps,"Azithromycin, Lomotil, Paracetamol"
+stomach acid,muscle pain,,"Aciloc, Paracetamol"
+inflammation,,,Diclofenac
+itchy eyes,runny nose,sneezing,Cetirizine
+diarrhea,,,Lomotil
+heartburn,fever,sore throat,"Azithromycin, Aciloc, Paracetamol"
+nausea,stomach cramps,runny nose,"Cetirizine, Aciloc, Lomotil"
+stomach acid,,,Aciloc
+muscle pain,,,Paracetamol
+sneezing,respiratory infection,cough,"Cetirizine, Azithromycin"
+skin rash,,,Cetirizine
+heartburn,muscle pain,bacterial infection,"Azithromycin, Aciloc, Paracetamol"
+fungal infection,,,Cetirizine
+respiratory infection,,,Azithromycin
+stomach acid,headache,nausea,"Aciloc, Paracetamol"
+respiratory infection,,,Azithromycin
+diarrhea,cough,,"Azithromycin, Lomotil"
+cough,,,Azithromycin
+bacterial infection,pain,,"Azithromycin, Diclofenac"
+heartburn,,,Aciloc
+muscle pain,,,Paracetamol
+diarrhea,sneezing,,"Cetirizine, Lomotil"
+respiratory infection,,,Azithromycin
+stomach acid,stomach cramps,respiratory infection,"Azithromycin, Aciloc, Lomotil"
+stomach acid,,,Aciloc
+sneezing,pain,,"Cetirizine, Diclofenac"
+fever,,,Paracetamol
+sneezing,sore throat,,"Cetirizine, Azithromycin"
+nausea,heartburn,,Aciloc
+muscle pain,,,Paracetamol
+nausea,,,Aciloc
+stomach acid,sore throat,respiratory infection,"Azithromycin, Aciloc"
+pain,inflammation,,Diclofenac
+runny nose,sore throat,,"Cetirizine, Azithromycin"
+headache,nausea,,"Aciloc, Paracetamol"
+inflammation,,,Diclofenac
+nausea,,,Aciloc
+fungal infection,skin rash,muscle pain,"Cetirizine, Paracetamol"
+sore throat,diarrhea,pain,"Azithromycin, Lomotil, Diclofenac"
+joint pain,,,Diclofenac
+sneezing,,,Cetirizine
+stomach cramps,runny nose,sore throat,"Cetirizine, Azithromycin, Lomotil"
+joint pain,heartburn,headache,"Aciloc, Paracetamol, Diclofenac"
+inflammation,nausea,stomach cramps,"Aciloc, Lomotil, Diclofenac"
+stomach cramps,headache,,"Lomotil, Paracetamol"
+muscle pain,,,Paracetamol
+fungal infection,cough,,"Cetirizine, Azithromycin"
+pain,runny nose,,"Cetirizine, Diclofenac"
+muscle pain,diarrhea,fungal infection,"Cetirizine, Lomotil, Paracetamol"
+headache,,,Paracetamol
+sneezing,,,Cetirizine
+pain,joint pain,runny nose,"Cetirizine, Diclofenac"
+skin rash,cough,respiratory infection,"Cetirizine, Azithromycin"
+fever,bacterial infection,,"Azithromycin, Paracetamol"
+sore throat,diarrhea,,"Azithromycin, Lomotil"
+inflammation,,,Diclofenac
+nausea,,,Aciloc
+respiratory infection,nausea,headache,"Azithromycin, Aciloc, Paracetamol"
+runny nose,,,Cetirizine
+skin rash,,,Cetirizine
+headache,itchy eyes,nausea,"Cetirizine, Aciloc, Paracetamol"
+runny nose,heartburn,sneezing,"Cetirizine, Aciloc"
+respiratory infection,runny nose,diarrhea,"Cetirizine, Azithromycin, Lomotil"
+runny nose,skin rash,,Cetirizine
+itchy eyes,stomach acid,runny nose,"Cetirizine, Aciloc"
+stomach cramps,respiratory infection,nausea,"Azithromycin, Lomotil, Aciloc"
+joint pain,muscle pain,nausea,"Aciloc, Paracetamol, Diclofenac"
+heartburn,fungal infection,runny nose,"Cetirizine, Aciloc"
+headache,,,Paracetamol
+respiratory infection,,,Azithromycin
+fever,respiratory infection,,"Azithromycin, Paracetamol"
+headache,joint pain,nausea,"Aciloc, Paracetamol, Diclofenac"
+diarrhea,,,Lomotil
+headache,sore throat,,"Azithromycin, Paracetamol"
+stomach cramps,,,Lomotil
+nausea,sneezing,joint pain,"Cetirizine, Aciloc, Diclofenac"
+fever,skin rash,muscle pain,"Cetirizine, Paracetamol"
+inflammation,fungal infection,,"Cetirizine, Diclofenac"
+diarrhea,pain,,"Lomotil, Diclofenac"
+stomach acid,heartburn,skin rash,"Cetirizine, Aciloc"
+joint pain,,,Diclofenac
+bacterial infection,,,Azithromycin
+pain,runny nose,,"Cetirizine, Diclofenac"
+runny nose,pain,,"Cetirizine, Diclofenac"
+respiratory infection,heartburn,,"Azithromycin, Aciloc"
+fever,itchy eyes,,"Cetirizine, Paracetamol"
+sneezing,stomach acid,,"Cetirizine, Aciloc"
+respiratory infection,,,Azithromycin
+bacterial infection,,,Azithromycin
+itchy eyes,heartburn,,"Cetirizine, Aciloc"
+runny nose,muscle pain,skin rash,"Cetirizine, Paracetamol"
+nausea,sore throat,sneezing,"Azithromycin, Aciloc, Cetirizine"
+itchy eyes,nausea,,"Cetirizine, Aciloc"
+pain,stomach cramps,,"Lomotil, Diclofenac"
+itchy eyes,,,Cetirizine
+bacterial infection,muscle pain,respiratory infection,"Azithromycin, Paracetamol"
+joint pain,bacterial infection,fever,"Azithromycin, Paracetamol, Diclofenac"
+respiratory infection,sore throat,joint pain,"Azithromycin, Diclofenac"
+bacterial infection,,,Azithromycin
+sore throat,,,Azithromycin
+runny nose,,,Cetirizine
+muscle pain,sneezing,,"Cetirizine, Paracetamol"
+fever,pain,,"Paracetamol, Diclofenac"
+headache,diarrhea,heartburn,"Aciloc, Lomotil, Paracetamol"
+inflammation,itchy eyes,fever,"Cetirizine, Paracetamol, Diclofenac"
+fungal infection,pain,,"Cetirizine, Diclofenac"
+headache,,,Paracetamol
+fungal infection,stomach cramps,,"Cetirizine, Lomotil"
+pain,,,Diclofenac
+muscle pain,fever,,Paracetamol
+skin rash,fever,stomach acid,"Cetirizine, Aciloc, Paracetamol"
+joint pain,muscle pain,stomach acid,"Aciloc, Paracetamol, Diclofenac"
+itchy eyes,stomach acid,,"Cetirizine, Aciloc"
+skin rash,respiratory infection,,"Cetirizine, Azithromycin"
+headache,stomach acid,,"Aciloc, Paracetamol"
+inflammation,,,Diclofenac
+sneezing,stomach cramps,,"Cetirizine, Lomotil"
+cough,runny nose,,"Cetirizine, Azithromycin"
+diarrhea,muscle pain,bacterial infection,"Azithromycin, Lomotil, Paracetamol"
+bacterial infection,cough,,Azithromycin
+stomach acid,itchy eyes,joint pain,"Cetirizine, Aciloc, Diclofenac"
+sore throat,,,Azithromycin
+inflammation,headache,itchy eyes,"Cetirizine, Paracetamol, Diclofenac"
+stomach cramps,skin rash,headache,"Cetirizine, Lomotil, Paracetamol"
+inflammation,heartburn,stomach acid,"Aciloc, Diclofenac"
+stomach cramps,nausea,fever,"Aciloc, Lomotil, Paracetamol"
+inflammation,,,Diclofenac
+nausea,,,Aciloc
+runny nose,,,Cetirizine
+sore throat,diarrhea,,"Azithromycin, Lomotil"
+muscle pain,cough,,"Azithromycin, Paracetamol"
+nausea,sneezing,muscle pain,"Cetirizine, Aciloc, Paracetamol"
+sore throat,stomach cramps,,"Azithromycin, Lomotil"
+bacterial infection,skin rash,,"Cetirizine, Azithromycin"
+itchy eyes,,,Cetirizine
+sore throat,itchy eyes,,"Cetirizine, Azithromycin"
+sore throat,,,Azithromycin
+headache,joint pain,fever,"Paracetamol, Diclofenac"
+nausea,cough,fever,"Azithromycin, Aciloc, Paracetamol"
+itchy eyes,heartburn,,"Cetirizine, Aciloc"
+diarrhea,bacterial infection,,"Azithromycin, Lomotil"
+bacterial infection,respiratory infection,,Azithromycin
+respiratory infection,cough,nausea,"Azithromycin, Aciloc"
+heartburn,cough,fever,"Azithromycin, Aciloc, Paracetamol"
+inflammation,skin rash,,"Cetirizine, Diclofenac"
+inflammation,stomach cramps,,"Lomotil, Diclofenac"
+nausea,joint pain,,"Aciloc, Diclofenac"
+stomach cramps,fever,,"Lomotil, Paracetamol"
+muscle pain,itchy eyes,joint pain,"Cetirizine, Paracetamol, Diclofenac"
+stomach cramps,muscle pain,respiratory infection,"Azithromycin, Lomotil, Paracetamol"
+sneezing,muscle pain,,"Cetirizine, Paracetamol"
+cough,runny nose,fungal infection,"Cetirizine, Azithromycin"
+headache,itchy eyes,,"Cetirizine, Paracetamol"
+sneezing,itchy eyes,heartburn,"Cetirizine, Aciloc"
+diarrhea,,,Lomotil
+diarrhea,pain,,"Lomotil, Diclofenac"
+pain,bacterial infection,,"Azithromycin, Diclofenac"
+diarrhea,,,Lomotil
+sore throat,fever,,"Azithromycin, Paracetamol"
+nausea,diarrhea,itchy eyes,"Cetirizine, Aciloc, Lomotil"
+joint pain,itchy eyes,,"Cetirizine, Diclofenac"
+nausea,itchy eyes,diarrhea,"Cetirizine, Aciloc, Lomotil"
+muscle pain,nausea,,"Aciloc, Paracetamol"
+sneezing,cough,headache,"Cetirizine, Azithromycin, Paracetamol"
+headache,itchy eyes,fever,"Cetirizine, Paracetamol"
+itchy eyes,,,Cetirizine
+stomach acid,headache,fever,"Aciloc, Paracetamol"
+fever,muscle pain,,Paracetamol
+bacterial infection,sore throat,,Azithromycin
+inflammation,sneezing,skin rash,"Cetirizine, Diclofenac"
+diarrhea,nausea,,"Aciloc, Lomotil"
+stomach acid,inflammation,,"Aciloc, Diclofenac"
+cough,stomach acid,,"Azithromycin, Aciloc"
+respiratory infection,sore throat,,Azithromycin
+sneezing,itchy eyes,diarrhea,"Cetirizine, Lomotil"
+skin rash,,,Cetirizine
+sneezing,fungal infection,,Cetirizine
+diarrhea,stomach acid,fungal infection,"Cetirizine, Aciloc, Lomotil"
+diarrhea,stomach cramps,,Lomotil
+joint pain,respiratory infection,,"Azithromycin, Diclofenac"
+runny nose,itchy eyes,,Cetirizine
+muscle pain,fungal infection,skin rash,"Cetirizine, Paracetamol"
+skin rash,bacterial infection,diarrhea,"Cetirizine, Azithromycin, Lomotil"
+muscle pain,skin rash,,"Cetirizine, Paracetamol"
+headache,fungal infection,,"Cetirizine, Paracetamol"
+diarrhea,itchy eyes,nausea,"Cetirizine, Aciloc, Lomotil"
+respiratory infection,itchy eyes,,"Cetirizine, Azithromycin"
+bacterial infection,sore throat,pain,"Azithromycin, Diclofenac"
+inflammation,fungal infection,,"Cetirizine, Diclofenac"
+skin rash,,,Cetirizine
+fever,bacterial infection,headache,"Azithromycin, Paracetamol"
+headache,nausea,sneezing,"Cetirizine, Aciloc, Paracetamol"
+stomach acid,sneezing,,"Cetirizine, Aciloc"
+runny nose,respiratory infection,,"Cetirizine, Azithromycin"
+headache,stomach acid,,"Aciloc, Paracetamol"
+runny nose,joint pain,bacterial infection,"Cetirizine, Azithromycin, Diclofenac"
+nausea,stomach cramps,,"Aciloc, Lomotil"
+sore throat,runny nose,fungal infection,"Cetirizine, Azithromycin"
+sneezing,respiratory infection,fungal infection,"Cetirizine, Azithromycin"
+headache,runny nose,sneezing,"Cetirizine, Paracetamol"
+itchy eyes,joint pain,,"Cetirizine, Diclofenac"
+itchy eyes,,,Cetirizine
+fever,heartburn,cough,"Azithromycin, Aciloc, Paracetamol"
+joint pain,runny nose,inflammation,"Cetirizine, Diclofenac"
+diarrhea,nausea,,"Aciloc, Lomotil"
+sore throat,muscle pain,joint pain,"Azithromycin, Paracetamol, Diclofenac"
+itchy eyes,nausea,,"Cetirizine, Aciloc"
+sneezing,,,Cetirizine
+skin rash,,,Cetirizine
+joint pain,pain,,Diclofenac
+joint pain,,,Diclofenac
+sore throat,stomach acid,muscle pain,"Azithromycin, Aciloc, Paracetamol"
+itchy eyes,fungal infection,,Cetirizine
+respiratory infection,,,Azithromycin
+headache,,,Paracetamol
+stomach cramps,,,Lomotil
+sore throat,,,Azithromycin
+sore throat,diarrhea,headache,"Azithromycin, Lomotil, Paracetamol"
+stomach acid,joint pain,,"Aciloc, Diclofenac"
+inflammation,,,Diclofenac
+stomach cramps,,,Lomotil
+fungal infection,fever,,"Cetirizine, Paracetamol"
+nausea,,,Aciloc
+fungal infection,muscle pain,,"Cetirizine, Paracetamol"
+bacterial infection,itchy eyes,nausea,"Cetirizine, Azithromycin, Aciloc"
+bacterial infection,,,Azithromycin
+fever,diarrhea,,"Lomotil, Paracetamol"
+nausea,muscle pain,respiratory infection,"Azithromycin, Aciloc, Paracetamol"
+nausea,,,Aciloc
+runny nose,,,Cetirizine
+fungal infection,,,Cetirizine
+muscle pain,,,Paracetamol
+nausea,runny nose,diarrhea,"Cetirizine, Aciloc, Lomotil"
+stomach acid,skin rash,bacterial infection,"Cetirizine, Aciloc, Azithromycin"
+inflammation,sore throat,,"Azithromycin, Diclofenac"
+diarrhea,stomach acid,,"Aciloc, Lomotil"
+stomach cramps,runny nose,stomach acid,"Cetirizine, Aciloc, Lomotil"
+cough,,,Azithromycin
+stomach cramps,,,Lomotil
+runny nose,joint pain,cough,"Cetirizine, Azithromycin, Diclofenac"
+stomach cramps,fever,,"Lomotil, Paracetamol"
+skin rash,,,Cetirizine
+pain,diarrhea,inflammation,"Lomotil, Diclofenac"
+stomach acid,inflammation,,"Aciloc, Diclofenac"
+inflammation,diarrhea,skin rash,"Cetirizine, Lomotil, Diclofenac"
+inflammation,sore throat,,"Azithromycin, Diclofenac"
+fungal infection,pain,inflammation,"Cetirizine, Diclofenac"
+fungal infection,,,Cetirizine
+muscle pain,,,Paracetamol
+stomach cramps,joint pain,,"Lomotil, Diclofenac"
+respiratory infection,skin rash,headache,"Cetirizine, Azithromycin, Paracetamol"
+heartburn,pain,,"Aciloc, Diclofenac"
+joint pain,,,Diclofenac
+runny nose,nausea,,"Cetirizine, Aciloc"
+fever,inflammation,sneezing,"Cetirizine, Paracetamol, Diclofenac"
+itchy eyes,sore throat,,"Cetirizine, Azithromycin"
+bacterial infection,runny nose,,"Cetirizine, Azithromycin"
+heartburn,,,Aciloc
+fever,cough,respiratory infection,"Azithromycin, Paracetamol"
+headache,pain,,"Paracetamol, Diclofenac"
+sore throat,,,Azithromycin
+sore throat,sneezing,fever,"Cetirizine, Azithromycin, Paracetamol"
+stomach cramps,,,Lomotil
+joint pain,inflammation,stomach acid,"Aciloc, Diclofenac"
+cough,nausea,,"Azithromycin, Aciloc"
+skin rash,,,Cetirizine
+stomach acid,diarrhea,,"Aciloc, Lomotil"
+stomach cramps,heartburn,,"Aciloc, Lomotil"
+joint pain,,,Diclofenac
+stomach acid,muscle pain,,"Aciloc, Paracetamol"
+cough,stomach acid,,"Azithromycin, Aciloc"
+fungal infection,bacterial infection,muscle pain,"Cetirizine, Azithromycin, Paracetamol"
+runny nose,,,Cetirizine
+diarrhea,runny nose,bacterial infection,"Cetirizine, Azithromycin, Lomotil"
+joint pain,stomach cramps,,"Lomotil, Diclofenac"
+cough,,,Azithromycin
+fever,bacterial infection,,"Azithromycin, Paracetamol"
+bacterial infection,headache,nausea,"Azithromycin, Paracetamol, Aciloc"
+bacterial infection,cough,fever,"Azithromycin, Paracetamol"
+cough,pain,skin rash,"Cetirizine, Azithromycin, Diclofenac"
+bacterial infection,,,Azithromycin
+muscle pain,,,Paracetamol
+fever,skin rash,,"Cetirizine, Paracetamol"
+joint pain,skin rash,nausea,"Cetirizine, Aciloc, Diclofenac"
+itchy eyes,diarrhea,sneezing,"Cetirizine, Lomotil"
+fever,bacterial infection,,"Azithromycin, Paracetamol"
+diarrhea,,,Lomotil
+inflammation,stomach acid,,"Aciloc, Diclofenac"
+itchy eyes,joint pain,,"Cetirizine, Diclofenac"
+headache,cough,itchy eyes,"Cetirizine, Azithromycin, Paracetamol"
+itchy eyes,stomach acid,,"Cetirizine, Aciloc"
+skin rash,,,Cetirizine
+itchy eyes,,,Cetirizine
+diarrhea,stomach acid,,"Aciloc, Lomotil"
+skin rash,cough,,"Cetirizine, Azithromycin"
+skin rash,stomach acid,cough,"Cetirizine, Aciloc, Azithromycin"
+runny nose,,,Cetirizine
+sore throat,nausea,stomach cramps,"Azithromycin, Lomotil, Aciloc"
+fungal infection,stomach acid,,"Cetirizine, Aciloc"
+sneezing,,,Cetirizine
+bacterial infection,,,Azithromycin
+fungal infection,,,Cetirizine
+sneezing,,,Cetirizine
+pain,diarrhea,inflammation,"Lomotil, Diclofenac"
+headache,stomach acid,,"Aciloc, Paracetamol"
+pain,joint pain,muscle pain,"Paracetamol, Diclofenac"
+bacterial infection,,,Azithromycin
+cough,,,Azithromycin
+fungal infection,runny nose,cough,"Cetirizine, Azithromycin"
+runny nose,stomach acid,,"Cetirizine, Aciloc"
+muscle pain,nausea,sore throat,"Azithromycin, Aciloc, Paracetamol"
+fever,heartburn,,"Aciloc, Paracetamol"
+stomach acid,,,Aciloc
+itchy eyes,sore throat,joint pain,"Cetirizine, Azithromycin, Diclofenac"
+sneezing,,,Cetirizine
+runny nose,pain,,"Cetirizine, Diclofenac"
+skin rash,,,Cetirizine
+joint pain,inflammation,,Diclofenac
+diarrhea,pain,itchy eyes,"Cetirizine, Lomotil, Diclofenac"
+inflammation,pain,,Diclofenac
+muscle pain,,,Paracetamol
+skin rash,stomach cramps,,"Cetirizine, Lomotil"
+fungal infection,,,Cetirizine
+skin rash,runny nose,bacterial infection,"Cetirizine, Azithromycin"
+joint pain,pain,,Diclofenac
+bacterial infection,,,Azithromycin
+fever,,,Paracetamol
+sneezing,pain,,"Cetirizine, Diclofenac"
+stomach acid,heartburn,,Aciloc
+inflammation,heartburn,fungal infection,"Cetirizine, Aciloc, Diclofenac"
+runny nose,nausea,stomach cramps,"Cetirizine, Aciloc, Lomotil"
+itchy eyes,,,Cetirizine
+bacterial infection,sneezing,,"Cetirizine, Azithromycin"
+stomach cramps,,,Lomotil
+itchy eyes,,,Cetirizine
+joint pain,headache,,"Paracetamol, Diclofenac"
+sore throat,fungal infection,itchy eyes,"Cetirizine, Azithromycin"
+stomach acid,nausea,headache,"Aciloc, Paracetamol"
+runny nose,stomach cramps,fever,"Cetirizine, Lomotil, Paracetamol"
+pain,,,Diclofenac
+respiratory infection,,,Azithromycin
+stomach acid,,,Aciloc
+stomach cramps,,,Lomotil
+heartburn,diarrhea,,"Aciloc, Lomotil"
+fungal infection,heartburn,,"Cetirizine, Aciloc"
+cough,fever,,"Azithromycin, Paracetamol"
+sneezing,,,Cetirizine
+sore throat,pain,respiratory infection,"Azithromycin, Diclofenac"
+pain,headache,,"Paracetamol, Diclofenac"
+stomach cramps,itchy eyes,,"Cetirizine, Lomotil"
+diarrhea,sneezing,,"Cetirizine, Lomotil"
+nausea,,,Aciloc
+diarrhea,,,Lomotil
+headache,cough,inflammation,"Azithromycin, Paracetamol, Diclofenac"
+joint pain,diarrhea,skin rash,"Cetirizine, Lomotil, Diclofenac"
+cough,sneezing,bacterial infection,"Cetirizine, Azithromycin"
+bacterial infection,joint pain,,"Azithromycin, Diclofenac"
+headache,itchy eyes,,"Cetirizine, Paracetamol"
+skin rash,sneezing,,Cetirizine
+inflammation,,,Diclofenac
+joint pain,nausea,,"Aciloc, Diclofenac"
+joint pain,,,Diclofenac
+heartburn,bacterial infection,,"Azithromycin, Aciloc"
+joint pain,headache,,"Paracetamol, Diclofenac"
+muscle pain,,,Paracetamol
+sore throat,runny nose,inflammation,"Cetirizine, Azithromycin, Diclofenac"
+bacterial infection,headache,,"Azithromycin, Paracetamol"
+skin rash,sneezing,joint pain,"Cetirizine, Diclofenac"
+pain,stomach acid,sneezing,"Cetirizine, Aciloc, Diclofenac"
+itchy eyes,stomach acid,,"Cetirizine, Aciloc"
+skin rash,,,Cetirizine
+stomach acid,respiratory infection,nausea,"Azithromycin, Aciloc"
+joint pain,pain,nausea,"Aciloc, Diclofenac"
+headache,stomach cramps,skin rash,"Cetirizine, Lomotil, Paracetamol"
+muscle pain,sore throat,skin rash,"Cetirizine, Azithromycin, Paracetamol"
+sneezing,joint pain,,"Cetirizine, Diclofenac"
+headache,,,Paracetamol
+sore throat,sneezing,,"Cetirizine, Azithromycin"
+runny nose,sore throat,,"Cetirizine, Azithromycin"
+bacterial infection,sneezing,,"Cetirizine, Azithromycin"
+skin rash,runny nose,,Cetirizine
+heartburn,fever,fungal infection,"Cetirizine, Aciloc, Paracetamol"
+runny nose,,,Cetirizine
+runny nose,stomach acid,,"Cetirizine, Aciloc"
+stomach cramps,cough,pain,"Azithromycin, Lomotil, Diclofenac"
+headache,fever,inflammation,"Paracetamol, Diclofenac"
+inflammation,,,Diclofenac
+cough,inflammation,muscle pain,"Azithromycin, Paracetamol, Diclofenac"
+itchy eyes,cough,heartburn,"Cetirizine, Azithromycin, Aciloc"
+diarrhea,pain,fever,"Paracetamol, Lomotil, Diclofenac"
+stomach acid,sneezing,nausea,"Cetirizine, Aciloc"
+fungal infection,runny nose,headache,"Cetirizine, Paracetamol"
+muscle pain,,,Paracetamol
+sore throat,headache,runny nose,"Cetirizine, Azithromycin, Paracetamol"
+sneezing,joint pain,,"Cetirizine, Diclofenac"
+muscle pain,skin rash,,"Cetirizine, Paracetamol"
+itchy eyes,sneezing,,Cetirizine
+headache,,,Paracetamol
+fever,sneezing,,"Cetirizine, Paracetamol"
+stomach cramps,itchy eyes,,"Cetirizine, Lomotil"
+stomach cramps,fever,stomach acid,"Aciloc, Lomotil, Paracetamol"
+sore throat,,,Azithromycin
+nausea,,,Aciloc
+diarrhea,fever,,"Lomotil, Paracetamol"
+diarrhea,,,Lomotil
+diarrhea,heartburn,,"Aciloc, Lomotil"
+bacterial infection,,,Azithromycin
+sore throat,,,Azithromycin
+fever,itchy eyes,,"Cetirizine, Paracetamol"
+skin rash,itchy eyes,,Cetirizine
+stomach acid,,,Aciloc
+fever,,,Paracetamol
+stomach acid,,,Aciloc
+itchy eyes,sore throat,,"Cetirizine, Azithromycin"
+stomach acid,,,Aciloc
+respiratory infection,pain,sneezing,"Cetirizine, Azithromycin, Diclofenac"
+joint pain,bacterial infection,,"Azithromycin, Diclofenac"
+runny nose,cough,inflammation,"Cetirizine, Azithromycin, Diclofenac"
+heartburn,,,Aciloc
+diarrhea,joint pain,,"Lomotil, Diclofenac"
+nausea,,,Aciloc
+stomach acid,fever,headache,"Aciloc, Paracetamol"
+fungal infection,pain,,"Cetirizine, Diclofenac"
+respiratory infection,,,Azithromycin
+joint pain,inflammation,fungal infection,"Cetirizine, Diclofenac"
+diarrhea,inflammation,nausea,"Aciloc, Lomotil, Diclofenac"
+cough,,,Azithromycin
+runny nose,nausea,sneezing,"Cetirizine, Aciloc"
+nausea,sneezing,pain,"Cetirizine, Aciloc, Diclofenac"
+respiratory infection,diarrhea,sneezing,"Cetirizine, Azithromycin, Lomotil"
+headache,sneezing,muscle pain,"Cetirizine, Paracetamol"
+sneezing,sore throat,muscle pain,"Cetirizine, Azithromycin, Paracetamol"
+pain,,,Diclofenac
+joint pain,nausea,,"Aciloc, Diclofenac"
+itchy eyes,,,Cetirizine
+pain,,,Diclofenac
+fungal infection,,,Cetirizine
+pain,diarrhea,,"Lomotil, Diclofenac"
+inflammation,,,Diclofenac
+cough,respiratory infection,sneezing,"Cetirizine, Azithromycin"
+headache,,,Paracetamol
+respiratory infection,skin rash,,"Cetirizine, Azithromycin"
+sneezing,nausea,,"Cetirizine, Aciloc"
+heartburn,nausea,,Aciloc
+skin rash,pain,,"Cetirizine, Diclofenac"
+nausea,sneezing,inflammation,"Cetirizine, Aciloc, Diclofenac"
+stomach cramps,skin rash,,"Cetirizine, Lomotil"
+heartburn,cough,,"Azithromycin, Aciloc"
+bacterial infection,nausea,,"Azithromycin, Aciloc"
+joint pain,headache,runny nose,"Cetirizine, Paracetamol, Diclofenac"
+muscle pain,stomach cramps,,"Lomotil, Paracetamol"
+pain,joint pain,,Diclofenac
+pain,,,Diclofenac
+respiratory infection,pain,skin rash,"Cetirizine, Azithromycin, Diclofenac"
+respiratory infection,cough,,Azithromycin
+cough,joint pain,stomach cramps,"Azithromycin, Lomotil, Diclofenac"
+fungal infection,,,Cetirizine
+stomach acid,,,Aciloc
+diarrhea,fever,nausea,"Aciloc, Lomotil, Paracetamol"
+itchy eyes,diarrhea,,"Cetirizine, Lomotil"
+fungal infection,itchy eyes,,Cetirizine
+nausea,respiratory infection,,"Azithromycin, Aciloc"
+pain,stomach acid,,"Aciloc, Diclofenac"
+muscle pain,,,Paracetamol
+muscle pain,fever,stomach acid,"Aciloc, Paracetamol"
+cough,,,Azithromycin
+cough,stomach cramps,,"Azithromycin, Lomotil"
+headache,diarrhea,,"Lomotil, Paracetamol"
+nausea,,,Aciloc
+runny nose,,,Cetirizine
+sneezing,,,Cetirizine
+diarrhea,,,Lomotil
+cough,,,Azithromycin
+heartburn,inflammation,joint pain,"Aciloc, Diclofenac"
+inflammation,joint pain,,Diclofenac
+stomach acid,inflammation,stomach cramps,"Aciloc, Lomotil, Diclofenac"
+diarrhea,pain,,"Lomotil, Diclofenac"
+nausea,,,Aciloc
+nausea,sneezing,bacterial infection,"Cetirizine, Aciloc, Azithromycin"
+headache,,,Paracetamol
+stomach acid,stomach cramps,headache,"Aciloc, Lomotil, Paracetamol"
+stomach acid,,,Aciloc
+diarrhea,muscle pain,cough,"Azithromycin, Lomotil, Paracetamol"
+heartburn,nausea,muscle pain,"Aciloc, Paracetamol"
+fever,diarrhea,,"Lomotil, Paracetamol"
+runny nose,skin rash,,Cetirizine
+stomach acid,,,Aciloc
+fever,diarrhea,,"Lomotil, Paracetamol"
+nausea,runny nose,,"Cetirizine, Aciloc"
+respiratory infection,,,Azithromycin
+fungal infection,,,Cetirizine
+runny nose,itchy eyes,,Cetirizine
+runny nose,,,Cetirizine
+respiratory infection,pain,inflammation,"Azithromycin, Diclofenac"
+heartburn,nausea,sneezing,"Cetirizine, Aciloc"
+heartburn,sore throat,,"Azithromycin, Aciloc"
+bacterial infection,fungal infection,,"Cetirizine, Azithromycin"
+pain,bacterial infection,cough,"Azithromycin, Diclofenac"
+sneezing,headache,,"Cetirizine, Paracetamol"
+headache,stomach acid,stomach cramps,"Aciloc, Lomotil, Paracetamol"
+inflammation,diarrhea,,"Lomotil, Diclofenac"
+nausea,sneezing,headache,"Cetirizine, Aciloc, Paracetamol"
+muscle pain,cough,stomach cramps,"Azithromycin, Lomotil, Paracetamol"
+fungal infection,,,Cetirizine
+diarrhea,,,Lomotil
+fungal infection,,,Cetirizine
+bacterial infection,,,Azithromycin
+diarrhea,bacterial infection,itchy eyes,"Cetirizine, Azithromycin, Lomotil"
+nausea,stomach cramps,,"Aciloc, Lomotil"
+cough,,,Azithromycin
+sneezing,,,Cetirizine
+muscle pain,cough,sore throat,"Azithromycin, Paracetamol"
+pain,,,Diclofenac
+respiratory infection,,,Azithromycin
+runny nose,,,Cetirizine
+sneezing,,,Cetirizine
+itchy eyes,stomach acid,,"Cetirizine, Aciloc"
+bacterial infection,heartburn,diarrhea,"Azithromycin, Lomotil, Aciloc"
+nausea,stomach acid,headache,"Aciloc, Paracetamol"
+joint pain,stomach cramps,respiratory infection,"Azithromycin, Lomotil, Diclofenac"
+sneezing,inflammation,,"Cetirizine, Diclofenac"
+skin rash,heartburn,,"Cetirizine, Aciloc"
+nausea,muscle pain,inflammation,"Aciloc, Paracetamol, Diclofenac"
+itchy eyes,muscle pain,,"Cetirizine, Paracetamol"
+inflammation,itchy eyes,sneezing,"Cetirizine, Diclofenac"
+diarrhea,joint pain,,"Lomotil, Diclofenac"
+joint pain,,,Diclofenac
+respiratory infection,cough,,Azithromycin
+joint pain,,,Diclofenac
+inflammation,bacterial infection,sore throat,"Azithromycin, Diclofenac"
+heartburn,joint pain,muscle pain,"Aciloc, Paracetamol, Diclofenac"
+heartburn,stomach acid,itchy eyes,"Cetirizine, Aciloc"
+inflammation,pain,,Diclofenac
+cough,pain,,"Azithromycin, Diclofenac"
+bacterial infection,itchy eyes,,"Cetirizine, Azithromycin"
+headache,,,Paracetamol
+heartburn,respiratory infection,,"Azithromycin, Aciloc"
+nausea,,,Aciloc
+inflammation,nausea,,"Aciloc, Diclofenac"
+heartburn,,,Aciloc
+diarrhea,,,Lomotil
+bacterial infection,fever,itchy eyes,"Cetirizine, Azithromycin, Paracetamol"
+runny nose,fever,,"Cetirizine, Paracetamol"
+joint pain,bacterial infection,,"Azithromycin, Diclofenac"
+inflammation,,,Diclofenac
+itchy eyes,heartburn,cough,"Cetirizine, Aciloc, Azithromycin"
+bacterial infection,,,Azithromycin
+runny nose,cough,skin rash,"Cetirizine, Azithromycin"
+itchy eyes,fever,,"Cetirizine, Paracetamol"
+headache,,,Paracetamol
+skin rash,bacterial infection,sneezing,"Cetirizine, Azithromycin"
+skin rash,,,Cetirizine
+stomach acid,nausea,,Aciloc
+fever,cough,,"Azithromycin, Paracetamol"
+heartburn,,,Aciloc
+sore throat,nausea,respiratory infection,"Azithromycin, Aciloc"
+itchy eyes,stomach acid,,"Cetirizine, Aciloc"
+skin rash,fungal infection,muscle pain,"Cetirizine, Paracetamol"
+bacterial infection,sneezing,,"Cetirizine, Azithromycin"
+fungal infection,skin rash,,Cetirizine
+stomach acid,diarrhea,,"Aciloc, Lomotil"
+sneezing,,,Cetirizine
+sneezing,joint pain,pain,"Cetirizine, Diclofenac"
+stomach acid,,,Aciloc
+muscle pain,stomach acid,inflammation,"Aciloc, Paracetamol, Diclofenac"
+fever,,,Paracetamol
+sneezing,heartburn,,"Cetirizine, Aciloc"
+heartburn,respiratory infection,,"Azithromycin, Aciloc"
+diarrhea,pain,joint pain,"Lomotil, Diclofenac"
+fever,diarrhea,,"Lomotil, Paracetamol"
+fever,stomach acid,stomach cramps,"Aciloc, Lomotil, Paracetamol"
+heartburn,sneezing,runny nose,"Cetirizine, Aciloc"
+headache,,,Paracetamol
+bacterial infection,pain,itchy eyes,"Cetirizine, Azithromycin, Diclofenac"
+itchy eyes,cough,inflammation,"Cetirizine, Azithromycin, Diclofenac"
+stomach cramps,itchy eyes,heartburn,"Cetirizine, Aciloc, Lomotil"
+heartburn,bacterial infection,,"Azithromycin, Aciloc"
+stomach cramps,,,Lomotil
+bacterial infection,,,Azithromycin
+stomach cramps,joint pain,,"Lomotil, Diclofenac"
+cough,inflammation,,"Azithromycin, Diclofenac"
+diarrhea,,,Lomotil
+bacterial infection,inflammation,,"Azithromycin, Diclofenac"
+fever,headache,,Paracetamol
+fever,pain,,"Paracetamol, Diclofenac"
+itchy eyes,fungal infection,fever,"Cetirizine, Paracetamol"
+pain,inflammation,,Diclofenac
+inflammation,headache,,"Paracetamol, Diclofenac"
+stomach acid,bacterial infection,,"Azithromycin, Aciloc"
+inflammation,nausea,muscle pain,"Aciloc, Paracetamol, Diclofenac"
+bacterial infection,pain,sneezing,"Cetirizine, Azithromycin, Diclofenac"
+inflammation,joint pain,,Diclofenac
+joint pain,fever,fungal infection,"Cetirizine, Paracetamol, Diclofenac"
+heartburn,,,Aciloc
+joint pain,bacterial infection,,"Azithromycin, Diclofenac"
+heartburn,itchy eyes,,"Cetirizine, Aciloc"
+fungal infection,,,Cetirizine
+stomach acid,,,Aciloc
+runny nose,heartburn,joint pain,"Cetirizine, Aciloc, Diclofenac"
+nausea,heartburn,headache,"Aciloc, Paracetamol"
+sore throat,cough,,Azithromycin
+stomach acid,runny nose,,"Cetirizine, Aciloc"
+stomach acid,,,Aciloc
+stomach acid,,,Aciloc
+joint pain,sore throat,stomach acid,"Azithromycin, Aciloc, Diclofenac"
+itchy eyes,inflammation,,"Cetirizine, Diclofenac"
+stomach cramps,itchy eyes,,"Cetirizine, Lomotil"
+pain,skin rash,,"Cetirizine, Diclofenac"
+joint pain,,,Diclofenac
+stomach acid,pain,sore throat,"Azithromycin, Aciloc, Diclofenac"
+respiratory infection,sore throat,sneezing,"Cetirizine, Azithromycin"
+pain,,,Diclofenac
+runny nose,skin rash,,Cetirizine
+bacterial infection,pain,,"Azithromycin, Diclofenac"
+bacterial infection,,,Azithromycin
+itchy eyes,,,Cetirizine
+itchy eyes,,,Cetirizine
+nausea,muscle pain,joint pain,"Aciloc, Paracetamol, Diclofenac"
+cough,fever,respiratory infection,"Azithromycin, Paracetamol"
+nausea,muscle pain,,"Aciloc, Paracetamol"
+joint pain,,,Diclofenac
+bacterial infection,fever,nausea,"Azithromycin, Paracetamol, Aciloc"
+fungal infection,sneezing,inflammation,"Cetirizine, Diclofenac"
+diarrhea,nausea,,"Aciloc, Lomotil"
+heartburn,joint pain,,"Aciloc, Diclofenac"
+stomach acid,itchy eyes,skin rash,"Cetirizine, Aciloc"
+skin rash,,,Cetirizine
+sneezing,stomach acid,,"Cetirizine, Aciloc"
+cough,,,Azithromycin
+pain,,,Diclofenac
+bacterial infection,,,Azithromycin
+diarrhea,muscle pain,fever,"Lomotil, Paracetamol"
+runny nose,fever,,"Cetirizine, Paracetamol"
+sneezing,inflammation,heartburn,"Cetirizine, Aciloc, Diclofenac"
+cough,,,Azithromycin
+inflammation,respiratory infection,,"Azithromycin, Diclofenac"
+joint pain,runny nose,,"Cetirizine, Diclofenac"
+respiratory infection,joint pain,fever,"Azithromycin, Paracetamol, Diclofenac"
+pain,diarrhea,,"Lomotil, Diclofenac"
+nausea,pain,joint pain,"Aciloc, Diclofenac"
+sneezing,respiratory infection,cough,"Cetirizine, Azithromycin"
+headache,joint pain,runny nose,"Cetirizine, Paracetamol, Diclofenac"
+fever,,,Paracetamol
+sore throat,,,Azithromycin
+diarrhea,itchy eyes,,"Cetirizine, Lomotil"
+runny nose,,,Cetirizine
+joint pain,stomach cramps,inflammation,"Lomotil, Diclofenac"
+sneezing,fever,,"Cetirizine, Paracetamol"
+nausea,,,Aciloc
+fever,headache,respiratory infection,"Azithromycin, Paracetamol"
+joint pain,sneezing,fungal infection,"Cetirizine, Diclofenac"
+sneezing,stomach acid,headache,"Cetirizine, Aciloc, Paracetamol"
+pain,,,Diclofenac
+stomach acid,,,Aciloc
+headache,,,Paracetamol
+joint pain,fungal infection,,"Cetirizine, Diclofenac"
+runny nose,,,Cetirizine
+respiratory infection,muscle pain,nausea,"Azithromycin, Paracetamol, Aciloc"
+muscle pain,,,Paracetamol
+skin rash,,,Cetirizine
+bacterial infection,headache,,"Azithromycin, Paracetamol"
+itchy eyes,nausea,,"Cetirizine, Aciloc"
+bacterial infection,heartburn,,"Azithromycin, Aciloc"
+muscle pain,sneezing,fever,"Cetirizine, Paracetamol"
+nausea,skin rash,,"Cetirizine, Aciloc"
+itchy eyes,headache,fever,"Cetirizine, Paracetamol"
+cough,diarrhea,sore throat,"Azithromycin, Lomotil"
+bacterial infection,,,Azithromycin
+headache,,,Paracetamol
+bacterial infection,heartburn,fever,"Azithromycin, Aciloc, Paracetamol"
+fungal infection,,,Cetirizine
+muscle pain,,,Paracetamol
+pain,,,Diclofenac
+cough,joint pain,,"Azithromycin, Diclofenac"
+diarrhea,respiratory infection,,"Azithromycin, Lomotil"
+itchy eyes,joint pain,runny nose,"Cetirizine, Diclofenac"
+heartburn,,,Aciloc
+bacterial infection,pain,,"Azithromycin, Diclofenac"
+muscle pain,itchy eyes,respiratory infection,"Cetirizine, Azithromycin, Paracetamol"
+runny nose,stomach cramps,sneezing,"Cetirizine, Lomotil"
+sneezing,diarrhea,respiratory infection,"Cetirizine, Azithromycin, Lomotil"
+fever,skin rash,inflammation,"Cetirizine, Paracetamol, Diclofenac"
+nausea,diarrhea,,"Aciloc, Lomotil"
+stomach cramps,,,Lomotil
+heartburn,runny nose,stomach acid,"Cetirizine, Aciloc"
+fungal infection,headache,,"Cetirizine, Paracetamol"
+pain,,,Diclofenac
+sneezing,,,Cetirizine
+bacterial infection,stomach cramps,,"Azithromycin, Lomotil"
+runny nose,,,Cetirizine
+heartburn,,,Aciloc
+respiratory infection,bacterial infection,muscle pain,"Azithromycin, Paracetamol"
+joint pain,itchy eyes,bacterial infection,"Cetirizine, Azithromycin, Diclofenac"
+respiratory infection,,,Azithromycin
+pain,fungal infection,,"Cetirizine, Diclofenac"
+stomach acid,sore throat,diarrhea,"Azithromycin, Aciloc, Lomotil"
+stomach cramps,runny nose,sneezing,"Cetirizine, Lomotil"
+sneezing,stomach cramps,,"Cetirizine, Lomotil"
+bacterial infection,fungal infection,muscle pain,"Cetirizine, Azithromycin, Paracetamol"
+sore throat,muscle pain,,"Azithromycin, Paracetamol"
+fever,,,Paracetamol
+sneezing,heartburn,,"Cetirizine, Aciloc"
+fungal infection,,,Cetirizine
+cough,joint pain,sneezing,"Cetirizine, Azithromycin, Diclofenac"
+nausea,skin rash,,"Cetirizine, Aciloc"
+joint pain,,,Diclofenac
+itchy eyes,bacterial infection,,"Cetirizine, Azithromycin"
+skin rash,muscle pain,respiratory infection,"Cetirizine, Azithromycin, Paracetamol"
+skin rash,headache,,"Cetirizine, Paracetamol"
+stomach cramps,nausea,diarrhea,"Aciloc, Lomotil"
+nausea,sneezing,,"Cetirizine, Aciloc"
+fungal infection,stomach acid,,"Cetirizine, Aciloc"
+inflammation,,,Diclofenac
+diarrhea,headache,sneezing,"Cetirizine, Lomotil, Paracetamol"
+fever,sore throat,heartburn,"Azithromycin, Paracetamol, Aciloc"
+fungal infection,stomach cramps,,"Cetirizine, Lomotil"
+cough,diarrhea,,"Azithromycin, Lomotil"
+heartburn,,,Aciloc
+fungal infection,,,Cetirizine
+muscle pain,itchy eyes,,"Cetirizine, Paracetamol"
+diarrhea,itchy eyes,runny nose,"Cetirizine, Lomotil"
+inflammation,cough,stomach cramps,"Azithromycin, Lomotil, Diclofenac"
+cough,diarrhea,,"Azithromycin, Lomotil"
+inflammation,pain,,Diclofenac
+stomach acid,,,Aciloc
+sneezing,,,Cetirizine
+heartburn,,,Aciloc
+sore throat,,,Azithromycin
+cough,,,Azithromycin
+fever,stomach acid,cough,"Azithromycin, Aciloc, Paracetamol"
+fungal infection,inflammation,runny nose,"Cetirizine, Diclofenac"
+sneezing,skin rash,runny nose,Cetirizine
+sore throat,itchy eyes,,"Cetirizine, Azithromycin"
+fungal infection,cough,,"Cetirizine, Azithromycin"
+respiratory infection,skin rash,heartburn,"Cetirizine, Azithromycin, Aciloc"
+diarrhea,runny nose,,"Cetirizine, Lomotil"
+stomach cramps,cough,,"Azithromycin, Lomotil"
+cough,,,Azithromycin
+sneezing,bacterial infection,,"Cetirizine, Azithromycin"
+skin rash,fever,,"Cetirizine, Paracetamol"
+muscle pain,cough,,"Azithromycin, Paracetamol"
+respiratory infection,stomach acid,sore throat,"Azithromycin, Aciloc"
+fungal infection,headache,,"Cetirizine, Paracetamol"
+respiratory infection,inflammation,,"Azithromycin, Diclofenac"
+sneezing,,,Cetirizine
+pain,,,Diclofenac
+inflammation,,,Diclofenac
+pain,diarrhea,,"Lomotil, Diclofenac"
+cough,fever,,"Azithromycin, Paracetamol"
+fungal infection,muscle pain,,"Cetirizine, Paracetamol"
+heartburn,bacterial infection,joint pain,"Azithromycin, Aciloc, Diclofenac"
+fever,,,Paracetamol
+cough,skin rash,stomach acid,"Cetirizine, Azithromycin, Aciloc"
+sore throat,diarrhea,stomach acid,"Azithromycin, Lomotil, Aciloc"
+muscle pain,,,Paracetamol
+muscle pain,,,Paracetamol
+skin rash,,,Cetirizine
+fungal infection,respiratory infection,,"Cetirizine, Azithromycin"
+sore throat,heartburn,runny nose,"Cetirizine, Azithromycin, Aciloc"
+pain,,,Diclofenac
+sneezing,fungal infection,,Cetirizine
+stomach cramps,,,Lomotil
+sore throat,itchy eyes,inflammation,"Cetirizine, Azithromycin, Diclofenac"
+heartburn,,,Aciloc
+muscle pain,headache,nausea,"Aciloc, Paracetamol"
+muscle pain,headache,,Paracetamol
+stomach cramps,,,Lomotil
+muscle pain,joint pain,fever,"Paracetamol, Diclofenac"
+stomach acid,,,Aciloc
+stomach cramps,sneezing,,"Cetirizine, Lomotil"
+itchy eyes,joint pain,sneezing,"Cetirizine, Diclofenac"
+sneezing,skin rash,,Cetirizine
+joint pain,fungal infection,muscle pain,"Cetirizine, Paracetamol, Diclofenac"
+itchy eyes,cough,,"Cetirizine, Azithromycin"
+diarrhea,stomach acid,fungal infection,"Cetirizine, Aciloc, Lomotil"
+diarrhea,,,Lomotil
+diarrhea,runny nose,stomach acid,"Cetirizine, Aciloc, Lomotil"
+runny nose,sore throat,fever,"Cetirizine, Azithromycin, Paracetamol"
+heartburn,pain,itchy eyes,"Cetirizine, Aciloc, Diclofenac"
+muscle pain,,,Paracetamol
+sneezing,fungal infection,fever,"Cetirizine, Paracetamol"
+fungal infection,fever,,"Cetirizine, Paracetamol"
+bacterial infection,,,Azithromycin
+respiratory infection,,,Azithromycin
+stomach cramps,,,Lomotil
+sneezing,,,Cetirizine
+stomach cramps,respiratory infection,,"Azithromycin, Lomotil"
+nausea,,,Aciloc
+pain,,,Diclofenac
+muscle pain,,,Paracetamol
+diarrhea,joint pain,heartburn,"Aciloc, Lomotil, Diclofenac"
+runny nose,bacterial infection,fungal infection,"Cetirizine, Azithromycin"
+inflammation,fungal infection,stomach acid,"Cetirizine, Aciloc, Diclofenac"
+nausea,runny nose,heartburn,"Cetirizine, Aciloc"
+itchy eyes,,,Cetirizine
+stomach cramps,headache,sore throat,"Azithromycin, Lomotil, Paracetamol"
+joint pain,,,Diclofenac
+diarrhea,nausea,,"Aciloc, Lomotil"
+joint pain,diarrhea,,"Lomotil, Diclofenac"
+cough,bacterial infection,,Azithromycin
+inflammation,heartburn,,"Aciloc, Diclofenac"
+joint pain,fungal infection,,"Cetirizine, Diclofenac"
+skin rash,muscle pain,joint pain,"Cetirizine, Paracetamol, Diclofenac"
+cough,,,Azithromycin
+skin rash,stomach cramps,,"Cetirizine, Lomotil"
+stomach cramps,inflammation,,"Lomotil, Diclofenac"
+headache,inflammation,nausea,"Aciloc, Paracetamol, Diclofenac"
+skin rash,,,Cetirizine
+runny nose,inflammation,fungal infection,"Cetirizine, Diclofenac"
+stomach cramps,bacterial infection,stomach acid,"Azithromycin, Lomotil, Aciloc"
+bacterial infection,,,Azithromycin
+skin rash,nausea,,"Cetirizine, Aciloc"
+sneezing,pain,,"Cetirizine, Diclofenac"
+itchy eyes,fungal infection,,Cetirizine
+heartburn,cough,,"Azithromycin, Aciloc"
+fungal infection,,,Cetirizine
+respiratory infection,inflammation,,"Azithromycin, Diclofenac"
+fungal infection,respiratory infection,pain,"Cetirizine, Azithromycin, Diclofenac"
+stomach cramps,fungal infection,skin rash,"Cetirizine, Lomotil"
+nausea,heartburn,,Aciloc
+respiratory infection,bacterial infection,headache,"Azithromycin, Paracetamol"
+muscle pain,bacterial infection,,"Azithromycin, Paracetamol"
+fungal infection,,,Cetirizine
+respiratory infection,,,Azithromycin
+joint pain,headache,,"Paracetamol, Diclofenac"
+joint pain,skin rash,fever,"Cetirizine, Paracetamol, Diclofenac"
+runny nose,stomach cramps,cough,"Cetirizine, Azithromycin, Lomotil"
+bacterial infection,,,Azithromycin
+sneezing,fever,,"Cetirizine, Paracetamol"
+stomach acid,nausea,fever,"Aciloc, Paracetamol"
+nausea,,,Aciloc
+sore throat,heartburn,fungal infection,"Cetirizine, Azithromycin, Aciloc"
+sneezing,,,Cetirizine
+joint pain,bacterial infection,,"Azithromycin, Diclofenac"
+stomach cramps,sore throat,,"Azithromycin, Lomotil"
+muscle pain,headache,,Paracetamol
+nausea,fungal infection,inflammation,"Cetirizine, Aciloc, Diclofenac"
+skin rash,diarrhea,pain,"Cetirizine, Lomotil, Diclofenac"
+cough,headache,,"Azithromycin, Paracetamol"
+skin rash,muscle pain,,"Cetirizine, Paracetamol"
+muscle pain,,,Paracetamol
+heartburn,stomach cramps,,"Aciloc, Lomotil"
+heartburn,runny nose,,"Cetirizine, Aciloc"
+pain,bacterial infection,,"Azithromycin, Diclofenac"
+headache,fever,diarrhea,"Lomotil, Paracetamol"
+stomach cramps,,,Lomotil
+skin rash,,,Cetirizine
+sore throat,diarrhea,stomach acid,"Azithromycin, Lomotil, Aciloc"
+fever,inflammation,headache,"Paracetamol, Diclofenac"
+joint pain,sore throat,stomach acid,"Azithromycin, Aciloc, Diclofenac"
+cough,bacterial infection,,Azithromycin
+heartburn,stomach cramps,fever,"Aciloc, Lomotil, Paracetamol"
+heartburn,sore throat,muscle pain,"Azithromycin, Aciloc, Paracetamol"
+cough,diarrhea,sneezing,"Cetirizine, Azithromycin, Lomotil"
+fever,nausea,inflammation,"Aciloc, Paracetamol, Diclofenac"
+diarrhea,,,Lomotil
+stomach cramps,,,Lomotil
+sore throat,,,Azithromycin
+nausea,,,Aciloc
+stomach cramps,muscle pain,,"Lomotil, Paracetamol"
+stomach acid,itchy eyes,nausea,"Cetirizine, Aciloc"
+sore throat,diarrhea,,"Azithromycin, Lomotil"
+itchy eyes,,,Cetirizine
+cough,nausea,,"Azithromycin, Aciloc"
+cough,nausea,diarrhea,"Azithromycin, Lomotil, Aciloc"
+sneezing,joint pain,bacterial infection,"Cetirizine, Azithromycin, Diclofenac"
+itchy eyes,,,Cetirizine
+headache,sneezing,runny nose,"Cetirizine, Paracetamol"
+heartburn,bacterial infection,,"Azithromycin, Aciloc"
+sneezing,cough,fungal infection,"Cetirizine, Azithromycin"
+diarrhea,,,Lomotil
+fungal infection,,,Cetirizine
+pain,stomach acid,,"Aciloc, Diclofenac"
+inflammation,bacterial infection,,"Azithromycin, Diclofenac"
+sneezing,,,Cetirizine
+fungal infection,stomach acid,,"Cetirizine, Aciloc"
+cough,,,Azithromycin
+respiratory infection,,,Azithromycin
+inflammation,,,Diclofenac
+heartburn,cough,,"Azithromycin, Aciloc"
+cough,,,Azithromycin
+sore throat,muscle pain,,"Azithromycin, Paracetamol"
+fever,,,Paracetamol
+sneezing,inflammation,muscle pain,"Cetirizine, Paracetamol, Diclofenac"
+cough,,,Azithromycin
+heartburn,,,Aciloc
+diarrhea,,,Lomotil
+skin rash,pain,,"Cetirizine, Diclofenac"
+skin rash,sneezing,itchy eyes,Cetirizine
+fever,,,Paracetamol
+respiratory infection,diarrhea,,"Azithromycin, Lomotil"
+sore throat,,,Azithromycin
+bacterial infection,muscle pain,,"Azithromycin, Paracetamol"
+itchy eyes,,,Cetirizine
+fever,sneezing,,"Cetirizine, Paracetamol"
+fungal infection,stomach cramps,,"Cetirizine, Lomotil"
+stomach cramps,,,Lomotil
+itchy eyes,stomach acid,stomach cramps,"Cetirizine, Aciloc, Lomotil"
+respiratory infection,cough,,Azithromycin
+muscle pain,inflammation,,"Paracetamol, Diclofenac"
+fungal infection,,,Cetirizine
+sore throat,skin rash,,"Cetirizine, Azithromycin"
+bacterial infection,headache,,"Azithromycin, Paracetamol"
+diarrhea,fever,,"Lomotil, Paracetamol"
+stomach cramps,sore throat,nausea,"Azithromycin, Lomotil, Aciloc"
+cough,,,Azithromycin
+diarrhea,,,Lomotil
+stomach acid,fungal infection,,"Cetirizine, Aciloc"
+stomach acid,skin rash,,"Cetirizine, Aciloc"
+sneezing,stomach cramps,skin rash,"Cetirizine, Lomotil"
+fungal infection,diarrhea,,"Cetirizine, Lomotil"
+fungal infection,,,Cetirizine
+headache,itchy eyes,muscle pain,"Cetirizine, Paracetamol"
+heartburn,runny nose,sore throat,"Cetirizine, Aciloc, Azithromycin"
+sneezing,heartburn,stomach cramps,"Cetirizine, Aciloc, Lomotil"
+inflammation,,,Diclofenac
+muscle pain,fungal infection,,"Cetirizine, Paracetamol"
+heartburn,nausea,,Aciloc
+sore throat,sneezing,pain,"Cetirizine, Azithromycin, Diclofenac"
+itchy eyes,bacterial infection,inflammation,"Cetirizine, Azithromycin, Diclofenac"
+runny nose,sore throat,,"Cetirizine, Azithromycin"
+fever,heartburn,muscle pain,"Aciloc, Paracetamol"
+fungal infection,fever,,"Cetirizine, Paracetamol"
+respiratory infection,stomach cramps,,"Azithromycin, Lomotil"
+headache,skin rash,,"Cetirizine, Paracetamol"
+stomach cramps,itchy eyes,,"Cetirizine, Lomotil"
+sore throat,,,Azithromycin
+heartburn,nausea,,Aciloc
+sore throat,nausea,cough,"Azithromycin, Aciloc"
+itchy eyes,headache,,"Cetirizine, Paracetamol"
+runny nose,inflammation,diarrhea,"Cetirizine, Lomotil, Diclofenac"
+cough,diarrhea,,"Azithromycin, Lomotil"
+runny nose,bacterial infection,,"Cetirizine, Azithromycin"
+itchy eyes,fungal infection,,Cetirizine
+sneezing,,,Cetirizine
+diarrhea,sneezing,,"Cetirizine, Lomotil"
+bacterial infection,heartburn,sneezing,"Cetirizine, Azithromycin, Aciloc"
+heartburn,,,Aciloc
+runny nose,,,Cetirizine
+skin rash,fungal infection,pain,"Cetirizine, Diclofenac"
+fungal infection,bacterial infection,heartburn,"Cetirizine, Azithromycin, Aciloc"
+headache,diarrhea,pain,"Lomotil, Paracetamol, Diclofenac"
+headache,skin rash,cough,"Cetirizine, Azithromycin, Paracetamol"
+stomach acid,inflammation,,"Aciloc, Diclofenac"
+heartburn,,,Aciloc
+joint pain,headache,,"Paracetamol, Diclofenac"
+stomach acid,,,Aciloc
+heartburn,skin rash,stomach cramps,"Cetirizine, Aciloc, Lomotil"
+cough,inflammation,,"Azithromycin, Diclofenac"
+bacterial infection,sore throat,,Azithromycin
+sore throat,,,Azithromycin
+heartburn,stomach cramps,,"Aciloc, Lomotil"
+pain,,,Diclofenac
+runny nose,pain,cough,"Cetirizine, Azithromycin, Diclofenac"
+diarrhea,sneezing,,"Cetirizine, Lomotil"
+muscle pain,diarrhea,,"Lomotil, Paracetamol"
+inflammation,,,Diclofenac
+respiratory infection,joint pain,,"Azithromycin, Diclofenac"
+diarrhea,,,Lomotil
+runny nose,,,Cetirizine
+respiratory infection,diarrhea,headache,"Azithromycin, Lomotil, Paracetamol"
+sore throat,,,Azithromycin
+nausea,,,Aciloc
+cough,heartburn,,"Azithromycin, Aciloc"
+fever,,,Paracetamol
+fever,stomach acid,,"Aciloc, Paracetamol"
+pain,runny nose,heartburn,"Cetirizine, Aciloc, Diclofenac"
+stomach cramps,,,Lomotil
+skin rash,,,Cetirizine
+nausea,pain,inflammation,"Aciloc, Diclofenac"
+diarrhea,cough,stomach cramps,"Azithromycin, Lomotil"
+skin rash,sore throat,,"Cetirizine, Azithromycin"
+cough,,,Azithromycin
+stomach acid,skin rash,fungal infection,"Cetirizine, Aciloc"
+respiratory infection,headache,,"Azithromycin, Paracetamol"
+sore throat,,,Azithromycin
+pain,sore throat,,"Azithromycin, Diclofenac"
+sneezing,,,Cetirizine
+nausea,,,Aciloc
+sneezing,respiratory infection,muscle pain,"Cetirizine, Azithromycin, Paracetamol"
+inflammation,bacterial infection,diarrhea,"Azithromycin, Lomotil, Diclofenac"
+cough,headache,diarrhea,"Azithromycin, Lomotil, Paracetamol"
+stomach cramps,,,Lomotil
+pain,,,Diclofenac
+joint pain,sore throat,,"Azithromycin, Diclofenac"
+pain,headache,fever,"Paracetamol, Diclofenac"
+nausea,,,Aciloc
+stomach cramps,fungal infection,skin rash,"Cetirizine, Lomotil"
+inflammation,,,Diclofenac
+cough,diarrhea,,"Azithromycin, Lomotil"
+joint pain,,,Diclofenac
+diarrhea,bacterial infection,skin rash,"Cetirizine, Azithromycin, Lomotil"
+fungal infection,itchy eyes,inflammation,"Cetirizine, Diclofenac"
+sore throat,runny nose,itchy eyes,"Cetirizine, Azithromycin"
+sore throat,,,Azithromycin
+runny nose,,,Cetirizine
+muscle pain,inflammation,,"Paracetamol, Diclofenac"
+bacterial infection,stomach acid,headache,"Azithromycin, Aciloc, Paracetamol"
+fever,,,Paracetamol
+diarrhea,pain,heartburn,"Aciloc, Lomotil, Diclofenac"
+muscle pain,heartburn,,"Aciloc, Paracetamol"
+pain,sneezing,itchy eyes,"Cetirizine, Diclofenac"
+pain,muscle pain,joint pain,"Paracetamol, Diclofenac"
+skin rash,heartburn,,"Cetirizine, Aciloc"
+cough,stomach acid,,"Azithromycin, Aciloc"
+fungal infection,muscle pain,,"Cetirizine, Paracetamol"
+stomach cramps,,,Lomotil
+heartburn,respiratory infection,,"Azithromycin, Aciloc"
+itchy eyes,,,Cetirizine
+diarrhea,fungal infection,,"Cetirizine, Lomotil"
+inflammation,,,Diclofenac
+diarrhea,stomach acid,,"Aciloc, Lomotil"
+fungal infection,,,Cetirizine
+bacterial infection,muscle pain,,"Azithromycin, Paracetamol"
+fungal infection,diarrhea,headache,"Cetirizine, Lomotil, Paracetamol"
+itchy eyes,stomach cramps,,"Cetirizine, Lomotil"
+bacterial infection,cough,,Azithromycin
+headache,,,Paracetamol
+heartburn,,,Aciloc
+cough,,,Azithromycin
+heartburn,fungal infection,respiratory infection,"Cetirizine, Aciloc, Azithromycin"
+cough,fever,,"Azithromycin, Paracetamol"
+joint pain,inflammation,stomach cramps,"Lomotil, Diclofenac"
+sore throat,skin rash,joint pain,"Cetirizine, Azithromycin, Diclofenac"
+fungal infection,stomach acid,,"Cetirizine, Aciloc"
+skin rash,,,Cetirizine
+respiratory infection,sore throat,joint pain,"Azithromycin, Diclofenac"
+nausea,respiratory infection,,"Azithromycin, Aciloc"
+itchy eyes,muscle pain,,"Cetirizine, Paracetamol"
+bacterial infection,,,Azithromycin
+fungal infection,,,Cetirizine
+skin rash,,,Cetirizine
+sore throat,,,Azithromycin
+itchy eyes,sneezing,,Cetirizine
+fungal infection,joint pain,stomach acid,"Cetirizine, Aciloc, Diclofenac"
+nausea,runny nose,,"Cetirizine, Aciloc"
+fever,cough,heartburn,"Azithromycin, Paracetamol, Aciloc"
+fungal infection,skin rash,respiratory infection,"Cetirizine, Azithromycin"
+fungal infection,inflammation,,"Cetirizine, Diclofenac"
+stomach cramps,stomach acid,inflammation,"Aciloc, Lomotil, Diclofenac"
+sore throat,,,Azithromycin
+respiratory infection,,,Azithromycin
+diarrhea,,,Lomotil
+bacterial infection,,,Azithromycin
+headache,stomach acid,sneezing,"Cetirizine, Aciloc, Paracetamol"
+fever,,,Paracetamol
+respiratory infection,,,Azithromycin
+inflammation,muscle pain,skin rash,"Cetirizine, Paracetamol, Diclofenac"
+heartburn,,,Aciloc
+nausea,,,Aciloc
+pain,,,Diclofenac
+stomach cramps,inflammation,,"Lomotil, Diclofenac"
+stomach cramps,sneezing,,"Cetirizine, Lomotil"
+sneezing,inflammation,,"Cetirizine, Diclofenac"
+heartburn,itchy eyes,,"Cetirizine, Aciloc"
+muscle pain,inflammation,runny nose,"Cetirizine, Paracetamol, Diclofenac"
+heartburn,headache,,"Aciloc, Paracetamol"
+stomach cramps,fever,,"Lomotil, Paracetamol"
+bacterial infection,,,Azithromycin
+fever,,,Paracetamol
+respiratory infection,bacterial infection,sore throat,Azithromycin
+joint pain,stomach cramps,,"Lomotil, Diclofenac"
+muscle pain,fungal infection,skin rash,"Cetirizine, Paracetamol"
+fungal infection,,,Cetirizine
+joint pain,runny nose,,"Cetirizine, Diclofenac"
+muscle pain,,,Paracetamol
+joint pain,fever,,"Paracetamol, Diclofenac"
+fungal infection,itchy eyes,muscle pain,"Cetirizine, Paracetamol"
+muscle pain,sneezing,,"Cetirizine, Paracetamol"
+nausea,,,Aciloc
+fungal infection,cough,skin rash,"Cetirizine, Azithromycin"
+bacterial infection,,,Azithromycin
+stomach cramps,joint pain,,"Lomotil, Diclofenac"
+fever,stomach acid,,"Aciloc, Paracetamol"
+fungal infection,inflammation,,"Cetirizine, Diclofenac"
+skin rash,pain,,"Cetirizine, Diclofenac"
+pain,,,Diclofenac
+stomach acid,sore throat,diarrhea,"Azithromycin, Aciloc, Lomotil"
+runny nose,,,Cetirizine
+joint pain,stomach acid,,"Aciloc, Diclofenac"
+sneezing,diarrhea,,"Cetirizine, Lomotil"
+fungal infection,heartburn,diarrhea,"Cetirizine, Aciloc, Lomotil"
+stomach cramps,,,Lomotil
+bacterial infection,pain,,"Azithromycin, Diclofenac"
+sneezing,respiratory infection,,"Cetirizine, Azithromycin"
+itchy eyes,bacterial infection,,"Cetirizine, Azithromycin"
+itchy eyes,,,Cetirizine
+bacterial infection,sore throat,,Azithromycin
+sneezing,cough,,"Cetirizine, Azithromycin"
+heartburn,,,Aciloc
+diarrhea,,,Lomotil
+sore throat,skin rash,,"Cetirizine, Azithromycin"
+fungal infection,,,Cetirizine
+sore throat,skin rash,fever,"Cetirizine, Azithromycin, Paracetamol"
+fever,skin rash,,"Cetirizine, Paracetamol"
+bacterial infection,,,Azithromycin
+diarrhea,,,Lomotil
+pain,diarrhea,,"Lomotil, Diclofenac"
+inflammation,,,Diclofenac
+cough,pain,,"Azithromycin, Diclofenac"
+respiratory infection,,,Azithromycin
+itchy eyes,,,Cetirizine
+nausea,diarrhea,,"Aciloc, Lomotil"
+muscle pain,nausea,inflammation,"Aciloc, Paracetamol, Diclofenac"
+itchy eyes,,,Cetirizine
+heartburn,,,Aciloc
+pain,,,Diclofenac
+sore throat,skin rash,,"Cetirizine, Azithromycin"
+fungal infection,,,Cetirizine
+bacterial infection,stomach cramps,fever,"Azithromycin, Lomotil, Paracetamol"
+stomach acid,stomach cramps,,"Aciloc, Lomotil"
+sore throat,fever,,"Azithromycin, Paracetamol"
+headache,skin rash,,"Cetirizine, Paracetamol"
+heartburn,,,Aciloc
+respiratory infection,pain,itchy eyes,"Cetirizine, Azithromycin, Diclofenac"
+diarrhea,fungal infection,nausea,"Cetirizine, Aciloc, Lomotil"
+joint pain,stomach cramps,,"Lomotil, Diclofenac"
+diarrhea,sore throat,,"Azithromycin, Lomotil"
+joint pain,cough,headache,"Azithromycin, Paracetamol, Diclofenac"
+cough,muscle pain,fungal infection,"Cetirizine, Azithromycin, Paracetamol"
+headache,joint pain,,"Paracetamol, Diclofenac"
+headache,sore throat,,"Azithromycin, Paracetamol"
+cough,bacterial infection,,Azithromycin
+fever,sneezing,,"Cetirizine, Paracetamol"
+itchy eyes,,,Cetirizine
+itchy eyes,,,Cetirizine
+fever,inflammation,,"Paracetamol, Diclofenac"
+diarrhea,,,Lomotil
+muscle pain,,,Paracetamol
+joint pain,,,Diclofenac
+headache,,,Paracetamol
+heartburn,,,Aciloc
+stomach acid,sneezing,,"Cetirizine, Aciloc"
+heartburn,fungal infection,sneezing,"Cetirizine, Aciloc"
+muscle pain,,,Paracetamol
+fever,nausea,,"Aciloc, Paracetamol"
+runny nose,nausea,joint pain,"Cetirizine, Aciloc, Diclofenac"
+heartburn,nausea,sneezing,"Cetirizine, Aciloc"
+inflammation,pain,,Diclofenac
+heartburn,,,Aciloc
+muscle pain,,,Paracetamol
+sore throat,bacterial infection,headache,"Azithromycin, Paracetamol"
+pain,stomach acid,heartburn,"Aciloc, Diclofenac"
+respiratory infection,inflammation,sneezing,"Cetirizine, Azithromycin, Diclofenac"
+cough,headache,heartburn,"Azithromycin, Paracetamol, Aciloc"
+fungal infection,,,Cetirizine
+nausea,bacterial infection,respiratory infection,"Azithromycin, Aciloc"
+headache,,,Paracetamol
+stomach acid,,,Aciloc
+stomach acid,heartburn,,Aciloc
+joint pain,,,Diclofenac
+cough,,,Azithromycin
+runny nose,inflammation,,"Cetirizine, Diclofenac"
+inflammation,fever,sore throat,"Azithromycin, Paracetamol, Diclofenac"
+fever,heartburn,,"Aciloc, Paracetamol"
+fever,cough,stomach cramps,"Azithromycin, Lomotil, Paracetamol"
+fever,,,Paracetamol
+sneezing,stomach acid,,"Cetirizine, Aciloc"
+pain,respiratory infection,muscle pain,"Azithromycin, Paracetamol, Diclofenac"
+diarrhea,,,Lomotil
+muscle pain,skin rash,pain,"Cetirizine, Paracetamol, Diclofenac"
+skin rash,sore throat,stomach acid,"Cetirizine, Azithromycin, Aciloc"
+nausea,,,Aciloc
+stomach acid,,,Aciloc
+runny nose,stomach cramps,,"Cetirizine, Lomotil"
+headache,,,Paracetamol
+fever,,,Paracetamol
+pain,inflammation,,Diclofenac
+skin rash,heartburn,,"Cetirizine, Aciloc"
+itchy eyes,,,Cetirizine
+joint pain,,,Diclofenac
+stomach acid,bacterial infection,,"Azithromycin, Aciloc"
+heartburn,,,Aciloc
+heartburn,,,Aciloc
+bacterial infection,,,Azithromycin
+heartburn,fungal infection,,"Cetirizine, Aciloc"
+muscle pain,heartburn,,"Aciloc, Paracetamol"
+skin rash,nausea,muscle pain,"Cetirizine, Aciloc, Paracetamol"
+inflammation,,,Diclofenac
+pain,cough,,"Azithromycin, Diclofenac"
+sneezing,,,Cetirizine
+stomach acid,sore throat,,"Azithromycin, Aciloc"
+joint pain,nausea,heartburn,"Aciloc, Diclofenac"
+respiratory infection,sneezing,cough,"Cetirizine, Azithromycin"
+cough,itchy eyes,,"Cetirizine, Azithromycin"
+runny nose,stomach acid,,"Cetirizine, Aciloc"
+headache,sneezing,,"Cetirizine, Paracetamol"
+joint pain,,,Diclofenac
+stomach cramps,,,Lomotil
+heartburn,nausea,,Aciloc
+sore throat,skin rash,fever,"Cetirizine, Azithromycin, Paracetamol"
+heartburn,,,Aciloc
+fungal infection,respiratory infection,,"Cetirizine, Azithromycin"
+headache,,,Paracetamol
+stomach cramps,heartburn,,"Aciloc, Lomotil"
+respiratory infection,,,Azithromycin
+sore throat,heartburn,,"Azithromycin, Aciloc"
+sneezing,bacterial infection,fever,"Cetirizine, Azithromycin, Paracetamol"
+stomach cramps,sore throat,,"Azithromycin, Lomotil"
+joint pain,sore throat,,"Azithromycin, Diclofenac"
+skin rash,pain,stomach cramps,"Cetirizine, Lomotil, Diclofenac"
+sneezing,,,Cetirizine
+stomach cramps,,,Lomotil
+respiratory infection,,,Azithromycin
+itchy eyes,,,Cetirizine
+diarrhea,,,Lomotil
+pain,nausea,,"Aciloc, Diclofenac"
+stomach acid,pain,itchy eyes,"Cetirizine, Aciloc, Diclofenac"
+sneezing,,,Cetirizine
+pain,sore throat,heartburn,"Azithromycin, Aciloc, Diclofenac"
+nausea,,,Aciloc
+bacterial infection,,,Azithromycin
+stomach cramps,pain,diarrhea,"Lomotil, Diclofenac"
+sore throat,,,Azithromycin
+inflammation,respiratory infection,skin rash,"Cetirizine, Azithromycin, Diclofenac"
+headache,fungal infection,runny nose,"Cetirizine, Paracetamol"
+fever,,,Paracetamol
+fungal infection,muscle pain,headache,"Cetirizine, Paracetamol"
+headache,,,Paracetamol
+nausea,headache,,"Aciloc, Paracetamol"
+sore throat,stomach acid,muscle pain,"Azithromycin, Aciloc, Paracetamol"
+headache,skin rash,nausea,"Cetirizine, Aciloc, Paracetamol"
+fungal infection,headache,stomach cramps,"Cetirizine, Lomotil, Paracetamol"
+bacterial infection,muscle pain,,"Azithromycin, Paracetamol"
+fever,itchy eyes,,"Cetirizine, Paracetamol"
+diarrhea,,,Lomotil
+fungal infection,,,Cetirizine
+sneezing,inflammation,headache,"Cetirizine, Paracetamol, Diclofenac"
+muscle pain,,,Paracetamol
+pain,fever,,"Paracetamol, Diclofenac"
+itchy eyes,pain,,"Cetirizine, Diclofenac"
+headache,,,Paracetamol
+headache,inflammation,fever,"Paracetamol, Diclofenac"
+pain,cough,,"Azithromycin, Diclofenac"
+fever,,,Paracetamol
+fever,stomach cramps,,"Lomotil, Paracetamol"
+skin rash,muscle pain,,"Cetirizine, Paracetamol"
+bacterial infection,stomach cramps,sore throat,"Azithromycin, Lomotil"
+muscle pain,,,Paracetamol
+heartburn,muscle pain,stomach cramps,"Aciloc, Lomotil, Paracetamol"
+inflammation,,,Diclofenac
+muscle pain,joint pain,pain,"Paracetamol, Diclofenac"
+muscle pain,sneezing,diarrhea,"Cetirizine, Lomotil, Paracetamol"
+fever,fungal infection,joint pain,"Cetirizine, Paracetamol, Diclofenac"
+skin rash,,,Cetirizine
+sore throat,headache,bacterial infection,"Azithromycin, Paracetamol"
+respiratory infection,heartburn,joint pain,"Azithromycin, Aciloc, Diclofenac"
+runny nose,cough,pain,"Cetirizine, Azithromycin, Diclofenac"
+inflammation,joint pain,heartburn,"Aciloc, Diclofenac"
+fever,,,Paracetamol
+fungal infection,bacterial infection,,"Cetirizine, Azithromycin"
+nausea,joint pain,,"Aciloc, Diclofenac"
+diarrhea,,,Lomotil
+sore throat,fever,,"Azithromycin, Paracetamol"
+nausea,,,Aciloc
+pain,,,Diclofenac
+stomach cramps,diarrhea,sore throat,"Azithromycin, Lomotil"
+sneezing,joint pain,,"Cetirizine, Diclofenac"
+stomach cramps,,,Lomotil
+sore throat,muscle pain,bacterial infection,"Azithromycin, Paracetamol"
+respiratory infection,stomach cramps,,"Azithromycin, Lomotil"
+skin rash,headache,heartburn,"Cetirizine, Aciloc, Paracetamol"
+joint pain,diarrhea,,"Lomotil, Diclofenac"
+respiratory infection,muscle pain,fever,"Azithromycin, Paracetamol"
+fever,,,Paracetamol
+nausea,inflammation,,"Aciloc, Diclofenac"
+stomach cramps,,,Lomotil
+bacterial infection,sneezing,,"Cetirizine, Azithromycin"
+respiratory infection,sneezing,stomach acid,"Cetirizine, Azithromycin, Aciloc"
+fungal infection,nausea,,"Cetirizine, Aciloc"
+sneezing,respiratory infection,itchy eyes,"Cetirizine, Azithromycin"
+fever,,,Paracetamol
+heartburn,,,Aciloc
+respiratory infection,,,Azithromycin
+fever,cough,,"Azithromycin, Paracetamol"
+runny nose,skin rash,,Cetirizine
+pain,,,Diclofenac
+inflammation,,,Diclofenac
+stomach acid,,,Aciloc
+cough,headache,,"Azithromycin, Paracetamol"
+sneezing,sore throat,bacterial infection,"Cetirizine, Azithromycin"
+sore throat,stomach acid,,"Azithromycin, Aciloc"
+nausea,inflammation,,"Aciloc, Diclofenac"
+sore throat,sneezing,,"Cetirizine, Azithromycin"
+sneezing,,,Cetirizine
+bacterial infection,,,Azithromycin
+bacterial infection,,,Azithromycin
+inflammation,,,Diclofenac
+sneezing,headache,nausea,"Cetirizine, Aciloc, Paracetamol"
+joint pain,stomach cramps,,"Lomotil, Diclofenac"
+runny nose,heartburn,,"Cetirizine, Aciloc"
+itchy eyes,,,Cetirizine
+fever,runny nose,,"Cetirizine, Paracetamol"
+sneezing,,,Cetirizine
+fungal infection,diarrhea,,"Cetirizine, Lomotil"
+stomach cramps,muscle pain,fever,"Lomotil, Paracetamol"
+joint pain,diarrhea,,"Lomotil, Diclofenac"
+pain,headache,,"Paracetamol, Diclofenac"
+sneezing,heartburn,,"Cetirizine, Aciloc"
+skin rash,,,Cetirizine
+nausea,sneezing,inflammation,"Cetirizine, Aciloc, Diclofenac"
+diarrhea,itchy eyes,,"Cetirizine, Lomotil"
+stomach acid,fever,,"Aciloc, Paracetamol"
+diarrhea,cough,,"Azithromycin, Lomotil"
+muscle pain,inflammation,respiratory infection,"Azithromycin, Paracetamol, Diclofenac"
+fever,,,Paracetamol
+diarrhea,sneezing,pain,"Cetirizine, Lomotil, Diclofenac"
+bacterial infection,stomach acid,respiratory infection,"Azithromycin, Aciloc"
+headache,joint pain,stomach acid,"Aciloc, Paracetamol, Diclofenac"
+sneezing,stomach acid,,"Cetirizine, Aciloc"
+muscle pain,itchy eyes,,"Cetirizine, Paracetamol"
+sore throat,,,Azithromycin
+muscle pain,itchy eyes,,"Cetirizine, Paracetamol"
+diarrhea,cough,,"Azithromycin, Lomotil"
+stomach cramps,bacterial infection,heartburn,"Azithromycin, Lomotil, Aciloc"
+fungal infection,headache,inflammation,"Cetirizine, Paracetamol, Diclofenac"
+sneezing,,,Cetirizine
+nausea,,,Aciloc
+fever,heartburn,,"Aciloc, Paracetamol"
+fever,,,Paracetamol
+respiratory infection,,,Azithromycin
+itchy eyes,sore throat,,"Cetirizine, Azithromycin"
+respiratory infection,headache,,"Azithromycin, Paracetamol"
+respiratory infection,headache,,"Azithromycin, Paracetamol"
+fungal infection,heartburn,skin rash,"Cetirizine, Aciloc"
+muscle pain,runny nose,,"Cetirizine, Paracetamol"
+cough,,,Azithromycin
+sore throat,muscle pain,fungal infection,"Cetirizine, Azithromycin, Paracetamol"
+nausea,sneezing,inflammation,"Cetirizine, Aciloc, Diclofenac"
+itchy eyes,,,Cetirizine
+inflammation,bacterial infection,cough,"Azithromycin, Diclofenac"
+headache,,,Paracetamol
+bacterial infection,fever,,"Azithromycin, Paracetamol"
+muscle pain,fungal infection,sneezing,"Cetirizine, Paracetamol"
+muscle pain,inflammation,,"Paracetamol, Diclofenac"
+stomach acid,runny nose,,"Cetirizine, Aciloc"
+fungal infection,nausea,,"Cetirizine, Aciloc"
+sneezing,,,Cetirizine
+itchy eyes,nausea,,"Cetirizine, Aciloc"
+joint pain,fever,skin rash,"Cetirizine, Paracetamol, Diclofenac"
+fever,cough,joint pain,"Azithromycin, Paracetamol, Diclofenac"
+nausea,inflammation,fever,"Aciloc, Paracetamol, Diclofenac"
+fever,heartburn,,"Aciloc, Paracetamol"
+sore throat,headache,,"Azithromycin, Paracetamol"
+stomach acid,,,Aciloc
+headache,itchy eyes,nausea,"Cetirizine, Aciloc, Paracetamol"
+respiratory infection,joint pain,,"Azithromycin, Diclofenac"
+runny nose,fever,sneezing,"Cetirizine, Paracetamol"
+nausea,headache,fungal infection,"Cetirizine, Aciloc, Paracetamol"
+muscle pain,,,Paracetamol
+itchy eyes,,,Cetirizine
+sore throat,,,Azithromycin
+headache,nausea,fungal infection,"Cetirizine, Aciloc, Paracetamol"
+itchy eyes,,,Cetirizine
+stomach cramps,muscle pain,skin rash,"Cetirizine, Lomotil, Paracetamol"
+nausea,runny nose,respiratory infection,"Cetirizine, Aciloc, Azithromycin"
+joint pain,fever,,"Paracetamol, Diclofenac"
+runny nose,,,Cetirizine
+fungal infection,,,Cetirizine
+inflammation,joint pain,muscle pain,"Paracetamol, Diclofenac"
+itchy eyes,,,Cetirizine
+cough,runny nose,fever,"Cetirizine, Azithromycin, Paracetamol"
+cough,muscle pain,nausea,"Azithromycin, Paracetamol, Aciloc"
+diarrhea,,,Lomotil
+pain,heartburn,,"Aciloc, Diclofenac"
+itchy eyes,respiratory infection,fever,"Cetirizine, Azithromycin, Paracetamol"
+headache,,,Paracetamol
+muscle pain,,,Paracetamol
+joint pain,sneezing,fungal infection,"Cetirizine, Diclofenac"
+cough,diarrhea,,"Azithromycin, Lomotil"
+sore throat,joint pain,,"Azithromycin, Diclofenac"
+fever,,,Paracetamol
+nausea,diarrhea,,"Aciloc, Lomotil"
+pain,diarrhea,,"Lomotil, Diclofenac"
+muscle pain,stomach cramps,,"Lomotil, Paracetamol"
+stomach acid,,,Aciloc
+heartburn,,,Aciloc
+pain,,,Diclofenac
+respiratory infection,nausea,,"Azithromycin, Aciloc"
+nausea,skin rash,,"Cetirizine, Aciloc"
+cough,nausea,fever,"Azithromycin, Aciloc, Paracetamol"
+nausea,itchy eyes,,"Cetirizine, Aciloc"
+fungal infection,,,Cetirizine
+runny nose,itchy eyes,bacterial infection,"Cetirizine, Azithromycin"
+nausea,,,Aciloc
+fever,,,Paracetamol
+inflammation,headache,,"Paracetamol, Diclofenac"
+nausea,sore throat,,"Azithromycin, Aciloc"
+nausea,cough,inflammation,"Azithromycin, Aciloc, Diclofenac"
+diarrhea,muscle pain,,"Lomotil, Paracetamol"
+muscle pain,pain,,"Paracetamol, Diclofenac"
+fungal infection,itchy eyes,,Cetirizine
+itchy eyes,heartburn,,"Cetirizine, Aciloc"
+sore throat,,,Azithromycin
+inflammation,itchy eyes,skin rash,"Cetirizine, Diclofenac"
+stomach cramps,runny nose,,"Cetirizine, Lomotil"
+sneezing,,,Cetirizine
+muscle pain,respiratory infection,,"Azithromycin, Paracetamol"
+joint pain,,,Diclofenac
+muscle pain,,,Paracetamol
+sneezing,,,Cetirizine
+heartburn,bacterial infection,itchy eyes,"Azithromycin, Aciloc, Cetirizine"
+sore throat,,,Azithromycin
+bacterial infection,,,Azithromycin
+cough,,,Azithromycin
+bacterial infection,pain,inflammation,"Azithromycin, Diclofenac"
+inflammation,,,Diclofenac
+fever,pain,,"Paracetamol, Diclofenac"
+fever,sneezing,,"Cetirizine, Paracetamol"
+heartburn,inflammation,,"Aciloc, Diclofenac"
+stomach cramps,skin rash,,"Cetirizine, Lomotil"
+stomach cramps,,,Lomotil
+headache,skin rash,fever,"Cetirizine, Paracetamol"
+heartburn,respiratory infection,bacterial infection,"Azithromycin, Aciloc"
+respiratory infection,stomach cramps,runny nose,"Cetirizine, Azithromycin, Lomotil"
+stomach acid,fungal infection,,"Cetirizine, Aciloc"
+muscle pain,fever,runny nose,"Cetirizine, Paracetamol"
+headache,respiratory infection,,"Azithromycin, Paracetamol"
+runny nose,fever,headache,"Cetirizine, Paracetamol"
+respiratory infection,inflammation,,"Azithromycin, Diclofenac"
+respiratory infection,,,Azithromycin
+bacterial infection,,,Azithromycin
+sore throat,stomach acid,,"Azithromycin, Aciloc"
+fever,,,Paracetamol
+joint pain,respiratory infection,,"Azithromycin, Diclofenac"
+sore throat,,,Azithromycin
+inflammation,bacterial infection,fungal infection,"Cetirizine, Azithromycin, Diclofenac"
+stomach cramps,inflammation,,"Lomotil, Diclofenac"
+sneezing,sore throat,,"Cetirizine, Azithromycin"
+fever,headache,joint pain,"Paracetamol, Diclofenac"
+stomach cramps,,,Lomotil
+runny nose,,,Cetirizine
+heartburn,headache,,"Aciloc, Paracetamol"
+nausea,stomach cramps,,"Aciloc, Lomotil"
+stomach cramps,headache,inflammation,"Lomotil, Paracetamol, Diclofenac"
+cough,headache,,"Azithromycin, Paracetamol"
+itchy eyes,bacterial infection,diarrhea,"Cetirizine, Azithromycin, Lomotil"
+sore throat,sneezing,,"Cetirizine, Azithromycin"
+inflammation,nausea,cough,"Azithromycin, Aciloc, Diclofenac"
+pain,skin rash,heartburn,"Cetirizine, Aciloc, Diclofenac"
+nausea,,,Aciloc
+diarrhea,inflammation,,"Lomotil, Diclofenac"
+cough,,,Azithromycin
+runny nose,,,Cetirizine
+skin rash,sneezing,,Cetirizine
+joint pain,cough,sneezing,"Cetirizine, Azithromycin, Diclofenac"
+diarrhea,headache,sneezing,"Cetirizine, Lomotil, Paracetamol"
+heartburn,sore throat,inflammation,"Azithromycin, Aciloc, Diclofenac"
+sore throat,,,Azithromycin
+joint pain,inflammation,stomach cramps,"Lomotil, Diclofenac"
+runny nose,,,Cetirizine
+itchy eyes,skin rash,cough,"Cetirizine, Azithromycin"
+respiratory infection,,,Azithromycin
+pain,cough,respiratory infection,"Azithromycin, Diclofenac"
+heartburn,muscle pain,,"Aciloc, Paracetamol"
+runny nose,,,Cetirizine
+stomach acid,itchy eyes,,"Cetirizine, Aciloc"
+headache,respiratory infection,skin rash,"Cetirizine, Azithromycin, Paracetamol"
+stomach cramps,stomach acid,,"Aciloc, Lomotil"
+runny nose,bacterial infection,sneezing,"Cetirizine, Azithromycin"
+fever,sneezing,fungal infection,"Cetirizine, Paracetamol"
+respiratory infection,inflammation,heartburn,"Azithromycin, Aciloc, Diclofenac"
+diarrhea,,,Lomotil
+fungal infection,stomach acid,,"Cetirizine, Aciloc"
+muscle pain,sneezing,cough,"Cetirizine, Azithromycin, Paracetamol"
+stomach acid,headache,,"Aciloc, Paracetamol"
+inflammation,,,Diclofenac
+itchy eyes,fever,,"Cetirizine, Paracetamol"
+fungal infection,,,Cetirizine
+skin rash,fungal infection,,Cetirizine
+heartburn,,,Aciloc
+nausea,stomach acid,skin rash,"Cetirizine, Aciloc"
+respiratory infection,,,Azithromycin
+pain,stomach acid,diarrhea,"Aciloc, Lomotil, Diclofenac"
+diarrhea,,,Lomotil
+runny nose,nausea,,"Cetirizine, Aciloc"
+skin rash,respiratory infection,joint pain,"Cetirizine, Azithromycin, Diclofenac"
+sneezing,headache,muscle pain,"Cetirizine, Paracetamol"
+fever,stomach acid,,"Aciloc, Paracetamol"
+headache,itchy eyes,respiratory infection,"Cetirizine, Azithromycin, Paracetamol"
+diarrhea,bacterial infection,cough,"Azithromycin, Lomotil"
+itchy eyes,skin rash,diarrhea,"Cetirizine, Lomotil"
+itchy eyes,diarrhea,,"Cetirizine, Lomotil"
+itchy eyes,sore throat,fever,"Cetirizine, Azithromycin, Paracetamol"
+respiratory infection,headache,heartburn,"Azithromycin, Paracetamol, Aciloc"
+muscle pain,fungal infection,itchy eyes,"Cetirizine, Paracetamol"
+heartburn,bacterial infection,,"Azithromycin, Aciloc"
+bacterial infection,,,Azithromycin
+stomach cramps,fungal infection,respiratory infection,"Cetirizine, Azithromycin, Lomotil"
+fungal infection,joint pain,diarrhea,"Cetirizine, Lomotil, Diclofenac"
+fungal infection,headache,,"Cetirizine, Paracetamol"
+fever,sneezing,,"Cetirizine, Paracetamol"
+itchy eyes,fever,,"Cetirizine, Paracetamol"
+fever,itchy eyes,diarrhea,"Cetirizine, Lomotil, Paracetamol"
+bacterial infection,cough,,Azithromycin
+stomach cramps,sore throat,nausea,"Azithromycin, Lomotil, Aciloc"
+sore throat,,,Azithromycin
+fever,,,Paracetamol
+cough,pain,headache,"Azithromycin, Paracetamol, Diclofenac"
+stomach cramps,,,Lomotil
+sore throat,diarrhea,bacterial infection,"Azithromycin, Lomotil"
+fever,pain,,"Paracetamol, Diclofenac"
+sneezing,fungal infection,pain,"Cetirizine, Diclofenac"
+inflammation,itchy eyes,diarrhea,"Cetirizine, Lomotil, Diclofenac"
+inflammation,stomach cramps,,"Lomotil, Diclofenac"
+fever,inflammation,,"Paracetamol, Diclofenac"
+respiratory infection,,,Azithromycin
+headache,,,Paracetamol
+stomach cramps,joint pain,,"Lomotil, Diclofenac"
+itchy eyes,joint pain,,"Cetirizine, Diclofenac"
+stomach cramps,,,Lomotil
+muscle pain,itchy eyes,,"Cetirizine, Paracetamol"
+fever,,,Paracetamol
+joint pain,,,Diclofenac
+skin rash,heartburn,headache,"Cetirizine, Aciloc, Paracetamol"
+muscle pain,pain,inflammation,"Paracetamol, Diclofenac"
+itchy eyes,sneezing,,Cetirizine
+diarrhea,skin rash,,"Cetirizine, Lomotil"
+inflammation,,,Diclofenac
+diarrhea,muscle pain,,"Lomotil, Paracetamol"
+respiratory infection,,,Azithromycin
+inflammation,itchy eyes,stomach acid,"Cetirizine, Aciloc, Diclofenac"
+sore throat,stomach acid,,"Azithromycin, Aciloc"
+stomach acid,sneezing,,"Cetirizine, Aciloc"
+pain,skin rash,sore throat,"Cetirizine, Azithromycin, Diclofenac"
+cough,headache,,"Azithromycin, Paracetamol"
+inflammation,pain,,Diclofenac
+cough,fungal infection,,"Cetirizine, Azithromycin"
+pain,diarrhea,sneezing,"Cetirizine, Lomotil, Diclofenac"
+joint pain,muscle pain,,"Paracetamol, Diclofenac"
+muscle pain,nausea,,"Aciloc, Paracetamol"
+pain,,,Diclofenac
+itchy eyes,headache,,"Cetirizine, Paracetamol"
+sneezing,nausea,skin rash,"Cetirizine, Aciloc"
+bacterial infection,,,Azithromycin
+cough,fever,headache,"Azithromycin, Paracetamol"
+skin rash,,,Cetirizine
+nausea,inflammation,,"Aciloc, Diclofenac"
+bacterial infection,,,Azithromycin
+headache,inflammation,muscle pain,"Paracetamol, Diclofenac"
+bacterial infection,stomach acid,,"Azithromycin, Aciloc"
+stomach cramps,headache,respiratory infection,"Azithromycin, Lomotil, Paracetamol"
+fever,cough,inflammation,"Azithromycin, Paracetamol, Diclofenac"
+joint pain,,,Diclofenac
+sore throat,fever,muscle pain,"Azithromycin, Paracetamol"
+cough,,,Azithromycin
+muscle pain,itchy eyes,pain,"Cetirizine, Paracetamol, Diclofenac"
+inflammation,,,Diclofenac
+bacterial infection,,,Azithromycin
+headache,fungal infection,,"Cetirizine, Paracetamol"
+muscle pain,diarrhea,,"Lomotil, Paracetamol"
+skin rash,sore throat,,"Cetirizine, Azithromycin"
+runny nose,sore throat,nausea,"Cetirizine, Azithromycin, Aciloc"
+respiratory infection,,,Azithromycin
+bacterial infection,headache,,"Azithromycin, Paracetamol"
+joint pain,diarrhea,,"Lomotil, Diclofenac"
+bacterial infection,joint pain,,"Azithromycin, Diclofenac"
+headache,sneezing,,"Cetirizine, Paracetamol"
+joint pain,,,Diclofenac
+itchy eyes,runny nose,skin rash,Cetirizine
+nausea,itchy eyes,,"Cetirizine, Aciloc"
+skin rash,fever,,"Cetirizine, Paracetamol"
+cough,itchy eyes,muscle pain,"Cetirizine, Azithromycin, Paracetamol"
+itchy eyes,cough,stomach cramps,"Cetirizine, Azithromycin, Lomotil"
+muscle pain,joint pain,stomach acid,"Aciloc, Paracetamol, Diclofenac"
+fungal infection,pain,itchy eyes,"Cetirizine, Diclofenac"
+respiratory infection,,,Azithromycin
+pain,nausea,bacterial infection,"Azithromycin, Aciloc, Diclofenac"
+runny nose,heartburn,,"Cetirizine, Aciloc"
+bacterial infection,muscle pain,runny nose,"Cetirizine, Azithromycin, Paracetamol"
+inflammation,,,Diclofenac
+diarrhea,pain,,"Lomotil, Diclofenac"
+fever,stomach cramps,,"Lomotil, Paracetamol"
+fever,,,Paracetamol
+sore throat,,,Azithromycin
+heartburn,joint pain,,"Aciloc, Diclofenac"
+diarrhea,skin rash,stomach cramps,"Cetirizine, Lomotil"
+bacterial infection,,,Azithromycin
+inflammation,fever,,"Paracetamol, Diclofenac"
+nausea,sneezing,,"Cetirizine, Aciloc"
+diarrhea,muscle pain,,"Lomotil, Paracetamol"
+diarrhea,cough,,"Azithromycin, Lomotil"
+bacterial infection,headache,,"Azithromycin, Paracetamol"
+fever,sore throat,pain,"Azithromycin, Paracetamol, Diclofenac"
+joint pain,stomach acid,,"Aciloc, Diclofenac"
+skin rash,fungal infection,cough,"Cetirizine, Azithromycin"
+sore throat,sneezing,bacterial infection,"Cetirizine, Azithromycin"
+fungal infection,heartburn,,"Cetirizine, Aciloc"
+headache,,,Paracetamol
+pain,skin rash,,"Cetirizine, Diclofenac"
+pain,heartburn,,"Aciloc, Diclofenac"
+muscle pain,sneezing,bacterial infection,"Cetirizine, Azithromycin, Paracetamol"
+headache,diarrhea,,"Lomotil, Paracetamol"
+respiratory infection,,,Azithromycin
+stomach cramps,,,Lomotil
+headache,bacterial infection,nausea,"Azithromycin, Paracetamol, Aciloc"
+cough,respiratory infection,joint pain,"Azithromycin, Diclofenac"
+muscle pain,sore throat,bacterial infection,"Azithromycin, Paracetamol"
+itchy eyes,pain,runny nose,"Cetirizine, Diclofenac"
+pain,nausea,fever,"Aciloc, Paracetamol, Diclofenac"
+pain,inflammation,itchy eyes,"Cetirizine, Diclofenac"
+sore throat,skin rash,runny nose,"Cetirizine, Azithromycin"
+skin rash,runny nose,bacterial infection,"Cetirizine, Azithromycin"
+sneezing,cough,,"Cetirizine, Azithromycin"
+sneezing,joint pain,bacterial infection,"Cetirizine, Azithromycin, Diclofenac"
+runny nose,fever,,"Cetirizine, Paracetamol"
+joint pain,,,Diclofenac
+diarrhea,fungal infection,,"Cetirizine, Lomotil"
+cough,,,Azithromycin
+itchy eyes,nausea,,"Cetirizine, Aciloc"
+sore throat,bacterial infection,diarrhea,"Azithromycin, Lomotil"
+sneezing,runny nose,,Cetirizine
+diarrhea,,,Lomotil
+inflammation,joint pain,muscle pain,"Paracetamol, Diclofenac"
+inflammation,,,Diclofenac
+pain,runny nose,respiratory infection,"Cetirizine, Azithromycin, Diclofenac"
+diarrhea,,,Lomotil
+joint pain,fever,stomach acid,"Aciloc, Paracetamol, Diclofenac"
+fever,muscle pain,skin rash,"Cetirizine, Paracetamol"
+inflammation,sneezing,,"Cetirizine, Diclofenac"
+bacterial infection,cough,pain,"Azithromycin, Diclofenac"
+stomach cramps,headache,sore throat,"Azithromycin, Lomotil, Paracetamol"
+heartburn,bacterial infection,pain,"Azithromycin, Aciloc, Diclofenac"
+pain,sneezing,,"Cetirizine, Diclofenac"
+skin rash,headache,,"Cetirizine, Paracetamol"
+bacterial infection,,,Azithromycin
+diarrhea,muscle pain,,"Lomotil, Paracetamol"
+diarrhea,,,Lomotil
+respiratory infection,,,Azithromycin
+muscle pain,heartburn,bacterial infection,"Azithromycin, Aciloc, Paracetamol"
+muscle pain,respiratory infection,,"Azithromycin, Paracetamol"
+respiratory infection,fungal infection,,"Cetirizine, Azithromycin"
+muscle pain,,,Paracetamol
+headache,,,Paracetamol
+stomach acid,,,Aciloc
+itchy eyes,muscle pain,,"Cetirizine, Paracetamol"
+headache,cough,,"Azithromycin, Paracetamol"
+itchy eyes,sore throat,,"Cetirizine, Azithromycin"
+itchy eyes,pain,,"Cetirizine, Diclofenac"
+stomach acid,itchy eyes,,"Cetirizine, Aciloc"
+runny nose,bacterial infection,inflammation,"Cetirizine, Azithromycin, Diclofenac"
+nausea,respiratory infection,skin rash,"Azithromycin, Aciloc, Cetirizine"
+pain,inflammation,,Diclofenac
+sore throat,pain,,"Azithromycin, Diclofenac"
+stomach cramps,,,Lomotil
+respiratory infection,,,Azithromycin
+stomach cramps,sneezing,respiratory infection,"Cetirizine, Azithromycin, Lomotil"
+muscle pain,runny nose,cough,"Cetirizine, Azithromycin, Paracetamol"
+nausea,cough,runny nose,"Azithromycin, Aciloc, Cetirizine"
+muscle pain,,,Paracetamol
+nausea,,,Aciloc
+pain,nausea,,"Aciloc, Diclofenac"
+inflammation,bacterial infection,,"Azithromycin, Diclofenac"
+runny nose,,,Cetirizine
+bacterial infection,stomach acid,,"Azithromycin, Aciloc"
+skin rash,pain,,"Cetirizine, Diclofenac"
+sore throat,,,Azithromycin
+nausea,,,Aciloc
+stomach acid,,,Aciloc
+pain,stomach acid,,"Aciloc, Diclofenac"
+heartburn,,,Aciloc
+skin rash,cough,,"Cetirizine, Azithromycin"
+diarrhea,joint pain,,"Lomotil, Diclofenac"
+respiratory infection,,,Azithromycin
+stomach acid,,,Aciloc
+headache,heartburn,runny nose,"Cetirizine, Aciloc, Paracetamol"
+skin rash,pain,cough,"Cetirizine, Azithromycin, Diclofenac"
+joint pain,,,Diclofenac
+bacterial infection,,,Azithromycin
+sore throat,nausea,diarrhea,"Azithromycin, Lomotil, Aciloc"
+heartburn,,,Aciloc
+sore throat,joint pain,,"Azithromycin, Diclofenac"
+sore throat,pain,,"Azithromycin, Diclofenac"
+sneezing,bacterial infection,diarrhea,"Cetirizine, Azithromycin, Lomotil"
+pain,sore throat,,"Azithromycin, Diclofenac"
+cough,fever,,"Azithromycin, Paracetamol"
+skin rash,heartburn,stomach acid,"Cetirizine, Aciloc"
+skin rash,inflammation,,"Cetirizine, Diclofenac"
+respiratory infection,,,Azithromycin
+skin rash,joint pain,,"Cetirizine, Diclofenac"
+headache,stomach cramps,,"Lomotil, Paracetamol"
+diarrhea,inflammation,,"Lomotil, Diclofenac"
+respiratory infection,fungal infection,muscle pain,"Cetirizine, Azithromycin, Paracetamol"
+heartburn,diarrhea,,"Aciloc, Lomotil"
+cough,skin rash,sneezing,"Cetirizine, Azithromycin"
+sore throat,fungal infection,joint pain,"Cetirizine, Azithromycin, Diclofenac"
+heartburn,skin rash,muscle pain,"Cetirizine, Aciloc, Paracetamol"
+itchy eyes,,,Cetirizine
+fever,itchy eyes,muscle pain,"Cetirizine, Paracetamol"
+runny nose,,,Cetirizine
+sore throat,headache,joint pain,"Azithromycin, Paracetamol, Diclofenac"
+respiratory infection,sneezing,muscle pain,"Cetirizine, Azithromycin, Paracetamol"
+fungal infection,cough,,"Cetirizine, Azithromycin"
+stomach acid,,,Aciloc
+headache,,,Paracetamol
+headache,,,Paracetamol
+heartburn,,,Aciloc
+joint pain,,,Diclofenac
+diarrhea,,,Lomotil
+sore throat,diarrhea,,"Azithromycin, Lomotil"
+pain,,,Diclofenac
+sneezing,fungal infection,,Cetirizine
+muscle pain,respiratory infection,stomach acid,"Azithromycin, Paracetamol, Aciloc"
+joint pain,,,Diclofenac
+fungal infection,fever,inflammation,"Cetirizine, Paracetamol, Diclofenac"
+headache,fungal infection,cough,"Cetirizine, Azithromycin, Paracetamol"
+skin rash,itchy eyes,,Cetirizine
+muscle pain,sneezing,inflammation,"Cetirizine, Paracetamol, Diclofenac"
+headache,muscle pain,fever,Paracetamol
+runny nose,stomach cramps,nausea,"Cetirizine, Aciloc, Lomotil"
+sneezing,pain,nausea,"Cetirizine, Aciloc, Diclofenac"
+itchy eyes,runny nose,,Cetirizine
+skin rash,,,Cetirizine
+fever,,,Paracetamol
+joint pain,inflammation,,Diclofenac
+sneezing,respiratory infection,,"Cetirizine, Azithromycin"
+fungal infection,,,Cetirizine
+heartburn,,,Aciloc
+respiratory infection,itchy eyes,,"Cetirizine, Azithromycin"
+itchy eyes,sneezing,nausea,"Cetirizine, Aciloc"
+pain,stomach acid,fungal infection,"Cetirizine, Aciloc, Diclofenac"
+respiratory infection,cough,stomach acid,"Azithromycin, Aciloc"
+nausea,sore throat,,"Azithromycin, Aciloc"
+headache,muscle pain,fever,Paracetamol
+headache,,,Paracetamol
+stomach cramps,stomach acid,,"Aciloc, Lomotil"
+headache,heartburn,inflammation,"Aciloc, Paracetamol, Diclofenac"
+nausea,,,Aciloc
+cough,skin rash,,"Cetirizine, Azithromycin"
+sore throat,diarrhea,,"Azithromycin, Lomotil"
+diarrhea,stomach acid,fungal infection,"Cetirizine, Aciloc, Lomotil"
+diarrhea,joint pain,,"Lomotil, Diclofenac"
+inflammation,headache,runny nose,"Cetirizine, Paracetamol, Diclofenac"
+heartburn,,,Aciloc
+pain,fungal infection,,"Cetirizine, Diclofenac"
+stomach cramps,respiratory infection,,"Azithromycin, Lomotil"
+skin rash,stomach acid,itchy eyes,"Cetirizine, Aciloc"
+skin rash,sore throat,,"Cetirizine, Azithromycin"
+stomach cramps,skin rash,,"Cetirizine, Lomotil"
+diarrhea,stomach cramps,,Lomotil
+pain,,,Diclofenac
+sore throat,,,Azithromycin
+bacterial infection,stomach acid,,"Azithromycin, Aciloc"
+inflammation,,,Diclofenac
+pain,bacterial infection,,"Azithromycin, Diclofenac"
+fungal infection,joint pain,skin rash,"Cetirizine, Diclofenac"
+nausea,joint pain,,"Aciloc, Diclofenac"
+respiratory infection,joint pain,,"Azithromycin, Diclofenac"
+cough,heartburn,stomach cramps,"Azithromycin, Lomotil, Aciloc"
+nausea,diarrhea,,"Aciloc, Lomotil"
+bacterial infection,fungal infection,cough,"Cetirizine, Azithromycin"
+runny nose,nausea,,"Cetirizine, Aciloc"
+nausea,,,Aciloc
+pain,,,Diclofenac
+joint pain,,,Diclofenac
+pain,nausea,,"Aciloc, Diclofenac"
+respiratory infection,runny nose,,"Cetirizine, Azithromycin"
+bacterial infection,,,Azithromycin
+inflammation,,,Diclofenac
+stomach acid,runny nose,bacterial infection,"Cetirizine, Aciloc, Azithromycin"
+headache,sore throat,,"Azithromycin, Paracetamol"
+itchy eyes,fever,,"Cetirizine, Paracetamol"
+headache,joint pain,,"Paracetamol, Diclofenac"
+stomach acid,,,Aciloc
+joint pain,fungal infection,fever,"Cetirizine, Paracetamol, Diclofenac"
+stomach cramps,stomach acid,,"Aciloc, Lomotil"
+nausea,,,Aciloc
+heartburn,bacterial infection,pain,"Azithromycin, Aciloc, Diclofenac"
+diarrhea,,,Lomotil
+bacterial infection,,,Azithromycin
+skin rash,heartburn,,"Cetirizine, Aciloc"
+skin rash,,,Cetirizine
+inflammation,respiratory infection,headache,"Azithromycin, Paracetamol, Diclofenac"
+stomach cramps,,,Lomotil
+headache,skin rash,,"Cetirizine, Paracetamol"
+sneezing,pain,respiratory infection,"Cetirizine, Azithromycin, Diclofenac"
+joint pain,diarrhea,sore throat,"Azithromycin, Lomotil, Diclofenac"
+fever,sneezing,,"Cetirizine, Paracetamol"
+skin rash,inflammation,,"Cetirizine, Diclofenac"
+joint pain,,,Diclofenac
+stomach cramps,sore throat,stomach acid,"Azithromycin, Lomotil, Aciloc"
+pain,fungal infection,muscle pain,"Cetirizine, Paracetamol, Diclofenac"
+stomach acid,sneezing,inflammation,"Cetirizine, Aciloc, Diclofenac"
+bacterial infection,inflammation,,"Azithromycin, Diclofenac"
+joint pain,,,Diclofenac
+stomach cramps,,,Lomotil
+cough,,,Azithromycin
+respiratory infection,fungal infection,,"Cetirizine, Azithromycin"
+cough,fever,pain,"Azithromycin, Paracetamol, Diclofenac"
+itchy eyes,,,Cetirizine
+pain,stomach cramps,,"Lomotil, Diclofenac"
+runny nose,joint pain,muscle pain,"Cetirizine, Paracetamol, Diclofenac"
+joint pain,,,Diclofenac
+stomach acid,pain,,"Aciloc, Diclofenac"
+bacterial infection,stomach cramps,headache,"Azithromycin, Lomotil, Paracetamol"
+fever,muscle pain,cough,"Azithromycin, Paracetamol"
+joint pain,stomach cramps,,"Lomotil, Diclofenac"
+stomach cramps,cough,,"Azithromycin, Lomotil"
+nausea,,,Aciloc
+runny nose,,,Cetirizine
+runny nose,cough,skin rash,"Cetirizine, Azithromycin"
+muscle pain,diarrhea,fungal infection,"Cetirizine, Lomotil, Paracetamol"
+inflammation,nausea,muscle pain,"Aciloc, Paracetamol, Diclofenac"
+stomach cramps,pain,,"Lomotil, Diclofenac"
+fungal infection,pain,,"Cetirizine, Diclofenac"
+fungal infection,sneezing,headache,"Cetirizine, Paracetamol"
+bacterial infection,stomach acid,,"Azithromycin, Aciloc"
+skin rash,,,Cetirizine
+skin rash,,,Cetirizine
+heartburn,,,Aciloc
+respiratory infection,diarrhea,,"Azithromycin, Lomotil"
+diarrhea,,,Lomotil
+runny nose,itchy eyes,heartburn,"Cetirizine, Aciloc"
+skin rash,,,Cetirizine
+stomach acid,muscle pain,,"Aciloc, Paracetamol"
+stomach acid,,,Aciloc
+runny nose,sore throat,,"Cetirizine, Azithromycin"
+cough,,,Azithromycin
+sneezing,inflammation,stomach cramps,"Cetirizine, Lomotil, Diclofenac"
+pain,cough,respiratory infection,"Azithromycin, Diclofenac"
+heartburn,respiratory infection,,"Azithromycin, Aciloc"
+sneezing,,,Cetirizine
+diarrhea,skin rash,fever,"Cetirizine, Lomotil, Paracetamol"
+sore throat,respiratory infection,,Azithromycin
+heartburn,nausea,,Aciloc
+headache,,,Paracetamol
+nausea,,,Aciloc
+diarrhea,muscle pain,fungal infection,"Cetirizine, Lomotil, Paracetamol"
+inflammation,joint pain,stomach acid,"Aciloc, Diclofenac"
+fever,stomach cramps,,"Lomotil, Paracetamol"
+fungal infection,skin rash,respiratory infection,"Cetirizine, Azithromycin"
+fever,nausea,,"Aciloc, Paracetamol"
+fever,runny nose,,"Cetirizine, Paracetamol"
+skin rash,cough,,"Cetirizine, Azithromycin"
+runny nose,,,Cetirizine
+itchy eyes,,,Cetirizine
+stomach cramps,runny nose,,"Cetirizine, Lomotil"
+inflammation,diarrhea,cough,"Azithromycin, Lomotil, Diclofenac"
+inflammation,bacterial infection,stomach acid,"Azithromycin, Aciloc, Diclofenac"
+diarrhea,respiratory infection,,"Azithromycin, Lomotil"
+itchy eyes,pain,fever,"Cetirizine, Paracetamol, Diclofenac"
+runny nose,diarrhea,,"Cetirizine, Lomotil"
+heartburn,,,Aciloc
+stomach cramps,bacterial infection,skin rash,"Cetirizine, Azithromycin, Lomotil"
+fungal infection,,,Cetirizine
+cough,pain,fever,"Azithromycin, Paracetamol, Diclofenac"
+fever,sore throat,bacterial infection,"Azithromycin, Paracetamol"
+runny nose,respiratory infection,,"Cetirizine, Azithromycin"
+sore throat,,,Azithromycin
+runny nose,joint pain,sore throat,"Cetirizine, Azithromycin, Diclofenac"
+headache,cough,respiratory infection,"Azithromycin, Paracetamol"
+sore throat,runny nose,,"Cetirizine, Azithromycin"
+inflammation,cough,fever,"Azithromycin, Paracetamol, Diclofenac"
+fever,diarrhea,,"Lomotil, Paracetamol"
+nausea,fungal infection,runny nose,"Cetirizine, Aciloc"
+joint pain,pain,,Diclofenac
+skin rash,bacterial infection,,"Cetirizine, Azithromycin"
+diarrhea,sneezing,runny nose,"Cetirizine, Lomotil"
+headache,stomach acid,,"Aciloc, Paracetamol"
+itchy eyes,skin rash,,Cetirizine
+cough,,,Azithromycin
+muscle pain,,,Paracetamol
+headache,respiratory infection,sore throat,"Azithromycin, Paracetamol"
+joint pain,,,Diclofenac
+runny nose,stomach cramps,,"Cetirizine, Lomotil"
+sneezing,stomach cramps,,"Cetirizine, Lomotil"
+joint pain,itchy eyes,respiratory infection,"Cetirizine, Azithromycin, Diclofenac"
+runny nose,fever,,"Cetirizine, Paracetamol"
+skin rash,joint pain,,"Cetirizine, Diclofenac"
+headache,inflammation,,"Paracetamol, Diclofenac"
+skin rash,headache,,"Cetirizine, Paracetamol"
+runny nose,pain,diarrhea,"Cetirizine, Lomotil, Diclofenac"
+stomach cramps,nausea,diarrhea,"Aciloc, Lomotil"
+inflammation,muscle pain,cough,"Azithromycin, Paracetamol, Diclofenac"
+stomach acid,muscle pain,sneezing,"Cetirizine, Aciloc, Paracetamol"
+joint pain,headache,skin rash,"Cetirizine, Paracetamol, Diclofenac"
+pain,nausea,stomach acid,"Aciloc, Diclofenac"
+runny nose,sneezing,sore throat,"Cetirizine, Azithromycin"
+headache,stomach cramps,,"Lomotil, Paracetamol"
+stomach cramps,pain,skin rash,"Cetirizine, Lomotil, Diclofenac"
+respiratory infection,,,Azithromycin
+fever,skin rash,itchy eyes,"Cetirizine, Paracetamol"
+sore throat,,,Azithromycin
+bacterial infection,muscle pain,stomach cramps,"Azithromycin, Lomotil, Paracetamol"
+cough,heartburn,,"Azithromycin, Aciloc"
+runny nose,fever,,"Cetirizine, Paracetamol"
+sneezing,,,Cetirizine
+joint pain,,,Diclofenac
+stomach acid,joint pain,itchy eyes,"Cetirizine, Aciloc, Diclofenac"
+inflammation,joint pain,skin rash,"Cetirizine, Diclofenac"
+bacterial infection,,,Azithromycin
+inflammation,,,Diclofenac
+nausea,stomach cramps,,"Aciloc, Lomotil"
+sneezing,bacterial infection,,"Cetirizine, Azithromycin"
+itchy eyes,heartburn,,"Cetirizine, Aciloc"
+sore throat,,,Azithromycin
+nausea,inflammation,itchy eyes,"Cetirizine, Aciloc, Diclofenac"
+runny nose,,,Cetirizine
+itchy eyes,,,Cetirizine
+itchy eyes,diarrhea,,"Cetirizine, Lomotil"
+muscle pain,inflammation,,"Paracetamol, Diclofenac"
+sneezing,,,Cetirizine
+respiratory infection,heartburn,,"Azithromycin, Aciloc"
+diarrhea,,,Lomotil
+itchy eyes,stomach acid,sore throat,"Cetirizine, Aciloc, Azithromycin"
+respiratory infection,,,Azithromycin
+sneezing,,,Cetirizine
+itchy eyes,muscle pain,,"Cetirizine, Paracetamol"
+fungal infection,bacterial infection,,"Cetirizine, Azithromycin"
+pain,,,Diclofenac
+inflammation,diarrhea,,"Lomotil, Diclofenac"
+fever,,,Paracetamol
+headache,respiratory infection,muscle pain,"Azithromycin, Paracetamol"
+stomach cramps,bacterial infection,,"Azithromycin, Lomotil"
+muscle pain,sneezing,fever,"Cetirizine, Paracetamol"
+skin rash,,,Cetirizine
+fungal infection,headache,,"Cetirizine, Paracetamol"
+muscle pain,,,Paracetamol
+heartburn,pain,,"Aciloc, Diclofenac"
+runny nose,bacterial infection,,"Cetirizine, Azithromycin"
+sore throat,,,Azithromycin
+sneezing,runny nose,nausea,"Cetirizine, Aciloc"
+skin rash,respiratory infection,,"Cetirizine, Azithromycin"
+sore throat,bacterial infection,,Azithromycin
+fever,muscle pain,,Paracetamol
+stomach cramps,,,Lomotil
+sneezing,,,Cetirizine
+respiratory infection,,,Azithromycin
+fungal infection,,,Cetirizine
+inflammation,,,Diclofenac
+joint pain,pain,,Diclofenac
+inflammation,,,Diclofenac
+fever,,,Paracetamol
+bacterial infection,,,Azithromycin
+pain,nausea,,"Aciloc, Diclofenac"
+stomach cramps,sneezing,,"Cetirizine, Lomotil"
+muscle pain,skin rash,,"Cetirizine, Paracetamol"
+fever,,,Paracetamol
+skin rash,headache,,"Cetirizine, Paracetamol"
+diarrhea,nausea,cough,"Azithromycin, Aciloc, Lomotil"
+heartburn,stomach cramps,,"Aciloc, Lomotil"
+sneezing,nausea,fever,"Cetirizine, Aciloc, Paracetamol"
+respiratory infection,stomach acid,sneezing,"Cetirizine, Azithromycin, Aciloc"
+diarrhea,,,Lomotil
+runny nose,fever,,"Cetirizine, Paracetamol"
+stomach acid,nausea,fever,"Aciloc, Paracetamol"
+joint pain,itchy eyes,diarrhea,"Cetirizine, Lomotil, Diclofenac"
+muscle pain,,,Paracetamol
+stomach acid,runny nose,joint pain,"Cetirizine, Aciloc, Diclofenac"
+fungal infection,inflammation,,"Cetirizine, Diclofenac"
+cough,nausea,muscle pain,"Azithromycin, Aciloc, Paracetamol"
+inflammation,sneezing,cough,"Cetirizine, Azithromycin, Diclofenac"
+diarrhea,bacterial infection,respiratory infection,"Azithromycin, Lomotil"
+stomach acid,bacterial infection,,"Azithromycin, Aciloc"
+inflammation,,,Diclofenac
+skin rash,,,Cetirizine
+stomach acid,joint pain,inflammation,"Aciloc, Diclofenac"
+itchy eyes,sore throat,fever,"Cetirizine, Azithromycin, Paracetamol"
+diarrhea,,,Lomotil
+heartburn,,,Aciloc
+sore throat,nausea,heartburn,"Azithromycin, Aciloc"
+stomach acid,,,Aciloc
+heartburn,,,Aciloc
+itchy eyes,bacterial infection,,"Cetirizine, Azithromycin"
+joint pain,bacterial infection,diarrhea,"Azithromycin, Lomotil, Diclofenac"
+respiratory infection,,,Azithromycin
+sneezing,,,Cetirizine
+respiratory infection,fever,,"Azithromycin, Paracetamol"
+nausea,,,Aciloc
+fever,bacterial infection,itchy eyes,"Cetirizine, Azithromycin, Paracetamol"
+diarrhea,,,Lomotil
+cough,,,Azithromycin
+fungal infection,,,Cetirizine
+sore throat,,,Azithromycin
+heartburn,cough,stomach cramps,"Azithromycin, Aciloc, Lomotil"
+fungal infection,,,Cetirizine
+headache,bacterial infection,,"Azithromycin, Paracetamol"
+headache,skin rash,cough,"Cetirizine, Azithromycin, Paracetamol"
+cough,,,Azithromycin
+itchy eyes,,,Cetirizine
+joint pain,diarrhea,,"Lomotil, Diclofenac"
+stomach acid,skin rash,itchy eyes,"Cetirizine, Aciloc"
+fungal infection,pain,heartburn,"Cetirizine, Aciloc, Diclofenac"
+stomach cramps,cough,pain,"Azithromycin, Lomotil, Diclofenac"
+runny nose,stomach cramps,,"Cetirizine, Lomotil"
+respiratory infection,sneezing,,"Cetirizine, Azithromycin"
+sore throat,diarrhea,,"Azithromycin, Lomotil"
+stomach acid,,,Aciloc
+muscle pain,sore throat,,"Azithromycin, Paracetamol"
+fungal infection,inflammation,skin rash,"Cetirizine, Diclofenac"
+pain,bacterial infection,nausea,"Azithromycin, Aciloc, Diclofenac"
+stomach acid,,,Aciloc
+fungal infection,,,Cetirizine
+nausea,,,Aciloc
+skin rash,sore throat,,"Cetirizine, Azithromycin"
+diarrhea,,,Lomotil
+pain,joint pain,,Diclofenac
+muscle pain,,,Paracetamol
+bacterial infection,diarrhea,skin rash,"Cetirizine, Azithromycin, Lomotil"
+skin rash,,,Cetirizine
+muscle pain,,,Paracetamol
+itchy eyes,fungal infection,,Cetirizine
+cough,,,Azithromycin
+skin rash,pain,,"Cetirizine, Diclofenac"
+diarrhea,,,Lomotil
+bacterial infection,itchy eyes,fever,"Cetirizine, Azithromycin, Paracetamol"
+pain,joint pain,,Diclofenac
+muscle pain,headache,,Paracetamol
+respiratory infection,,,Azithromycin
+runny nose,skin rash,,Cetirizine
+fever,sneezing,stomach cramps,"Cetirizine, Lomotil, Paracetamol"
+skin rash,diarrhea,,"Cetirizine, Lomotil"
+stomach acid,,,Aciloc
+stomach acid,stomach cramps,,"Aciloc, Lomotil"
+fungal infection,inflammation,,"Cetirizine, Diclofenac"
+muscle pain,joint pain,,"Paracetamol, Diclofenac"
+nausea,,,Aciloc
+skin rash,,,Cetirizine
+headache,,,Paracetamol
+sore throat,,,Azithromycin
+muscle pain,joint pain,,"Paracetamol, Diclofenac"
+muscle pain,,,Paracetamol
+itchy eyes,fungal infection,headache,"Cetirizine, Paracetamol"
+fever,,,Paracetamol
+sneezing,itchy eyes,,Cetirizine
+sneezing,,,Cetirizine
+stomach cramps,,,Lomotil
+headache,,,Paracetamol
+respiratory infection,runny nose,,"Cetirizine, Azithromycin"
+nausea,,,Aciloc
+stomach acid,respiratory infection,,"Azithromycin, Aciloc"
+muscle pain,fungal infection,heartburn,"Cetirizine, Aciloc, Paracetamol"
+stomach cramps,,,Lomotil
+headache,,,Paracetamol
+muscle pain,inflammation,sneezing,"Cetirizine, Paracetamol, Diclofenac"
+diarrhea,respiratory infection,stomach cramps,"Azithromycin, Lomotil"
+sneezing,diarrhea,fever,"Cetirizine, Lomotil, Paracetamol"
+fungal infection,,,Cetirizine
+sore throat,fungal infection,,"Cetirizine, Azithromycin"
+stomach acid,fever,,"Aciloc, Paracetamol"
+pain,fever,sore throat,"Azithromycin, Paracetamol, Diclofenac"
+stomach cramps,,,Lomotil
+muscle pain,cough,,"Azithromycin, Paracetamol"
+respiratory infection,muscle pain,,"Azithromycin, Paracetamol"
+sneezing,,,Cetirizine
+stomach acid,,,Aciloc
+heartburn,nausea,diarrhea,"Aciloc, Lomotil"
+fever,stomach acid,bacterial infection,"Azithromycin, Aciloc, Paracetamol"
+stomach acid,,,Aciloc
+nausea,,,Aciloc
+nausea,,,Aciloc
+nausea,,,Aciloc
+inflammation,nausea,skin rash,"Cetirizine, Aciloc, Diclofenac"
+itchy eyes,sore throat,nausea,"Cetirizine, Azithromycin, Aciloc"
+muscle pain,,,Paracetamol
+sneezing,stomach cramps,,"Cetirizine, Lomotil"
+respiratory infection,,,Azithromycin
+joint pain,fever,stomach cramps,"Lomotil, Paracetamol, Diclofenac"
+inflammation,cough,,"Azithromycin, Diclofenac"
+muscle pain,diarrhea,,"Lomotil, Paracetamol"
+sneezing,cough,headache,"Cetirizine, Azithromycin, Paracetamol"
+stomach acid,,,Aciloc
+muscle pain,itchy eyes,sore throat,"Cetirizine, Azithromycin, Paracetamol"
+headache,skin rash,,"Cetirizine, Paracetamol"
+heartburn,bacterial infection,itchy eyes,"Azithromycin, Aciloc, Cetirizine"
+fungal infection,runny nose,headache,"Cetirizine, Paracetamol"
+muscle pain,skin rash,nausea,"Cetirizine, Aciloc, Paracetamol"
+pain,,,Diclofenac
+heartburn,,,Aciloc
+fever,,,Paracetamol
+respiratory infection,itchy eyes,,"Cetirizine, Azithromycin"
+skin rash,bacterial infection,,"Cetirizine, Azithromycin"
+headache,stomach acid,joint pain,"Aciloc, Paracetamol, Diclofenac"
+fever,muscle pain,,Paracetamol
+runny nose,,,Cetirizine
+stomach acid,stomach cramps,,"Aciloc, Lomotil"
+itchy eyes,muscle pain,headache,"Cetirizine, Paracetamol"
+itchy eyes,diarrhea,,"Cetirizine, Lomotil"
+stomach acid,sneezing,fever,"Cetirizine, Aciloc, Paracetamol"
+stomach cramps,inflammation,,"Lomotil, Diclofenac"
+respiratory infection,stomach acid,,"Azithromycin, Aciloc"
+pain,,,Diclofenac
+sore throat,runny nose,,"Cetirizine, Azithromycin"
+diarrhea,,,Lomotil
+sneezing,,,Cetirizine
+stomach acid,,,Aciloc
+runny nose,nausea,,"Cetirizine, Aciloc"
+stomach cramps,fever,,"Lomotil, Paracetamol"
+sneezing,itchy eyes,,Cetirizine
+inflammation,headache,,"Paracetamol, Diclofenac"
+nausea,,,Aciloc
+muscle pain,sore throat,,"Azithromycin, Paracetamol"
+nausea,pain,inflammation,"Aciloc, Diclofenac"
+fungal infection,pain,itchy eyes,"Cetirizine, Diclofenac"
+fever,,,Paracetamol
+stomach cramps,sneezing,,"Cetirizine, Lomotil"
+itchy eyes,fungal infection,,Cetirizine
+joint pain,bacterial infection,pain,"Azithromycin, Diclofenac"
+runny nose,diarrhea,sore throat,"Cetirizine, Azithromycin, Lomotil"
+inflammation,,,Diclofenac
+diarrhea,pain,stomach cramps,"Lomotil, Diclofenac"
+skin rash,,,Cetirizine
+inflammation,fever,runny nose,"Cetirizine, Paracetamol, Diclofenac"
+cough,,,Azithromycin
+itchy eyes,,,Cetirizine
+skin rash,diarrhea,respiratory infection,"Cetirizine, Azithromycin, Lomotil"
+bacterial infection,pain,,"Azithromycin, Diclofenac"
+headache,muscle pain,,Paracetamol
+cough,,,Azithromycin
+respiratory infection,nausea,,"Azithromycin, Aciloc"
+skin rash,,,Cetirizine
+respiratory infection,pain,,"Azithromycin, Diclofenac"
+runny nose,muscle pain,,"Cetirizine, Paracetamol"
+muscle pain,joint pain,fever,"Paracetamol, Diclofenac"
+sneezing,headache,,"Cetirizine, Paracetamol"
+inflammation,headache,nausea,"Aciloc, Paracetamol, Diclofenac"
+fungal infection,diarrhea,,"Cetirizine, Lomotil"
+stomach acid,inflammation,runny nose,"Cetirizine, Aciloc, Diclofenac"
+muscle pain,itchy eyes,,"Cetirizine, Paracetamol"
+sore throat,,,Azithromycin
+stomach cramps,sneezing,,"Cetirizine, Lomotil"
+skin rash,,,Cetirizine
+muscle pain,nausea,,"Aciloc, Paracetamol"
+stomach acid,muscle pain,,"Aciloc, Paracetamol"
+headache,,,Paracetamol
+inflammation,diarrhea,,"Lomotil, Diclofenac"
+cough,,,Azithromycin
+stomach acid,bacterial infection,respiratory infection,"Azithromycin, Aciloc"
+inflammation,sore throat,,"Azithromycin, Diclofenac"
+cough,,,Azithromycin
+heartburn,,,Aciloc
+pain,runny nose,,"Cetirizine, Diclofenac"
+respiratory infection,inflammation,,"Azithromycin, Diclofenac"
+cough,fungal infection,stomach cramps,"Cetirizine, Azithromycin, Lomotil"
+pain,inflammation,skin rash,"Cetirizine, Diclofenac"
+muscle pain,bacterial infection,runny nose,"Cetirizine, Azithromycin, Paracetamol"
+fever,,,Paracetamol
+cough,fungal infection,,"Cetirizine, Azithromycin"
+respiratory infection,,,Azithromycin
+joint pain,stomach cramps,,"Lomotil, Diclofenac"
+inflammation,,,Diclofenac
+nausea,runny nose,respiratory infection,"Cetirizine, Aciloc, Azithromycin"
+headache,nausea,,"Aciloc, Paracetamol"
+stomach acid,itchy eyes,,"Cetirizine, Aciloc"
+pain,runny nose,headache,"Cetirizine, Paracetamol, Diclofenac"
+respiratory infection,pain,itchy eyes,"Cetirizine, Azithromycin, Diclofenac"
+stomach acid,skin rash,,"Cetirizine, Aciloc"
+skin rash,fungal infection,sneezing,Cetirizine
+bacterial infection,,,Azithromycin
+diarrhea,respiratory infection,,"Azithromycin, Lomotil"
+fever,,,Paracetamol
+inflammation,,,Diclofenac
+bacterial infection,stomach cramps,joint pain,"Azithromycin, Lomotil, Diclofenac"
+stomach cramps,,,Lomotil
+pain,fever,respiratory infection,"Azithromycin, Paracetamol, Diclofenac"
+diarrhea,pain,headache,"Paracetamol, Lomotil, Diclofenac"
+inflammation,joint pain,,Diclofenac
+skin rash,,,Cetirizine
+itchy eyes,skin rash,diarrhea,"Cetirizine, Lomotil"
+fever,heartburn,itchy eyes,"Cetirizine, Aciloc, Paracetamol"
+respiratory infection,joint pain,sore throat,"Azithromycin, Diclofenac"
+heartburn,bacterial infection,,"Azithromycin, Aciloc"
+respiratory infection,bacterial infection,,Azithromycin
+heartburn,pain,,"Aciloc, Diclofenac"
+respiratory infection,diarrhea,,"Azithromycin, Lomotil"
+joint pain,itchy eyes,,"Cetirizine, Diclofenac"
+fungal infection,skin rash,stomach acid,"Cetirizine, Aciloc"
+cough,nausea,,"Azithromycin, Aciloc"
+muscle pain,,,Paracetamol
+inflammation,cough,,"Azithromycin, Diclofenac"
+stomach cramps,headache,,"Lomotil, Paracetamol"
+sneezing,,,Cetirizine
+stomach cramps,nausea,stomach acid,"Aciloc, Lomotil"
+nausea,,,Aciloc
+muscle pain,inflammation,,"Paracetamol, Diclofenac"
+fungal infection,,,Cetirizine
+inflammation,sore throat,,"Azithromycin, Diclofenac"
+respiratory infection,,,Azithromycin
+nausea,skin rash,joint pain,"Cetirizine, Aciloc, Diclofenac"
+respiratory infection,,,Azithromycin
+sneezing,muscle pain,bacterial infection,"Cetirizine, Azithromycin, Paracetamol"
+fever,sneezing,,"Cetirizine, Paracetamol"
+fungal infection,diarrhea,bacterial infection,"Cetirizine, Azithromycin, Lomotil"
+respiratory infection,pain,cough,"Azithromycin, Diclofenac"
+respiratory infection,fungal infection,,"Cetirizine, Azithromycin"
+muscle pain,,,Paracetamol
+cough,,,Azithromycin
+inflammation,,,Diclofenac
+skin rash,stomach cramps,joint pain,"Cetirizine, Lomotil, Diclofenac"
+fungal infection,,,Cetirizine
+joint pain,stomach cramps,runny nose,"Cetirizine, Lomotil, Diclofenac"
+respiratory infection,pain,bacterial infection,"Azithromycin, Diclofenac"
+fungal infection,,,Cetirizine
+respiratory infection,heartburn,bacterial infection,"Azithromycin, Aciloc"
+runny nose,,,Cetirizine
+sneezing,itchy eyes,diarrhea,"Cetirizine, Lomotil"
+headache,,,Paracetamol
+fungal infection,pain,,"Cetirizine, Diclofenac"
+itchy eyes,bacterial infection,,"Cetirizine, Azithromycin"
+muscle pain,sneezing,,"Cetirizine, Paracetamol"
+muscle pain,stomach cramps,,"Lomotil, Paracetamol"
+itchy eyes,joint pain,,"Cetirizine, Diclofenac"
+stomach cramps,,,Lomotil
+headache,diarrhea,,"Lomotil, Paracetamol"
+runny nose,fungal infection,nausea,"Cetirizine, Aciloc"
+cough,heartburn,diarrhea,"Azithromycin, Lomotil, Aciloc"
+bacterial infection,joint pain,,"Azithromycin, Diclofenac"
+pain,inflammation,,Diclofenac
+heartburn,,,Aciloc
+diarrhea,fungal infection,,"Cetirizine, Lomotil"
+stomach acid,sneezing,,"Cetirizine, Aciloc"
+joint pain,headache,,"Paracetamol, Diclofenac"
+skin rash,joint pain,muscle pain,"Cetirizine, Paracetamol, Diclofenac"
+fever,respiratory infection,stomach acid,"Azithromycin, Paracetamol, Aciloc"
+bacterial infection,runny nose,respiratory infection,"Cetirizine, Azithromycin"
+fever,,,Paracetamol
+nausea,joint pain,fungal infection,"Cetirizine, Aciloc, Diclofenac"
+nausea,itchy eyes,,"Cetirizine, Aciloc"
+muscle pain,bacterial infection,fever,"Azithromycin, Paracetamol"
+pain,heartburn,cough,"Azithromycin, Aciloc, Diclofenac"
+skin rash,runny nose,,Cetirizine
+stomach cramps,respiratory infection,heartburn,"Azithromycin, Lomotil, Aciloc"
+cough,inflammation,,"Azithromycin, Diclofenac"
+fungal infection,,,Cetirizine
+sore throat,runny nose,,"Cetirizine, Azithromycin"
+runny nose,,,Cetirizine
+sore throat,respiratory infection,muscle pain,"Azithromycin, Paracetamol"
+respiratory infection,fungal infection,,"Cetirizine, Azithromycin"
+nausea,,,Aciloc
+muscle pain,joint pain,skin rash,"Cetirizine, Paracetamol, Diclofenac"
+heartburn,,,Aciloc
+respiratory infection,,,Azithromycin
+joint pain,inflammation,sneezing,"Cetirizine, Diclofenac"
+nausea,heartburn,,Aciloc
+diarrhea,headache,,"Lomotil, Paracetamol"
+itchy eyes,nausea,,"Cetirizine, Aciloc"
+bacterial infection,pain,,"Azithromycin, Diclofenac"
+sore throat,inflammation,,"Azithromycin, Diclofenac"
+respiratory infection,stomach acid,pain,"Azithromycin, Aciloc, Diclofenac"
+runny nose,pain,itchy eyes,"Cetirizine, Diclofenac"
+fungal infection,itchy eyes,,Cetirizine
+sneezing,,,Cetirizine
+cough,runny nose,,"Cetirizine, Azithromycin"
+bacterial infection,joint pain,,"Azithromycin, Diclofenac"
+headache,,,Paracetamol
+itchy eyes,,,Cetirizine
+stomach acid,,,Aciloc
+itchy eyes,,,Cetirizine
+fever,sneezing,itchy eyes,"Cetirizine, Paracetamol"
+runny nose,cough,,"Cetirizine, Azithromycin"
+inflammation,heartburn,cough,"Azithromycin, Aciloc, Diclofenac"
+joint pain,,,Diclofenac
+runny nose,muscle pain,headache,"Cetirizine, Paracetamol"
+skin rash,sore throat,headache,"Cetirizine, Azithromycin, Paracetamol"
+fever,itchy eyes,fungal infection,"Cetirizine, Paracetamol"
+diarrhea,,,Lomotil
+sneezing,skin rash,,Cetirizine
+stomach cramps,,,Lomotil
+headache,joint pain,cough,"Azithromycin, Paracetamol, Diclofenac"
+bacterial infection,,,Azithromycin
+nausea,,,Aciloc
+skin rash,,,Cetirizine
+cough,diarrhea,,"Azithromycin, Lomotil"
+pain,,,Diclofenac
+stomach cramps,,,Lomotil
+fungal infection,,,Cetirizine
+stomach acid,,,Aciloc
+nausea,joint pain,muscle pain,"Aciloc, Paracetamol, Diclofenac"
+cough,heartburn,joint pain,"Azithromycin, Aciloc, Diclofenac"
+headache,stomach acid,,"Aciloc, Paracetamol"
+nausea,bacterial infection,,"Azithromycin, Aciloc"
+muscle pain,inflammation,,"Paracetamol, Diclofenac"
+sneezing,,,Cetirizine
+fungal infection,respiratory infection,,"Cetirizine, Azithromycin"
+diarrhea,sore throat,muscle pain,"Azithromycin, Lomotil, Paracetamol"
+runny nose,stomach acid,bacterial infection,"Cetirizine, Aciloc, Azithromycin"
+sore throat,diarrhea,,"Azithromycin, Lomotil"
+stomach cramps,headache,itchy eyes,"Cetirizine, Lomotil, Paracetamol"
+skin rash,nausea,,"Cetirizine, Aciloc"
+nausea,,,Aciloc
+skin rash,,,Cetirizine
+sneezing,respiratory infection,,"Cetirizine, Azithromycin"
+headache,muscle pain,,Paracetamol
+runny nose,,,Cetirizine
+heartburn,respiratory infection,itchy eyes,"Azithromycin, Aciloc, Cetirizine"
+skin rash,inflammation,,"Cetirizine, Diclofenac"
+fungal infection,,,Cetirizine
+inflammation,pain,bacterial infection,"Azithromycin, Diclofenac"
+heartburn,nausea,sore throat,"Azithromycin, Aciloc"
+skin rash,fever,,"Cetirizine, Paracetamol"
+stomach cramps,itchy eyes,,"Cetirizine, Lomotil"
+stomach acid,sneezing,cough,"Cetirizine, Aciloc, Azithromycin"
+sneezing,headache,,"Cetirizine, Paracetamol"
+stomach cramps,inflammation,nausea,"Aciloc, Lomotil, Diclofenac"
+stomach cramps,,,Lomotil
+respiratory infection,,,Azithromycin
+respiratory infection,headache,,"Azithromycin, Paracetamol"
+inflammation,nausea,,"Aciloc, Diclofenac"
+runny nose,,,Cetirizine
+muscle pain,,,Paracetamol
+runny nose,cough,skin rash,"Cetirizine, Azithromycin"
+respiratory infection,sore throat,headache,"Azithromycin, Paracetamol"
+runny nose,headache,stomach cramps,"Cetirizine, Lomotil, Paracetamol"
+nausea,,,Aciloc
+bacterial infection,joint pain,,"Azithromycin, Diclofenac"
+joint pain,fever,sneezing,"Cetirizine, Paracetamol, Diclofenac"
+inflammation,runny nose,,"Cetirizine, Diclofenac"
+respiratory infection,cough,,Azithromycin
+fever,,,Paracetamol
+skin rash,,,Cetirizine
+headache,,,Paracetamol
+nausea,,,Aciloc
+sore throat,fungal infection,,"Cetirizine, Azithromycin"
+diarrhea,,,Lomotil
+stomach cramps,stomach acid,nausea,"Aciloc, Lomotil"
+headache,fungal infection,fever,"Cetirizine, Paracetamol"
+sneezing,,,Cetirizine
+diarrhea,joint pain,headache,"Paracetamol, Lomotil, Diclofenac"
+cough,,,Azithromycin
+nausea,fever,itchy eyes,"Cetirizine, Aciloc, Paracetamol"
+headache,inflammation,fungal infection,"Cetirizine, Paracetamol, Diclofenac"
+fever,diarrhea,,"Lomotil, Paracetamol"
+runny nose,,,Cetirizine
+pain,respiratory infection,,"Azithromycin, Diclofenac"
+inflammation,heartburn,joint pain,"Aciloc, Diclofenac"
+pain,,,Diclofenac
+nausea,muscle pain,headache,"Aciloc, Paracetamol"
+runny nose,joint pain,,"Cetirizine, Diclofenac"
+diarrhea,heartburn,pain,"Aciloc, Lomotil, Diclofenac"
+fever,stomach cramps,pain,"Lomotil, Paracetamol, Diclofenac"
+joint pain,muscle pain,stomach cramps,"Lomotil, Paracetamol, Diclofenac"
+sore throat,,,Azithromycin
+joint pain,respiratory infection,,"Azithromycin, Diclofenac"
+itchy eyes,,,Cetirizine
+fever,respiratory infection,heartburn,"Azithromycin, Paracetamol, Aciloc"
+skin rash,pain,,"Cetirizine, Diclofenac"
+heartburn,,,Aciloc
+diarrhea,,,Lomotil
+stomach acid,,,Aciloc
+stomach acid,,,Aciloc
+sneezing,respiratory infection,,"Cetirizine, Azithromycin"
+fever,,,Paracetamol
+stomach acid,inflammation,stomach cramps,"Aciloc, Lomotil, Diclofenac"
+fever,,,Paracetamol
+inflammation,,,Diclofenac
+skin rash,pain,sore throat,"Cetirizine, Azithromycin, Diclofenac"
+stomach acid,nausea,muscle pain,"Aciloc, Paracetamol"
+headache,pain,stomach acid,"Aciloc, Paracetamol, Diclofenac"
+joint pain,,,Diclofenac
+sore throat,,,Azithromycin
+joint pain,fever,,"Paracetamol, Diclofenac"
+joint pain,,,Diclofenac
+nausea,,,Aciloc
+bacterial infection,,,Azithromycin
+nausea,runny nose,inflammation,"Cetirizine, Aciloc, Diclofenac"
+itchy eyes,fever,,"Cetirizine, Paracetamol"
+sneezing,,,Cetirizine
+skin rash,stomach acid,,"Cetirizine, Aciloc"
+pain,sore throat,joint pain,"Azithromycin, Diclofenac"
+runny nose,nausea,,"Cetirizine, Aciloc"
+inflammation,itchy eyes,headache,"Cetirizine, Paracetamol, Diclofenac"
+stomach acid,bacterial infection,,"Azithromycin, Aciloc"
+headache,cough,,"Azithromycin, Paracetamol"
+respiratory infection,inflammation,,"Azithromycin, Diclofenac"
+diarrhea,respiratory infection,itchy eyes,"Cetirizine, Azithromycin, Lomotil"
+heartburn,nausea,,Aciloc
+fungal infection,diarrhea,skin rash,"Cetirizine, Lomotil"
+nausea,,,Aciloc
+heartburn,pain,,"Aciloc, Diclofenac"
+stomach acid,,,Aciloc
+sneezing,,,Cetirizine
+sneezing,fungal infection,,Cetirizine
+nausea,,,Aciloc
+cough,,,Azithromycin
+runny nose,,,Cetirizine
+pain,diarrhea,,"Lomotil, Diclofenac"
+diarrhea,,,Lomotil
+cough,,,Azithromycin
+bacterial infection,,,Azithromycin
+fungal infection,itchy eyes,skin rash,Cetirizine
+bacterial infection,cough,muscle pain,"Azithromycin, Paracetamol"
+joint pain,diarrhea,,"Lomotil, Diclofenac"
+pain,respiratory infection,,"Azithromycin, Diclofenac"
+fever,nausea,,"Aciloc, Paracetamol"
+headache,skin rash,,"Cetirizine, Paracetamol"
+bacterial infection,,,Azithromycin
+cough,itchy eyes,pain,"Cetirizine, Azithromycin, Diclofenac"
+runny nose,heartburn,,"Cetirizine, Aciloc"
+pain,,,Diclofenac
+muscle pain,fungal infection,,"Cetirizine, Paracetamol"
+respiratory infection,fever,,"Azithromycin, Paracetamol"
+muscle pain,respiratory infection,fungal infection,"Cetirizine, Azithromycin, Paracetamol"
+fever,,,Paracetamol
+fever,skin rash,,"Cetirizine, Paracetamol"
+bacterial infection,pain,,"Azithromycin, Diclofenac"
+cough,respiratory infection,bacterial infection,Azithromycin
+nausea,stomach acid,headache,"Aciloc, Paracetamol"
+sore throat,,,Azithromycin
+sneezing,sore throat,,"Cetirizine, Azithromycin"
+fungal infection,,,Cetirizine
+fungal infection,joint pain,stomach cramps,"Cetirizine, Lomotil, Diclofenac"
+nausea,stomach acid,,Aciloc
+skin rash,cough,sneezing,"Cetirizine, Azithromycin"
+muscle pain,stomach cramps,runny nose,"Cetirizine, Lomotil, Paracetamol"
+itchy eyes,headache,,"Cetirizine, Paracetamol"
+bacterial infection,,,Azithromycin
+skin rash,itchy eyes,fever,"Cetirizine, Paracetamol"
+pain,,,Diclofenac
+muscle pain,,,Paracetamol
+pain,joint pain,,Diclofenac
+stomach acid,headache,stomach cramps,"Aciloc, Lomotil, Paracetamol"
+fever,diarrhea,inflammation,"Lomotil, Paracetamol, Diclofenac"
+fungal infection,stomach acid,,"Cetirizine, Aciloc"
+respiratory infection,fever,bacterial infection,"Azithromycin, Paracetamol"
+inflammation,nausea,bacterial infection,"Azithromycin, Aciloc, Diclofenac"
+sneezing,respiratory infection,diarrhea,"Cetirizine, Azithromycin, Lomotil"
+nausea,cough,,"Azithromycin, Aciloc"
+fungal infection,diarrhea,,"Cetirizine, Lomotil"
+diarrhea,muscle pain,heartburn,"Aciloc, Lomotil, Paracetamol"
+muscle pain,heartburn,bacterial infection,"Azithromycin, Aciloc, Paracetamol"
+headache,,,Paracetamol
+bacterial infection,,,Azithromycin
+runny nose,bacterial infection,,"Cetirizine, Azithromycin"
+pain,diarrhea,,"Lomotil, Diclofenac"
+runny nose,stomach acid,sneezing,"Cetirizine, Aciloc"
+heartburn,,,Aciloc
+runny nose,,,Cetirizine
+inflammation,joint pain,,Diclofenac
+respiratory infection,fever,cough,"Azithromycin, Paracetamol"
+pain,,,Diclofenac
+runny nose,stomach cramps,bacterial infection,"Cetirizine, Azithromycin, Lomotil"
+bacterial infection,fungal infection,,"Cetirizine, Azithromycin"
+stomach cramps,,,Lomotil
+fever,respiratory infection,,"Azithromycin, Paracetamol"
+fever,heartburn,,"Aciloc, Paracetamol"
+diarrhea,,,Lomotil
+sneezing,cough,,"Cetirizine, Azithromycin"
+sore throat,stomach cramps,stomach acid,"Azithromycin, Lomotil, Aciloc"
+joint pain,sneezing,,"Cetirizine, Diclofenac"
+stomach cramps,itchy eyes,,"Cetirizine, Lomotil"
+respiratory infection,nausea,runny nose,"Cetirizine, Azithromycin, Aciloc"
+fever,fungal infection,bacterial infection,"Cetirizine, Azithromycin, Paracetamol"
+fever,,,Paracetamol
+runny nose,sore throat,,"Cetirizine, Azithromycin"
+fever,fungal infection,,"Cetirizine, Paracetamol"
+bacterial infection,,,Azithromycin
+cough,respiratory infection,,Azithromycin
+inflammation,,,Diclofenac
+respiratory infection,fungal infection,,"Cetirizine, Azithromycin"
+muscle pain,,,Paracetamol
+inflammation,diarrhea,,"Lomotil, Diclofenac"
+pain,,,Diclofenac
+bacterial infection,heartburn,,"Azithromycin, Aciloc"
+itchy eyes,stomach acid,,"Cetirizine, Aciloc"
+stomach acid,headache,heartburn,"Aciloc, Paracetamol"
+bacterial infection,inflammation,,"Azithromycin, Diclofenac"
+skin rash,joint pain,stomach cramps,"Cetirizine, Lomotil, Diclofenac"
+stomach acid,,,Aciloc
+cough,stomach cramps,,"Azithromycin, Lomotil"
+bacterial infection,,,Azithromycin
+cough,diarrhea,,"Azithromycin, Lomotil"
+fungal infection,headache,,"Cetirizine, Paracetamol"
+runny nose,headache,joint pain,"Cetirizine, Paracetamol, Diclofenac"
+muscle pain,sneezing,,"Cetirizine, Paracetamol"
+sore throat,,,Azithromycin
+cough,respiratory infection,heartburn,"Azithromycin, Aciloc"
+sneezing,,,Cetirizine
+fungal infection,respiratory infection,bacterial infection,"Cetirizine, Azithromycin"
+headache,inflammation,diarrhea,"Lomotil, Paracetamol, Diclofenac"
+stomach acid,skin rash,joint pain,"Cetirizine, Aciloc, Diclofenac"
+runny nose,fever,,"Cetirizine, Paracetamol"
+inflammation,,,Diclofenac
+joint pain,,,Diclofenac
+joint pain,bacterial infection,,"Azithromycin, Diclofenac"
+pain,diarrhea,,"Lomotil, Diclofenac"
+respiratory infection,,,Azithromycin
+respiratory infection,,,Azithromycin
+diarrhea,stomach cramps,fungal infection,"Cetirizine, Lomotil"
+fungal infection,,,Cetirizine
+cough,muscle pain,,"Azithromycin, Paracetamol"
+heartburn,inflammation,diarrhea,"Aciloc, Lomotil, Diclofenac"
+runny nose,,,Cetirizine
+headache,runny nose,skin rash,"Cetirizine, Paracetamol"
+respiratory infection,,,Azithromycin
+runny nose,heartburn,,"Cetirizine, Aciloc"
+itchy eyes,,,Cetirizine
+inflammation,fever,,"Paracetamol, Diclofenac"
+diarrhea,,,Lomotil
+itchy eyes,muscle pain,,"Cetirizine, Paracetamol"
+nausea,joint pain,,"Aciloc, Diclofenac"
+itchy eyes,,,Cetirizine
+skin rash,stomach acid,,"Cetirizine, Aciloc"
+headache,cough,,"Azithromycin, Paracetamol"
+stomach cramps,,,Lomotil
+pain,sore throat,stomach cramps,"Azithromycin, Lomotil, Diclofenac"
+fever,diarrhea,,"Lomotil, Paracetamol"
+headache,,,Paracetamol
+inflammation,,,Diclofenac
+pain,cough,,"Azithromycin, Diclofenac"
+runny nose,,,Cetirizine
+muscle pain,stomach cramps,bacterial infection,"Azithromycin, Lomotil, Paracetamol"
+headache,diarrhea,,"Lomotil, Paracetamol"
+runny nose,,,Cetirizine
+cough,headache,stomach cramps,"Azithromycin, Lomotil, Paracetamol"
+skin rash,,,Cetirizine
+fungal infection,stomach acid,stomach cramps,"Cetirizine, Aciloc, Lomotil"
+stomach cramps,,,Lomotil
+skin rash,respiratory infection,runny nose,"Cetirizine, Azithromycin"
+joint pain,inflammation,,Diclofenac
+stomach cramps,fungal infection,muscle pain,"Cetirizine, Lomotil, Paracetamol"
+cough,stomach acid,,"Azithromycin, Aciloc"
+stomach cramps,,,Lomotil
+cough,bacterial infection,nausea,"Azithromycin, Aciloc"
+joint pain,runny nose,stomach cramps,"Cetirizine, Lomotil, Diclofenac"
+nausea,cough,diarrhea,"Azithromycin, Aciloc, Lomotil"
+nausea,fungal infection,,"Cetirizine, Aciloc"
+stomach cramps,,,Lomotil
+inflammation,,,Diclofenac
+heartburn,inflammation,nausea,"Aciloc, Diclofenac"
+bacterial infection,headache,stomach acid,"Azithromycin, Paracetamol, Aciloc"
+itchy eyes,diarrhea,,"Cetirizine, Lomotil"
+pain,cough,runny nose,"Cetirizine, Azithromycin, Diclofenac"
+itchy eyes,,,Cetirizine
+stomach cramps,,,Lomotil
+itchy eyes,cough,runny nose,"Cetirizine, Azithromycin"
+fever,heartburn,,"Aciloc, Paracetamol"
+pain,fever,heartburn,"Aciloc, Paracetamol, Diclofenac"
+fungal infection,,,Cetirizine
+sore throat,headache,skin rash,"Cetirizine, Azithromycin, Paracetamol"
+stomach acid,,,Aciloc
+runny nose,respiratory infection,,"Cetirizine, Azithromycin"
+stomach acid,joint pain,diarrhea,"Aciloc, Lomotil, Diclofenac"
+sneezing,sore throat,bacterial infection,"Cetirizine, Azithromycin"
+fungal infection,headache,,"Cetirizine, Paracetamol"
+fungal infection,stomach cramps,inflammation,"Cetirizine, Lomotil, Diclofenac"
+headache,,,Paracetamol
+joint pain,pain,stomach cramps,"Lomotil, Diclofenac"
+runny nose,,,Cetirizine
+diarrhea,sore throat,,"Azithromycin, Lomotil"
+sneezing,diarrhea,cough,"Cetirizine, Azithromycin, Lomotil"
+diarrhea,inflammation,,"Lomotil, Diclofenac"
+fever,,,Paracetamol
+muscle pain,,,Paracetamol
+fever,,,Paracetamol
+nausea,,,Aciloc
+cough,,,Azithromycin
+headache,,,Paracetamol
+heartburn,fungal infection,,"Cetirizine, Aciloc"
+muscle pain,sore throat,,"Azithromycin, Paracetamol"
+bacterial infection,stomach acid,fungal infection,"Cetirizine, Azithromycin, Aciloc"
+heartburn,stomach cramps,fever,"Aciloc, Lomotil, Paracetamol"
+respiratory infection,,,Azithromycin
+diarrhea,skin rash,bacterial infection,"Cetirizine, Azithromycin, Lomotil"
+bacterial infection,runny nose,diarrhea,"Cetirizine, Azithromycin, Lomotil"
+bacterial infection,itchy eyes,sore throat,"Cetirizine, Azithromycin"
+heartburn,runny nose,,"Cetirizine, Aciloc"
+sneezing,stomach acid,,"Cetirizine, Aciloc"
+stomach cramps,sneezing,cough,"Cetirizine, Azithromycin, Lomotil"
+itchy eyes,runny nose,respiratory infection,"Cetirizine, Azithromycin"
+respiratory infection,inflammation,diarrhea,"Azithromycin, Lomotil, Diclofenac"
+inflammation,muscle pain,sore throat,"Azithromycin, Paracetamol, Diclofenac"
+inflammation,,,Diclofenac
+sore throat,fungal infection,,"Cetirizine, Azithromycin"
+respiratory infection,,,Azithromycin
+diarrhea,itchy eyes,,"Cetirizine, Lomotil"
+stomach cramps,runny nose,,"Cetirizine, Lomotil"
+fungal infection,,,Cetirizine
+heartburn,,,Aciloc
+sneezing,bacterial infection,fungal infection,"Cetirizine, Azithromycin"
+muscle pain,,,Paracetamol
+fungal infection,sneezing,muscle pain,"Cetirizine, Paracetamol"
+cough,headache,,"Azithromycin, Paracetamol"
+muscle pain,,,Paracetamol
+headache,stomach acid,,"Aciloc, Paracetamol"
+sore throat,,,Azithromycin
+itchy eyes,stomach cramps,fungal infection,"Cetirizine, Lomotil"
+bacterial infection,headache,pain,"Azithromycin, Paracetamol, Diclofenac"
+cough,stomach cramps,,"Azithromycin, Lomotil"
+headache,,,Paracetamol
+inflammation,sore throat,,"Azithromycin, Diclofenac"
+joint pain,diarrhea,skin rash,"Cetirizine, Lomotil, Diclofenac"
+stomach acid,,,Aciloc
+muscle pain,cough,,"Azithromycin, Paracetamol"
+itchy eyes,runny nose,diarrhea,"Cetirizine, Lomotil"
+skin rash,,,Cetirizine
+sneezing,sore throat,joint pain,"Cetirizine, Azithromycin, Diclofenac"
+fever,,,Paracetamol
+inflammation,sore throat,skin rash,"Cetirizine, Azithromycin, Diclofenac"
+sore throat,respiratory infection,runny nose,"Cetirizine, Azithromycin"
+itchy eyes,,,Cetirizine
+cough,runny nose,,"Cetirizine, Azithromycin"
+pain,,,Diclofenac
+pain,itchy eyes,,"Cetirizine, Diclofenac"
+sore throat,,,Azithromycin
+stomach cramps,diarrhea,skin rash,"Cetirizine, Lomotil"
+bacterial infection,,,Azithromycin
+stomach acid,stomach cramps,itchy eyes,"Cetirizine, Aciloc, Lomotil"
+diarrhea,skin rash,,"Cetirizine, Lomotil"
+fungal infection,fever,itchy eyes,"Cetirizine, Paracetamol"
+cough,heartburn,,"Azithromycin, Aciloc"
+stomach cramps,,,Lomotil
+skin rash,inflammation,,"Cetirizine, Diclofenac"
+respiratory infection,headache,sneezing,"Cetirizine, Azithromycin, Paracetamol"
+inflammation,diarrhea,,"Lomotil, Diclofenac"
+nausea,stomach acid,diarrhea,"Aciloc, Lomotil"
+headache,cough,itchy eyes,"Cetirizine, Azithromycin, Paracetamol"
+diarrhea,sore throat,,"Azithromycin, Lomotil"
+bacterial infection,,,Azithromycin
+fungal infection,nausea,respiratory infection,"Cetirizine, Aciloc, Azithromycin"
+stomach cramps,headache,sore throat,"Azithromycin, Lomotil, Paracetamol"
+nausea,respiratory infection,pain,"Azithromycin, Aciloc, Diclofenac"
+sore throat,muscle pain,,"Azithromycin, Paracetamol"
+fever,sore throat,nausea,"Azithromycin, Paracetamol, Aciloc"
+diarrhea,sore throat,bacterial infection,"Azithromycin, Lomotil"
+itchy eyes,,,Cetirizine
+nausea,muscle pain,fungal infection,"Cetirizine, Aciloc, Paracetamol"
+nausea,,,Aciloc
+stomach acid,fever,headache,"Aciloc, Paracetamol"
+respiratory infection,stomach cramps,,"Azithromycin, Lomotil"
+cough,,,Azithromycin
+diarrhea,,,Lomotil
+heartburn,fever,,"Aciloc, Paracetamol"
+itchy eyes,respiratory infection,sore throat,"Cetirizine, Azithromycin"
+heartburn,,,Aciloc
+nausea,,,Aciloc
+pain,,,Diclofenac
+sneezing,,,Cetirizine
+stomach acid,skin rash,fever,"Cetirizine, Aciloc, Paracetamol"
+stomach acid,nausea,heartburn,Aciloc
+respiratory infection,muscle pain,,"Azithromycin, Paracetamol"
+sore throat,itchy eyes,runny nose,"Cetirizine, Azithromycin"
+pain,inflammation,stomach cramps,"Lomotil, Diclofenac"
+pain,stomach acid,,"Aciloc, Diclofenac"
+stomach cramps,itchy eyes,,"Cetirizine, Lomotil"
+stomach acid,skin rash,cough,"Cetirizine, Aciloc, Azithromycin"
+pain,sore throat,,"Azithromycin, Diclofenac"
+sore throat,,,Azithromycin
+diarrhea,skin rash,,"Cetirizine, Lomotil"
+heartburn,,,Aciloc
+joint pain,fungal infection,bacterial infection,"Cetirizine, Azithromycin, Diclofenac"
+runny nose,,,Cetirizine
+sore throat,heartburn,,"Azithromycin, Aciloc"
+cough,joint pain,,"Azithromycin, Diclofenac"
+fungal infection,heartburn,sneezing,"Cetirizine, Aciloc"
+cough,,,Azithromycin
+pain,runny nose,heartburn,"Cetirizine, Aciloc, Diclofenac"
+bacterial infection,,,Azithromycin
+stomach acid,skin rash,,"Cetirizine, Aciloc"
+pain,diarrhea,,"Lomotil, Diclofenac"
+sneezing,itchy eyes,cough,"Cetirizine, Azithromycin"
+stomach acid,,,Aciloc
+fungal infection,,,Cetirizine
+skin rash,muscle pain,,"Cetirizine, Paracetamol"
+stomach acid,runny nose,,"Cetirizine, Aciloc"
+sneezing,cough,,"Cetirizine, Azithromycin"
+fever,headache,,Paracetamol
+fever,cough,,"Azithromycin, Paracetamol"
+cough,nausea,heartburn,"Azithromycin, Aciloc"
+headache,skin rash,inflammation,"Cetirizine, Paracetamol, Diclofenac"
+pain,sore throat,,"Azithromycin, Diclofenac"
+stomach cramps,fever,,"Lomotil, Paracetamol"
+fever,skin rash,,"Cetirizine, Paracetamol"
+runny nose,,,Cetirizine
+skin rash,,,Cetirizine
+sore throat,bacterial infection,,Azithromycin
+respiratory infection,,,Azithromycin
+cough,fungal infection,,"Cetirizine, Azithromycin"
+bacterial infection,pain,stomach cramps,"Azithromycin, Lomotil, Diclofenac"
+nausea,,,Aciloc
+runny nose,fever,headache,"Cetirizine, Paracetamol"
+skin rash,pain,sore throat,"Cetirizine, Azithromycin, Diclofenac"
+stomach cramps,cough,,"Azithromycin, Lomotil"
+pain,fever,,"Paracetamol, Diclofenac"
+stomach acid,itchy eyes,sneezing,"Cetirizine, Aciloc"
+cough,,,Azithromycin
+muscle pain,diarrhea,sneezing,"Cetirizine, Lomotil, Paracetamol"
+inflammation,nausea,,"Aciloc, Diclofenac"
+headache,bacterial infection,sneezing,"Cetirizine, Azithromycin, Paracetamol"
+cough,,,Azithromycin
+stomach cramps,,,Lomotil
+muscle pain,heartburn,fever,"Aciloc, Paracetamol"
+pain,cough,,"Azithromycin, Diclofenac"
+runny nose,muscle pain,,"Cetirizine, Paracetamol"
+itchy eyes,stomach cramps,bacterial infection,"Cetirizine, Azithromycin, Lomotil"
+respiratory infection,,,Azithromycin
+runny nose,skin rash,,Cetirizine
+fungal infection,sneezing,bacterial infection,"Cetirizine, Azithromycin"
+joint pain,diarrhea,,"Lomotil, Diclofenac"
+respiratory infection,,,Azithromycin
+stomach cramps,,,Lomotil
+stomach cramps,fungal infection,diarrhea,"Cetirizine, Lomotil"
+fungal infection,fever,cough,"Cetirizine, Azithromycin, Paracetamol"
+pain,bacterial infection,,"Azithromycin, Diclofenac"
+fever,inflammation,skin rash,"Cetirizine, Paracetamol, Diclofenac"
+inflammation,,,Diclofenac
+diarrhea,stomach acid,,"Aciloc, Lomotil"
+respiratory infection,heartburn,headache,"Azithromycin, Aciloc, Paracetamol"
+diarrhea,stomach acid,,"Aciloc, Lomotil"
+runny nose,joint pain,,"Cetirizine, Diclofenac"
+headache,sore throat,,"Azithromycin, Paracetamol"
+joint pain,,,Diclofenac
+fever,,,Paracetamol
+cough,,,Azithromycin
+sore throat,skin rash,diarrhea,"Cetirizine, Azithromycin, Lomotil"
+pain,inflammation,fever,"Paracetamol, Diclofenac"
+bacterial infection,,,Azithromycin
+diarrhea,,,Lomotil
+bacterial infection,,,Azithromycin
+diarrhea,,,Lomotil
+sneezing,,,Cetirizine
+nausea,,,Aciloc
+inflammation,runny nose,itchy eyes,"Cetirizine, Diclofenac"
+muscle pain,,,Paracetamol
+itchy eyes,runny nose,,Cetirizine
+runny nose,inflammation,,"Cetirizine, Diclofenac"
+respiratory infection,skin rash,,"Cetirizine, Azithromycin"
+fungal infection,inflammation,,"Cetirizine, Diclofenac"
+inflammation,bacterial infection,diarrhea,"Azithromycin, Lomotil, Diclofenac"
+nausea,,,Aciloc
+muscle pain,,,Paracetamol
+bacterial infection,,,Azithromycin
+respiratory infection,joint pain,,"Azithromycin, Diclofenac"
+skin rash,bacterial infection,stomach acid,"Cetirizine, Azithromycin, Aciloc"
+pain,,,Diclofenac
+diarrhea,pain,fungal infection,"Cetirizine, Lomotil, Diclofenac"
+respiratory infection,itchy eyes,bacterial infection,"Cetirizine, Azithromycin"
+headache,muscle pain,,Paracetamol
+muscle pain,inflammation,,"Paracetamol, Diclofenac"
+joint pain,bacterial infection,,"Azithromycin, Diclofenac"
+inflammation,diarrhea,fever,"Paracetamol, Lomotil, Diclofenac"
+fungal infection,stomach acid,,"Cetirizine, Aciloc"
+fungal infection,muscle pain,,"Cetirizine, Paracetamol"
+cough,,,Azithromycin
+stomach acid,,,Aciloc
+joint pain,respiratory infection,sore throat,"Azithromycin, Diclofenac"
+nausea,,,Aciloc
+stomach acid,fungal infection,,"Cetirizine, Aciloc"
+respiratory infection,,,Azithromycin
+bacterial infection,,,Azithromycin
+runny nose,diarrhea,bacterial infection,"Cetirizine, Azithromycin, Lomotil"
+muscle pain,nausea,pain,"Aciloc, Paracetamol, Diclofenac"
+sore throat,sneezing,,"Cetirizine, Azithromycin"
+diarrhea,joint pain,sneezing,"Cetirizine, Lomotil, Diclofenac"
+itchy eyes,fever,,"Cetirizine, Paracetamol"
+joint pain,,,Diclofenac
+inflammation,cough,,"Azithromycin, Diclofenac"
+fungal infection,runny nose,cough,"Cetirizine, Azithromycin"
+sneezing,sore throat,headache,"Cetirizine, Azithromycin, Paracetamol"
+bacterial infection,headache,nausea,"Azithromycin, Paracetamol, Aciloc"
+joint pain,,,Diclofenac
+sore throat,,,Azithromycin
+fever,,,Paracetamol
+respiratory infection,runny nose,headache,"Cetirizine, Azithromycin, Paracetamol"
+sore throat,fungal infection,,"Cetirizine, Azithromycin"
+stomach cramps,heartburn,diarrhea,"Aciloc, Lomotil"
+nausea,,,Aciloc
+runny nose,fever,bacterial infection,"Cetirizine, Azithromycin, Paracetamol"
+sore throat,runny nose,inflammation,"Cetirizine, Azithromycin, Diclofenac"
+fungal infection,runny nose,sore throat,"Cetirizine, Azithromycin"
+muscle pain,fever,,Paracetamol
+fever,joint pain,,"Paracetamol, Diclofenac"
+sore throat,muscle pain,nausea,"Azithromycin, Paracetamol, Aciloc"
+diarrhea,sneezing,headache,"Cetirizine, Lomotil, Paracetamol"
+runny nose,,,Cetirizine
+respiratory infection,inflammation,,"Azithromycin, Diclofenac"
+pain,cough,inflammation,"Azithromycin, Diclofenac"
+skin rash,,,Cetirizine
+sneezing,,,Cetirizine
+cough,respiratory infection,pain,"Azithromycin, Diclofenac"
+joint pain,diarrhea,,"Lomotil, Diclofenac"
+stomach cramps,skin rash,,"Cetirizine, Lomotil"
+cough,bacterial infection,,Azithromycin
+respiratory infection,stomach acid,bacterial infection,"Azithromycin, Aciloc"
+respiratory infection,fungal infection,pain,"Cetirizine, Azithromycin, Diclofenac"
+inflammation,diarrhea,itchy eyes,"Cetirizine, Lomotil, Diclofenac"
+sneezing,,,Cetirizine
+runny nose,heartburn,sneezing,"Cetirizine, Aciloc"
+cough,nausea,stomach cramps,"Azithromycin, Lomotil, Aciloc"
+fungal infection,,,Cetirizine
+bacterial infection,sneezing,,"Cetirizine, Azithromycin"
+diarrhea,stomach acid,bacterial infection,"Azithromycin, Aciloc, Lomotil"
+pain,,,Diclofenac
+respiratory infection,,,Azithromycin
+fungal infection,sneezing,,Cetirizine
+headache,,,Paracetamol
+runny nose,fever,fungal infection,"Cetirizine, Paracetamol"
+pain,cough,nausea,"Azithromycin, Aciloc, Diclofenac"
+nausea,cough,stomach cramps,"Azithromycin, Aciloc, Lomotil"
+diarrhea,inflammation,stomach acid,"Aciloc, Lomotil, Diclofenac"
+sore throat,,,Azithromycin
+fever,,,Paracetamol
+runny nose,bacterial infection,stomach acid,"Cetirizine, Azithromycin, Aciloc"
+diarrhea,fever,,"Lomotil, Paracetamol"
+stomach cramps,,,Lomotil
+nausea,,,Aciloc
+headache,,,Paracetamol
+sneezing,runny nose,bacterial infection,"Cetirizine, Azithromycin"
+bacterial infection,,,Azithromycin
+runny nose,,,Cetirizine
+diarrhea,,,Lomotil
+heartburn,headache,,"Aciloc, Paracetamol"
+pain,nausea,,"Aciloc, Diclofenac"
+skin rash,headache,stomach cramps,"Cetirizine, Lomotil, Paracetamol"
+headache,heartburn,diarrhea,"Aciloc, Lomotil, Paracetamol"
+respiratory infection,bacterial infection,fungal infection,"Cetirizine, Azithromycin"
+respiratory infection,nausea,,"Azithromycin, Aciloc"
+diarrhea,sneezing,,"Cetirizine, Lomotil"
+itchy eyes,nausea,,"Cetirizine, Aciloc"
+nausea,joint pain,inflammation,"Aciloc, Diclofenac"
+diarrhea,stomach acid,,"Aciloc, Lomotil"
+sneezing,pain,fever,"Cetirizine, Paracetamol, Diclofenac"
+respiratory infection,,,Azithromycin
+nausea,muscle pain,,"Aciloc, Paracetamol"
+diarrhea,inflammation,,"Lomotil, Diclofenac"
+bacterial infection,fever,joint pain,"Azithromycin, Paracetamol, Diclofenac"
+fever,respiratory infection,pain,"Azithromycin, Paracetamol, Diclofenac"
+nausea,muscle pain,runny nose,"Cetirizine, Aciloc, Paracetamol"
+stomach acid,,,Aciloc
+muscle pain,runny nose,fungal infection,"Cetirizine, Paracetamol"
+runny nose,,,Cetirizine
+muscle pain,,,Paracetamol
+headache,cough,,"Azithromycin, Paracetamol"
+inflammation,respiratory infection,,"Azithromycin, Diclofenac"
+pain,sore throat,sneezing,"Cetirizine, Azithromycin, Diclofenac"
+itchy eyes,,,Cetirizine
+runny nose,fever,sneezing,"Cetirizine, Paracetamol"
+sore throat,,,Azithromycin
+runny nose,nausea,,"Cetirizine, Aciloc"
+fever,runny nose,bacterial infection,"Cetirizine, Azithromycin, Paracetamol"
+stomach cramps,,,Lomotil
+diarrhea,respiratory infection,,"Azithromycin, Lomotil"
+respiratory infection,runny nose,bacterial infection,"Cetirizine, Azithromycin"
+pain,,,Diclofenac
+itchy eyes,respiratory infection,diarrhea,"Cetirizine, Azithromycin, Lomotil"
+itchy eyes,runny nose,fungal infection,Cetirizine
+headache,runny nose,,"Cetirizine, Paracetamol"
+itchy eyes,,,Cetirizine
+fever,joint pain,skin rash,"Cetirizine, Paracetamol, Diclofenac"
+inflammation,sore throat,cough,"Azithromycin, Diclofenac"
+stomach acid,,,Aciloc
+heartburn,,,Aciloc
+inflammation,fungal infection,headache,"Cetirizine, Paracetamol, Diclofenac"
+inflammation,joint pain,pain,Diclofenac
+muscle pain,,,Paracetamol
+nausea,joint pain,headache,"Aciloc, Paracetamol, Diclofenac"
+fever,,,Paracetamol
+fever,sore throat,,"Azithromycin, Paracetamol"
+cough,stomach cramps,,"Azithromycin, Lomotil"
+fungal infection,runny nose,heartburn,"Cetirizine, Aciloc"
+fever,joint pain,headache,"Paracetamol, Diclofenac"
+muscle pain,,,Paracetamol
+runny nose,sneezing,nausea,"Cetirizine, Aciloc"
+heartburn,,,Aciloc
+joint pain,bacterial infection,respiratory infection,"Azithromycin, Diclofenac"
+runny nose,skin rash,sneezing,Cetirizine
+heartburn,,,Aciloc
+pain,muscle pain,joint pain,"Paracetamol, Diclofenac"
+headache,itchy eyes,,"Cetirizine, Paracetamol"
+runny nose,diarrhea,,"Cetirizine, Lomotil"
+runny nose,stomach cramps,heartburn,"Cetirizine, Aciloc, Lomotil"
+heartburn,,,Aciloc
+muscle pain,,,Paracetamol
+respiratory infection,inflammation,,"Azithromycin, Diclofenac"
+stomach cramps,,,Lomotil
+muscle pain,,,Paracetamol
+stomach acid,skin rash,pain,"Cetirizine, Aciloc, Diclofenac"
+skin rash,sneezing,,Cetirizine
+bacterial infection,,,Azithromycin
+runny nose,itchy eyes,,Cetirizine
+heartburn,sore throat,,"Azithromycin, Aciloc"
+bacterial infection,itchy eyes,,"Cetirizine, Azithromycin"
+sore throat,cough,fever,"Azithromycin, Paracetamol"
+runny nose,stomach cramps,,"Cetirizine, Lomotil"
+nausea,heartburn,,Aciloc
+fever,runny nose,,"Cetirizine, Paracetamol"
+bacterial infection,,,Azithromycin
+muscle pain,joint pain,,"Paracetamol, Diclofenac"
+joint pain,itchy eyes,,"Cetirizine, Diclofenac"
+stomach acid,fungal infection,,"Cetirizine, Aciloc"
+fungal infection,,,Cetirizine
+stomach acid,diarrhea,,"Aciloc, Lomotil"
+muscle pain,fungal infection,,"Cetirizine, Paracetamol"
+pain,stomach acid,,"Aciloc, Diclofenac"
+sneezing,diarrhea,headache,"Cetirizine, Lomotil, Paracetamol"
+nausea,heartburn,joint pain,"Aciloc, Diclofenac"
+bacterial infection,fungal infection,,"Cetirizine, Azithromycin"
+stomach acid,,,Aciloc
+stomach acid,cough,sore throat,"Azithromycin, Aciloc"
+pain,respiratory infection,bacterial infection,"Azithromycin, Diclofenac"
+headache,,,Paracetamol
+pain,joint pain,,Diclofenac
+bacterial infection,joint pain,respiratory infection,"Azithromycin, Diclofenac"
+sneezing,skin rash,,Cetirizine
+fever,joint pain,stomach cramps,"Lomotil, Paracetamol, Diclofenac"
+diarrhea,,,Lomotil
+inflammation,muscle pain,,"Paracetamol, Diclofenac"
+runny nose,,,Cetirizine
+sneezing,sore throat,,"Cetirizine, Azithromycin"
+joint pain,,,Diclofenac
+nausea,,,Aciloc
+fungal infection,,,Cetirizine
+cough,headache,heartburn,"Azithromycin, Paracetamol, Aciloc"
+cough,nausea,respiratory infection,"Azithromycin, Aciloc"
+itchy eyes,,,Cetirizine
+heartburn,,,Aciloc
+sore throat,stomach acid,,"Azithromycin, Aciloc"
+inflammation,,,Diclofenac
+fever,sore throat,bacterial infection,"Azithromycin, Paracetamol"
+fever,pain,,"Paracetamol, Diclofenac"
+itchy eyes,,,Cetirizine
+runny nose,pain,skin rash,"Cetirizine, Diclofenac"
+bacterial infection,runny nose,pain,"Cetirizine, Azithromycin, Diclofenac"
+itchy eyes,,,Cetirizine
+inflammation,sneezing,fever,"Cetirizine, Paracetamol, Diclofenac"
+stomach cramps,,,Lomotil
+muscle pain,nausea,respiratory infection,"Azithromycin, Aciloc, Paracetamol"
+stomach acid,,,Aciloc
+sore throat,,,Azithromycin
+heartburn,,,Aciloc
+runny nose,,,Cetirizine
+pain,itchy eyes,muscle pain,"Cetirizine, Paracetamol, Diclofenac"
+itchy eyes,heartburn,headache,"Cetirizine, Aciloc, Paracetamol"
+muscle pain,,,Paracetamol
+itchy eyes,stomach acid,stomach cramps,"Cetirizine, Aciloc, Lomotil"
+runny nose,,,Cetirizine
+pain,cough,,"Azithromycin, Diclofenac"
+muscle pain,skin rash,,"Cetirizine, Paracetamol"
+runny nose,,,Cetirizine
+itchy eyes,,,Cetirizine
+joint pain,stomach cramps,,"Lomotil, Diclofenac"
+bacterial infection,,,Azithromycin
+sore throat,fungal infection,skin rash,"Cetirizine, Azithromycin"
+respiratory infection,,,Azithromycin
+sneezing,itchy eyes,diarrhea,"Cetirizine, Lomotil"
+sneezing,,,Cetirizine
+inflammation,joint pain,,Diclofenac
+joint pain,,,Diclofenac
+fungal infection,joint pain,nausea,"Cetirizine, Aciloc, Diclofenac"
+muscle pain,,,Paracetamol
+pain,bacterial infection,diarrhea,"Azithromycin, Lomotil, Diclofenac"
+nausea,fever,heartburn,"Aciloc, Paracetamol"
+stomach acid,skin rash,,"Cetirizine, Aciloc"
+sore throat,diarrhea,inflammation,"Azithromycin, Lomotil, Diclofenac"
+cough,itchy eyes,pain,"Cetirizine, Azithromycin, Diclofenac"
+itchy eyes,headache,,"Cetirizine, Paracetamol"
+stomach cramps,,,Lomotil
+pain,diarrhea,,"Lomotil, Diclofenac"
+skin rash,heartburn,fungal infection,"Cetirizine, Aciloc"
+heartburn,itchy eyes,,"Cetirizine, Aciloc"
+stomach cramps,diarrhea,stomach acid,"Aciloc, Lomotil"
+sore throat,respiratory infection,runny nose,"Cetirizine, Azithromycin"
+sneezing,joint pain,,"Cetirizine, Diclofenac"
+sneezing,,,Cetirizine
+itchy eyes,,,Cetirizine
+diarrhea,,,Lomotil
+diarrhea,fungal infection,sneezing,"Cetirizine, Lomotil"
+itchy eyes,,,Cetirizine
+headache,stomach acid,,"Aciloc, Paracetamol"
+cough,skin rash,diarrhea,"Cetirizine, Azithromycin, Lomotil"
+heartburn,respiratory infection,muscle pain,"Azithromycin, Aciloc, Paracetamol"
+headache,sneezing,diarrhea,"Cetirizine, Lomotil, Paracetamol"
+respiratory infection,,,Azithromycin
+nausea,fever,stomach cramps,"Aciloc, Lomotil, Paracetamol"
+sneezing,itchy eyes,bacterial infection,"Cetirizine, Azithromycin"
+itchy eyes,,,Cetirizine
+headache,stomach cramps,pain,"Lomotil, Paracetamol, Diclofenac"
+nausea,,,Aciloc
+joint pain,,,Diclofenac
+diarrhea,,,Lomotil
+runny nose,joint pain,stomach acid,"Cetirizine, Aciloc, Diclofenac"
+stomach cramps,joint pain,,"Lomotil, Diclofenac"
+itchy eyes,respiratory infection,,"Cetirizine, Azithromycin"
+sneezing,pain,diarrhea,"Cetirizine, Lomotil, Diclofenac"
+headache,cough,,"Azithromycin, Paracetamol"
+runny nose,,,Cetirizine
+nausea,bacterial infection,,"Azithromycin, Aciloc"
+cough,fever,,"Azithromycin, Paracetamol"
+fever,diarrhea,stomach cramps,"Lomotil, Paracetamol"
+stomach cramps,stomach acid,skin rash,"Cetirizine, Aciloc, Lomotil"
+respiratory infection,muscle pain,stomach acid,"Azithromycin, Paracetamol, Aciloc"
+cough,,,Azithromycin
+sneezing,diarrhea,bacterial infection,"Cetirizine, Azithromycin, Lomotil"
+runny nose,joint pain,cough,"Cetirizine, Azithromycin, Diclofenac"
+itchy eyes,fever,fungal infection,"Cetirizine, Paracetamol"
+itchy eyes,stomach acid,,"Cetirizine, Aciloc"
+respiratory infection,stomach cramps,runny nose,"Cetirizine, Azithromycin, Lomotil"
+nausea,pain,runny nose,"Cetirizine, Aciloc, Diclofenac"
+stomach acid,heartburn,nausea,Aciloc
+nausea,,,Aciloc
+inflammation,nausea,runny nose,"Cetirizine, Aciloc, Diclofenac"
+fever,sneezing,,"Cetirizine, Paracetamol"
+sore throat,,,Azithromycin
+fungal infection,,,Cetirizine
+fungal infection,,,Cetirizine
+skin rash,,,Cetirizine
+stomach cramps,,,Lomotil
+bacterial infection,,,Azithromycin
+muscle pain,fungal infection,,"Cetirizine, Paracetamol"
+skin rash,,,Cetirizine
+heartburn,stomach cramps,,"Aciloc, Lomotil"
+itchy eyes,,,Cetirizine
+itchy eyes,,,Cetirizine
+diarrhea,pain,runny nose,"Cetirizine, Lomotil, Diclofenac"
+joint pain,muscle pain,,"Paracetamol, Diclofenac"
+cough,joint pain,,"Azithromycin, Diclofenac"
+muscle pain,,,Paracetamol
+fungal infection,runny nose,sore throat,"Cetirizine, Azithromycin"
+cough,bacterial infection,,Azithromycin
+stomach cramps,diarrhea,runny nose,"Cetirizine, Lomotil"
+runny nose,sneezing,,Cetirizine
+stomach cramps,,,Lomotil
+inflammation,headache,,"Paracetamol, Diclofenac"
+heartburn,joint pain,,"Aciloc, Diclofenac"
+fungal infection,diarrhea,,"Cetirizine, Lomotil"
+inflammation,joint pain,respiratory infection,"Azithromycin, Diclofenac"
+inflammation,,,Diclofenac
+skin rash,itchy eyes,pain,"Cetirizine, Diclofenac"
+stomach cramps,cough,respiratory infection,"Azithromycin, Lomotil"
+fever,,,Paracetamol
+respiratory infection,fever,,"Azithromycin, Paracetamol"
+itchy eyes,,,Cetirizine
+inflammation,,,Diclofenac
+muscle pain,fever,,Paracetamol
+muscle pain,sneezing,fever,"Cetirizine, Paracetamol"
+nausea,,,Aciloc
+stomach cramps,heartburn,,"Aciloc, Lomotil"
+headache,diarrhea,muscle pain,"Lomotil, Paracetamol"
+diarrhea,heartburn,,"Aciloc, Lomotil"
+diarrhea,,,Lomotil
+stomach acid,,,Aciloc
+cough,,,Azithromycin
+heartburn,,,Aciloc
+fever,respiratory infection,,"Azithromycin, Paracetamol"
+diarrhea,sore throat,fungal infection,"Cetirizine, Azithromycin, Lomotil"
+stomach cramps,itchy eyes,,"Cetirizine, Lomotil"
+muscle pain,,,Paracetamol
+itchy eyes,,,Cetirizine
+headache,inflammation,pain,"Paracetamol, Diclofenac"
+bacterial infection,itchy eyes,headache,"Cetirizine, Azithromycin, Paracetamol"
+runny nose,,,Cetirizine
+sneezing,,,Cetirizine
+stomach cramps,headache,,"Lomotil, Paracetamol"
+joint pain,runny nose,muscle pain,"Cetirizine, Paracetamol, Diclofenac"
+respiratory infection,,,Azithromycin
+respiratory infection,heartburn,,"Azithromycin, Aciloc"
+headache,,,Paracetamol
+nausea,stomach acid,,Aciloc
+stomach acid,diarrhea,,"Aciloc, Lomotil"
+stomach cramps,,,Lomotil
+respiratory infection,,,Azithromycin
+itchy eyes,cough,,"Cetirizine, Azithromycin"
+muscle pain,stomach cramps,sneezing,"Cetirizine, Lomotil, Paracetamol"
+bacterial infection,diarrhea,,"Azithromycin, Lomotil"
+inflammation,fever,,"Paracetamol, Diclofenac"
+diarrhea,heartburn,,"Aciloc, Lomotil"
+itchy eyes,joint pain,,"Cetirizine, Diclofenac"
+joint pain,stomach cramps,heartburn,"Aciloc, Lomotil, Diclofenac"
+heartburn,nausea,,Aciloc
+stomach cramps,sore throat,,"Azithromycin, Lomotil"
+heartburn,,,Aciloc
+inflammation,muscle pain,bacterial infection,"Azithromycin, Paracetamol, Diclofenac"
+pain,inflammation,itchy eyes,"Cetirizine, Diclofenac"
+inflammation,pain,itchy eyes,"Cetirizine, Diclofenac"
+inflammation,cough,skin rash,"Cetirizine, Azithromycin, Diclofenac"
+fever,inflammation,,"Paracetamol, Diclofenac"
+itchy eyes,fever,inflammation,"Cetirizine, Paracetamol, Diclofenac"
+cough,pain,inflammation,"Azithromycin, Diclofenac"
+pain,itchy eyes,,"Cetirizine, Diclofenac"
+diarrhea,,,Lomotil
+runny nose,,,Cetirizine
+joint pain,respiratory infection,,"Azithromycin, Diclofenac"
+stomach acid,,,Aciloc
+bacterial infection,stomach cramps,joint pain,"Azithromycin, Lomotil, Diclofenac"
+fungal infection,headache,inflammation,"Cetirizine, Paracetamol, Diclofenac"
+fungal infection,inflammation,diarrhea,"Cetirizine, Lomotil, Diclofenac"
+pain,nausea,stomach acid,"Aciloc, Diclofenac"
+muscle pain,heartburn,,"Aciloc, Paracetamol"
+stomach acid,,,Aciloc
+cough,runny nose,,"Cetirizine, Azithromycin"
+nausea,muscle pain,,"Aciloc, Paracetamol"
+itchy eyes,,,Cetirizine
+itchy eyes,,,Cetirizine
+bacterial infection,,,Azithromycin
+muscle pain,cough,runny nose,"Cetirizine, Azithromycin, Paracetamol"
+runny nose,stomach acid,,"Cetirizine, Aciloc"
+heartburn,sneezing,headache,"Cetirizine, Aciloc, Paracetamol"
+heartburn,sneezing,cough,"Cetirizine, Aciloc, Azithromycin"
+heartburn,,,Aciloc
+itchy eyes,cough,runny nose,"Cetirizine, Azithromycin"
+cough,diarrhea,,"Azithromycin, Lomotil"
+skin rash,,,Cetirizine
+sore throat,,,Azithromycin
+pain,fungal infection,respiratory infection,"Cetirizine, Azithromycin, Diclofenac"
+pain,diarrhea,,"Lomotil, Diclofenac"
+fever,fungal infection,,"Cetirizine, Paracetamol"
+itchy eyes,runny nose,muscle pain,"Cetirizine, Paracetamol"
+diarrhea,runny nose,nausea,"Cetirizine, Aciloc, Lomotil"
+skin rash,muscle pain,,"Cetirizine, Paracetamol"
+fever,joint pain,sore throat,"Azithromycin, Paracetamol, Diclofenac"
+heartburn,headache,,"Aciloc, Paracetamol"
+stomach cramps,skin rash,muscle pain,"Cetirizine, Lomotil, Paracetamol"
+respiratory infection,nausea,muscle pain,"Azithromycin, Aciloc, Paracetamol"
+headache,skin rash,,"Cetirizine, Paracetamol"
+stomach cramps,,,Lomotil
+joint pain,,,Diclofenac
+cough,sore throat,stomach cramps,"Azithromycin, Lomotil"
+bacterial infection,,,Azithromycin
+fever,respiratory infection,nausea,"Azithromycin, Paracetamol, Aciloc"
+sneezing,heartburn,fever,"Cetirizine, Aciloc, Paracetamol"
+diarrhea,stomach acid,,"Aciloc, Lomotil"
+headache,heartburn,muscle pain,"Aciloc, Paracetamol"
+inflammation,fungal infection,,"Cetirizine, Diclofenac"
+sore throat,,,Azithromycin
+headache,,,Paracetamol
+fungal infection,skin rash,,Cetirizine
+itchy eyes,,,Cetirizine
+sore throat,,,Azithromycin
+skin rash,inflammation,,"Cetirizine, Diclofenac"
+sore throat,diarrhea,stomach acid,"Azithromycin, Lomotil, Aciloc"
+bacterial infection,inflammation,,"Azithromycin, Diclofenac"
+respiratory infection,muscle pain,headache,"Azithromycin, Paracetamol"
+fungal infection,respiratory infection,pain,"Cetirizine, Azithromycin, Diclofenac"
+runny nose,sore throat,skin rash,"Cetirizine, Azithromycin"
+heartburn,,,Aciloc
+pain,nausea,,"Aciloc, Diclofenac"
+diarrhea,fever,muscle pain,"Lomotil, Paracetamol"
+stomach cramps,,,Lomotil
+skin rash,stomach cramps,,"Cetirizine, Lomotil"
+skin rash,,,Cetirizine
+bacterial infection,,,Azithromycin
+muscle pain,respiratory infection,runny nose,"Cetirizine, Azithromycin, Paracetamol"
+heartburn,runny nose,fungal infection,"Cetirizine, Aciloc"
+itchy eyes,inflammation,,"Cetirizine, Diclofenac"
+runny nose,stomach cramps,,"Cetirizine, Lomotil"
+fever,muscle pain,,Paracetamol
+skin rash,,,Cetirizine
+itchy eyes,heartburn,,"Cetirizine, Aciloc"
+stomach acid,nausea,muscle pain,"Aciloc, Paracetamol"
+nausea,,,Aciloc
+nausea,,,Aciloc
+joint pain,stomach cramps,,"Lomotil, Diclofenac"
+pain,,,Diclofenac
+inflammation,muscle pain,diarrhea,"Lomotil, Paracetamol, Diclofenac"
+itchy eyes,respiratory infection,,"Cetirizine, Azithromycin"
+cough,diarrhea,,"Azithromycin, Lomotil"
+skin rash,fungal infection,sore throat,"Cetirizine, Azithromycin"
+joint pain,,,Diclofenac
+headache,,,Paracetamol
+pain,,,Diclofenac
+diarrhea,runny nose,,"Cetirizine, Lomotil"
+respiratory infection,nausea,,"Azithromycin, Aciloc"
+fungal infection,runny nose,joint pain,"Cetirizine, Diclofenac"
+stomach cramps,diarrhea,,Lomotil
+runny nose,nausea,,"Cetirizine, Aciloc"
+fungal infection,,,Cetirizine
+bacterial infection,,,Azithromycin
+muscle pain,,,Paracetamol
+diarrhea,runny nose,,"Cetirizine, Lomotil"
+pain,joint pain,headache,"Paracetamol, Diclofenac"
+stomach acid,skin rash,,"Cetirizine, Aciloc"
+muscle pain,fever,headache,Paracetamol
+heartburn,bacterial infection,inflammation,"Azithromycin, Aciloc, Diclofenac"
+bacterial infection,fever,,"Azithromycin, Paracetamol"
+skin rash,inflammation,,"Cetirizine, Diclofenac"
+fever,joint pain,fungal infection,"Cetirizine, Paracetamol, Diclofenac"
+nausea,headache,muscle pain,"Aciloc, Paracetamol"
+itchy eyes,,,Cetirizine
+headache,,,Paracetamol
+pain,inflammation,,Diclofenac
+headache,nausea,,"Aciloc, Paracetamol"
+pain,,,Diclofenac
+muscle pain,sneezing,itchy eyes,"Cetirizine, Paracetamol"
+cough,pain,,"Azithromycin, Diclofenac"
+runny nose,fever,skin rash,"Cetirizine, Paracetamol"
+diarrhea,sneezing,,"Cetirizine, Lomotil"
+fungal infection,,,Cetirizine
+itchy eyes,,,Cetirizine
+fever,heartburn,,"Aciloc, Paracetamol"
+respiratory infection,headache,muscle pain,"Azithromycin, Paracetamol"
+headache,,,Paracetamol
+respiratory infection,fever,bacterial infection,"Azithromycin, Paracetamol"
+runny nose,sore throat,,"Cetirizine, Azithromycin"
+pain,,,Diclofenac
+muscle pain,,,Paracetamol
+sore throat,muscle pain,runny nose,"Cetirizine, Azithromycin, Paracetamol"
+pain,bacterial infection,,"Azithromycin, Diclofenac"
+cough,headache,skin rash,"Cetirizine, Azithromycin, Paracetamol"
+fungal infection,inflammation,,"Cetirizine, Diclofenac"
+heartburn,joint pain,,"Aciloc, Diclofenac"
+skin rash,,,Cetirizine
+sneezing,,,Cetirizine
+respiratory infection,fever,,"Azithromycin, Paracetamol"
+diarrhea,,,Lomotil
+nausea,heartburn,fungal infection,"Cetirizine, Aciloc"
+runny nose,,,Cetirizine
+inflammation,,,Diclofenac
+diarrhea,sore throat,,"Azithromycin, Lomotil"
+pain,,,Diclofenac
+respiratory infection,skin rash,stomach cramps,"Cetirizine, Azithromycin, Lomotil"
+sore throat,,,Azithromycin
+stomach acid,heartburn,runny nose,"Cetirizine, Aciloc"
+headache,bacterial infection,,"Azithromycin, Paracetamol"
+respiratory infection,,,Azithromycin
+nausea,,,Aciloc
+fungal infection,joint pain,,"Cetirizine, Diclofenac"
+pain,,,Diclofenac
+stomach acid,,,Aciloc
+bacterial infection,headache,skin rash,"Cetirizine, Azithromycin, Paracetamol"
+fungal infection,stomach acid,muscle pain,"Cetirizine, Aciloc, Paracetamol"
+nausea,fungal infection,,"Cetirizine, Aciloc"
+runny nose,diarrhea,,"Cetirizine, Lomotil"
+heartburn,,,Aciloc
+respiratory infection,,,Azithromycin
+respiratory infection,pain,skin rash,"Cetirizine, Azithromycin, Diclofenac"
+bacterial infection,inflammation,sneezing,"Cetirizine, Azithromycin, Diclofenac"
+skin rash,sneezing,,Cetirizine
+sore throat,pain,sneezing,"Cetirizine, Azithromycin, Diclofenac"
+joint pain,,,Diclofenac
+cough,headache,,"Azithromycin, Paracetamol"
+stomach cramps,diarrhea,stomach acid,"Aciloc, Lomotil"
+muscle pain,fever,fungal infection,"Cetirizine, Paracetamol"
+bacterial infection,,,Azithromycin
+joint pain,cough,stomach cramps,"Azithromycin, Lomotil, Diclofenac"
+skin rash,inflammation,,"Cetirizine, Diclofenac"
+pain,cough,,"Azithromycin, Diclofenac"
+respiratory infection,itchy eyes,stomach cramps,"Cetirizine, Azithromycin, Lomotil"
+headache,,,Paracetamol
+cough,fever,headache,"Azithromycin, Paracetamol"
+skin rash,joint pain,,"Cetirizine, Diclofenac"
+bacterial infection,,,Azithromycin
+fungal infection,nausea,,"Cetirizine, Aciloc"
+diarrhea,pain,,"Lomotil, Diclofenac"
+bacterial infection,nausea,,"Azithromycin, Aciloc"
+cough,muscle pain,,"Azithromycin, Paracetamol"
+cough,sneezing,stomach acid,"Cetirizine, Azithromycin, Aciloc"
+bacterial infection,sore throat,headache,"Azithromycin, Paracetamol"
+itchy eyes,,,Cetirizine
+skin rash,,,Cetirizine
+inflammation,,,Diclofenac
+pain,headache,,"Paracetamol, Diclofenac"
+itchy eyes,,,Cetirizine
+respiratory infection,joint pain,skin rash,"Cetirizine, Azithromycin, Diclofenac"
+sore throat,,,Azithromycin
+fever,skin rash,stomach acid,"Cetirizine, Aciloc, Paracetamol"
+cough,itchy eyes,,"Cetirizine, Azithromycin"
+headache,runny nose,,"Cetirizine, Paracetamol"
+joint pain,,,Diclofenac
+runny nose,itchy eyes,nausea,"Cetirizine, Aciloc"
+bacterial infection,heartburn,stomach cramps,"Azithromycin, Lomotil, Aciloc"
+cough,bacterial infection,,Azithromycin
+heartburn,,,Aciloc
+skin rash,itchy eyes,muscle pain,"Cetirizine, Paracetamol"
+joint pain,runny nose,stomach acid,"Cetirizine, Aciloc, Diclofenac"
+runny nose,,,Cetirizine
+heartburn,,,Aciloc
+skin rash,inflammation,,"Cetirizine, Diclofenac"
+pain,,,Diclofenac
+muscle pain,fever,,Paracetamol
+joint pain,,,Diclofenac
+runny nose,muscle pain,,"Cetirizine, Paracetamol"
+sore throat,sneezing,,"Cetirizine, Azithromycin"
+skin rash,sore throat,fungal infection,"Cetirizine, Azithromycin"
+respiratory infection,sneezing,,"Cetirizine, Azithromycin"
+sneezing,diarrhea,,"Cetirizine, Lomotil"
+pain,fungal infection,,"Cetirizine, Diclofenac"
+headache,muscle pain,,Paracetamol
+fungal infection,bacterial infection,,"Cetirizine, Azithromycin"
+sore throat,,,Azithromycin
+diarrhea,joint pain,fever,"Paracetamol, Lomotil, Diclofenac"
+runny nose,,,Cetirizine
+fungal infection,pain,bacterial infection,"Cetirizine, Azithromycin, Diclofenac"
+pain,nausea,sneezing,"Cetirizine, Aciloc, Diclofenac"
+muscle pain,nausea,sneezing,"Cetirizine, Aciloc, Paracetamol"
+stomach cramps,,,Lomotil
+fever,cough,,"Azithromycin, Paracetamol"
+stomach cramps,,,Lomotil
+headache,muscle pain,,Paracetamol
+muscle pain,runny nose,headache,"Cetirizine, Paracetamol"
+skin rash,,,Cetirizine
+respiratory infection,,,Azithromycin
+heartburn,,,Aciloc
+fungal infection,bacterial infection,,"Cetirizine, Azithromycin"
+skin rash,,,Cetirizine
+headache,,,Paracetamol
+skin rash,,,Cetirizine
+muscle pain,joint pain,,"Paracetamol, Diclofenac"
+bacterial infection,joint pain,,"Azithromycin, Diclofenac"
+joint pain,,,Diclofenac
+joint pain,respiratory infection,muscle pain,"Azithromycin, Paracetamol, Diclofenac"
+headache,,,Paracetamol
+skin rash,bacterial infection,headache,"Cetirizine, Azithromycin, Paracetamol"
+bacterial infection,fungal infection,respiratory infection,"Cetirizine, Azithromycin"
+heartburn,cough,headache,"Azithromycin, Aciloc, Paracetamol"
+stomach acid,fungal infection,heartburn,"Cetirizine, Aciloc"
+muscle pain,diarrhea,,"Lomotil, Paracetamol"
+inflammation,headache,stomach cramps,"Lomotil, Paracetamol, Diclofenac"
+headache,muscle pain,,Paracetamol
+diarrhea,skin rash,fungal infection,"Cetirizine, Lomotil"
+stomach cramps,joint pain,,"Lomotil, Diclofenac"
+skin rash,itchy eyes,,Cetirizine
+headache,fungal infection,,"Cetirizine, Paracetamol"
+muscle pain,,,Paracetamol
+fever,,,Paracetamol
+fever,inflammation,,"Paracetamol, Diclofenac"
+headache,,,Paracetamol
+joint pain,,,Diclofenac
+headache,joint pain,,"Paracetamol, Diclofenac"
+stomach cramps,diarrhea,,Lomotil
+fever,,,Paracetamol
+fever,muscle pain,,Paracetamol
+stomach acid,,,Aciloc
+skin rash,,,Cetirizine
+pain,runny nose,muscle pain,"Cetirizine, Paracetamol, Diclofenac"
+fever,,,Paracetamol
+diarrhea,,,Lomotil
+pain,fever,,"Paracetamol, Diclofenac"
+sore throat,fungal infection,inflammation,"Cetirizine, Azithromycin, Diclofenac"
+joint pain,bacterial infection,,"Azithromycin, Diclofenac"
+fungal infection,fever,,"Cetirizine, Paracetamol"
+sneezing,,,Cetirizine
+sneezing,muscle pain,stomach acid,"Cetirizine, Aciloc, Paracetamol"
+respiratory infection,,,Azithromycin
+cough,diarrhea,,"Azithromycin, Lomotil"
+respiratory infection,skin rash,,"Cetirizine, Azithromycin"
+fungal infection,fever,pain,"Cetirizine, Paracetamol, Diclofenac"
+sore throat,fever,,"Azithromycin, Paracetamol"
+respiratory infection,nausea,skin rash,"Cetirizine, Azithromycin, Aciloc"
+itchy eyes,,,Cetirizine
+bacterial infection,inflammation,,"Azithromycin, Diclofenac"
+inflammation,,,Diclofenac
+bacterial infection,stomach acid,,"Azithromycin, Aciloc"
+runny nose,,,Cetirizine
+diarrhea,itchy eyes,stomach acid,"Cetirizine, Aciloc, Lomotil"
+respiratory infection,,,Azithromycin
+stomach acid,inflammation,,"Aciloc, Diclofenac"
+skin rash,sneezing,heartburn,"Cetirizine, Aciloc"
+skin rash,,,Cetirizine
+diarrhea,,,Lomotil
+pain,fungal infection,nausea,"Cetirizine, Aciloc, Diclofenac"
+nausea,,,Aciloc
+fungal infection,headache,joint pain,"Cetirizine, Paracetamol, Diclofenac"
+fever,stomach acid,,"Aciloc, Paracetamol"
+fungal infection,,,Cetirizine
+joint pain,nausea,,"Aciloc, Diclofenac"
+fever,,,Paracetamol
+nausea,joint pain,itchy eyes,"Cetirizine, Aciloc, Diclofenac"
+bacterial infection,headache,,"Azithromycin, Paracetamol"
+sore throat,,,Azithromycin
+heartburn,sore throat,cough,"Azithromycin, Aciloc"
+sneezing,,,Cetirizine
+joint pain,diarrhea,,"Lomotil, Diclofenac"
+fever,,,Paracetamol
+diarrhea,,,Lomotil
+fever,joint pain,respiratory infection,"Azithromycin, Paracetamol, Diclofenac"
+diarrhea,muscle pain,stomach cramps,"Lomotil, Paracetamol"
+sore throat,cough,fungal infection,"Cetirizine, Azithromycin"
+joint pain,cough,,"Azithromycin, Diclofenac"
+headache,,,Paracetamol
+bacterial infection,muscle pain,respiratory infection,"Azithromycin, Paracetamol"
+joint pain,pain,,Diclofenac
+nausea,,,Aciloc
+respiratory infection,diarrhea,bacterial infection,"Azithromycin, Lomotil"
+fever,bacterial infection,heartburn,"Azithromycin, Paracetamol, Aciloc"
+sneezing,,,Cetirizine
+pain,nausea,,"Aciloc, Diclofenac"
+pain,sneezing,,"Cetirizine, Diclofenac"
+headache,,,Paracetamol
+heartburn,fever,inflammation,"Aciloc, Paracetamol, Diclofenac"
+fungal infection,,,Cetirizine
+fever,fungal infection,,"Cetirizine, Paracetamol"
+runny nose,bacterial infection,itchy eyes,"Cetirizine, Azithromycin"
+stomach cramps,joint pain,,"Lomotil, Diclofenac"
+heartburn,respiratory infection,sneezing,"Azithromycin, Aciloc, Cetirizine"
+muscle pain,inflammation,bacterial infection,"Azithromycin, Paracetamol, Diclofenac"
+fever,,,Paracetamol
+heartburn,sore throat,itchy eyes,"Azithromycin, Aciloc, Cetirizine"
+runny nose,,,Cetirizine
+bacterial infection,skin rash,,"Cetirizine, Azithromycin"
+sore throat,sneezing,,"Cetirizine, Azithromycin"
+diarrhea,itchy eyes,pain,"Cetirizine, Lomotil, Diclofenac"
+skin rash,joint pain,,"Cetirizine, Diclofenac"
+nausea,,,Aciloc
+stomach acid,headache,,"Aciloc, Paracetamol"
+runny nose,,,Cetirizine
+diarrhea,,,Lomotil
+muscle pain,joint pain,,"Paracetamol, Diclofenac"
+stomach cramps,runny nose,,"Cetirizine, Lomotil"
+sneezing,nausea,,"Cetirizine, Aciloc"
+sneezing,nausea,runny nose,"Cetirizine, Aciloc"
+inflammation,cough,fungal infection,"Cetirizine, Azithromycin, Diclofenac"
+pain,itchy eyes,,"Cetirizine, Diclofenac"
+itchy eyes,,,Cetirizine
+stomach acid,inflammation,,"Aciloc, Diclofenac"
+diarrhea,stomach cramps,,Lomotil
+skin rash,fungal infection,,Cetirizine
+inflammation,diarrhea,,"Lomotil, Diclofenac"
+fever,muscle pain,cough,"Azithromycin, Paracetamol"
+cough,,,Azithromycin
+runny nose,,,Cetirizine
+sore throat,,,Azithromycin
+cough,sneezing,fungal infection,"Cetirizine, Azithromycin"
+sneezing,joint pain,sore throat,"Cetirizine, Azithromycin, Diclofenac"
+heartburn,sore throat,,"Azithromycin, Aciloc"
+heartburn,headache,cough,"Azithromycin, Aciloc, Paracetamol"
+itchy eyes,diarrhea,,"Cetirizine, Lomotil"
+stomach cramps,joint pain,,"Lomotil, Diclofenac"
+joint pain,,,Diclofenac
+skin rash,sore throat,,"Cetirizine, Azithromycin"
+cough,,,Azithromycin
+diarrhea,respiratory infection,cough,"Azithromycin, Lomotil"
+joint pain,,,Diclofenac
+bacterial infection,itchy eyes,,"Cetirizine, Azithromycin"
+cough,stomach cramps,,"Azithromycin, Lomotil"
+stomach cramps,runny nose,,"Cetirizine, Lomotil"
+pain,bacterial infection,nausea,"Azithromycin, Aciloc, Diclofenac"
+headache,sneezing,,"Cetirizine, Paracetamol"
+bacterial infection,inflammation,headache,"Azithromycin, Paracetamol, Diclofenac"
+nausea,bacterial infection,,"Azithromycin, Aciloc"
+runny nose,heartburn,,"Cetirizine, Aciloc"

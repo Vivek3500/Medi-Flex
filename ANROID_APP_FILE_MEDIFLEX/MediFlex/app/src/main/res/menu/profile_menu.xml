@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/profile_info"
+        android:title="Profile Info"/>  <!-- ✅ Text Only -->
+
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"/>  <!-- ✅ Text Only -->
+</menu>

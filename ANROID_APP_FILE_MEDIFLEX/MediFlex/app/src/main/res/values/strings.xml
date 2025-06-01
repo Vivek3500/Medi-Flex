@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MediFlex</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_login_register">Login/Register</string>
+    <string name="title_activity_welcome_back">WelcomeBackActivity</string>
+    <string name="title_activity_medicine_recommendation">MedicineRecommendationActivity</string>
+    <string name="title_activity_auth">AuthActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+</resources>
