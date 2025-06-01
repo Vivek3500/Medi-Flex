@@ -20,7 +20,7 @@
 
 | Get Started | Register | Login |
 |-------------|----------|-------|
-| ![Get Started](1.GET_STARTED.png) | ![Sign Up](./2.%20SIGN_UP.png) | ![Sign In](./3.%20SIGN_IN.png) |
+| ![image alt](https://github.com/Vivek3500/Medi-Flex/blob/5f9678185f3ac1ac3d3ecc86932a6a6dddf3bdb9/APP%20FINAL%20PROTOTYPE/1.%20GET_STARTED.png) | ![Sign Up](https://github.com/Vivek3500/Medi-Flex/blob/5f9678185f3ac1ac3d3ecc86932a6a6dddf3bdb9/APP%20FINAL%20PROTOTYPE/2.%20SIGN_UP.png) | ![Sign In](https://github.com/Vivek3500/Medi-Flex/blob/5f9678185f3ac1ac3d3ecc86932a6a6dddf3bdb9/APP%20FINAL%20PROTOTYPE/3.%20SIGN_IN.png) |
 
 ---
 
